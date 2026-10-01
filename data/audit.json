@@ -1,0 +1,5242 @@
+{
+  "summary": {
+    "sourceCounts": {
+      "100-everyday-english-speaking-patterns(1).md": 100,
+      "100-more-english-speaking-patterns-101-200(1).md": 100,
+      "spoken-english-1040(1).md": 1040,
+      "spoken-english-vocabulary-arabic(1).md": 1040
+    },
+    "vocabularyCount": 1653,
+    "patternCount": 200,
+    "variationCount": 600,
+    "sourceRows": 2080,
+    "consolidatedRows": 427,
+    "contextCount": 802,
+    "overlappingHeadwords": 427
+  },
+  "overlaps": [
+    {
+      "english": "by the way",
+      "rows": 2,
+      "translations": [
+        "بالمناسبة"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "anyway",
+      "rows": 2,
+      "translations": [
+        "على أي حال؛ نرجع لموضوعنا",
+        "على أي حال"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "actually",
+      "rows": 2,
+      "translations": [
+        "في الحقيقة؛ الحقيقة إن",
+        "في الحقيقة"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "basically",
+      "rows": 2,
+      "translations": [
+        "ببساطة؛ الخلاصة إن",
+        "ببساطة؛ في الأساس"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "I mean",
+      "rows": 2,
+      "translations": [
+        "أقصد؛ يعني",
+        "أقصد"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "you know",
+      "rows": 2,
+      "translations": [
+        "عارف؛ فاهم قصدي",
+        "كما تعرف؛ فاهم قصدي"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "as I was saying",
+      "rows": 2,
+      "translations": [
+        "زي ما كنت بقول",
+        "كما كنت أقول"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "that reminds me",
+      "rows": 2,
+      "translations": [
+        "ده فكرني",
+        "هذا يذكرني بـ"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "the thing is",
+      "rows": 2,
+      "translations": [
+        "المشكلة أو الفكرة إن",
+        "الفكرة هي؛ المشكلة هي"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "to be honest",
+      "rows": 2,
+      "translations": [
+        "بصراحة"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "how come",
+      "rows": 2,
+      "translations": [
+        "إزاي؛ ليه",
+        "كيف ذلك؟؛ لماذا؟"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "what's going on",
+      "rows": 2,
+      "translations": [
+        "إيه اللي بيحصل",
+        "ما الذي يجري؟"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "for instance",
+      "rows": 2,
+      "translations": [
+        "مثلًا"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "as far as I know",
+      "rows": 2,
+      "translations": [
+        "على حد علمي",
+        "على حدّ علمي"
+      ],
+      "categories": [
+        "c01",
+        "c06"
+      ]
+    },
+    {
+      "english": "where was I",
+      "rows": 2,
+      "translations": [
+        "كنت بقول إيه",
+        "أين توقفت في كلامي؟"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "before I forget",
+      "rows": 2,
+      "translations": [
+        "قبل ما أنسى",
+        "قبل أن أنسى"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "one more thing",
+      "rows": 2,
+      "translations": [
+        "حاجة كمان",
+        "هناك شيء آخر"
+      ],
+      "categories": [
+        "c01"
+      ]
+    },
+    {
+      "english": "could you say that again",
+      "rows": 2,
+      "translations": [
+        "ممكن تقول ده تاني",
+        "هل يمكنك إعادة ما قلت؟"
+      ],
+      "categories": [
+        "c02",
+        "c01"
+      ]
+    },
+    {
+      "english": "I didn't catch that",
+      "rows": 2,
+      "translations": [
+        "مسمعتش أو مفهمتش اللي اتقال",
+        "لم أسمع ما قلت جيدًا"
+      ],
+      "categories": [
+        "c02",
+        "c01"
+      ]
+    },
+    {
+      "english": "in other words",
+      "rows": 2,
+      "translations": [
+        "بمعنى تاني",
+        "بمعنى آخر"
+      ],
+      "categories": [
+        "c02",
+        "c01"
+      ]
+    },
+    {
+      "english": "what I meant was",
+      "rows": 2,
+      "translations": [
+        "اللي كنت أقصده هو",
+        "ما كنت أقصده هو"
+      ],
+      "categories": [
+        "c02",
+        "c01"
+      ]
+    },
+    {
+      "english": "my mistake",
+      "rows": 2,
+      "translations": [
+        "غلطتي",
+        "أخطأت"
+      ],
+      "categories": [
+        "c02",
+        "c12"
+      ]
+    },
+    {
+      "english": "recognize",
+      "rows": 2,
+      "translations": [
+        "يتعرف على؛ يميز",
+        "يتعرف على"
+      ],
+      "categories": [
+        "c02",
+        "c07"
+      ]
+    },
+    {
+      "english": "make sense",
+      "rows": 2,
+      "translations": [
+        "يبقى مفهوم أو منطقي",
+        "يكون منطقيًا"
+      ],
+      "categories": [
+        "c02",
+        "c03"
+      ]
+    },
+    {
+      "english": "more or less",
+      "rows": 2,
+      "translations": [
+        "تقريبًا"
+      ],
+      "categories": [
+        "c02",
+        "c06"
+      ]
+    },
+    {
+      "english": "leave out",
+      "rows": 2,
+      "translations": [
+        "يسيب جزء؛ يحذف",
+        "يحذف؛ ينسى إدراج"
+      ],
+      "categories": [
+        "c02",
+        "c13"
+      ]
+    },
+    {
+      "english": "point out",
+      "rows": 2,
+      "translations": [
+        "يلفت النظر إلى",
+        "يلفت الانتباه إلى"
+      ],
+      "categories": [
+        "c02",
+        "c01"
+      ]
+    },
+    {
+      "english": "go over",
+      "rows": 2,
+      "translations": [
+        "يراجع"
+      ],
+      "categories": [
+        "c02",
+        "c16"
+      ]
+    },
+    {
+      "english": "clear up",
+      "rows": 2,
+      "translations": [
+        "يوضح لبسًا",
+        "يزيل الالتباس؛ يوضح"
+      ],
+      "categories": [
+        "c02",
+        "c13"
+      ]
+    },
+    {
+      "english": "personally",
+      "rows": 2,
+      "translations": [
+        "بالنسبة لي شخصيًا"
+      ],
+      "categories": [
+        "c03"
+      ]
+    },
+    {
+      "english": "I reckon",
+      "rows": 2,
+      "translations": [
+        "أنا شايف؛ أظن",
+        "أعتقد؛ أظن"
+      ],
+      "categories": [
+        "c03"
+      ]
+    },
+    {
+      "english": "I'd say",
+      "rows": 2,
+      "translations": [
+        "أقدر أقول؛ رأيي إن",
+        "أقول إن؛ تقديري هو"
+      ],
+      "categories": [
+        "c03"
+      ]
+    },
+    {
+      "english": "the way I see it",
+      "rows": 2,
+      "translations": [
+        "زي ما أنا شايف الموضوع",
+        "حسب فهمي للموضوع"
+      ],
+      "categories": [
+        "c03"
+      ]
+    },
+    {
+      "english": "I'd rather",
+      "rows": 2,
+      "translations": [
+        "أفضل إني",
+        "أفضل أن"
+      ],
+      "categories": [
+        "c03",
+        "c27"
+      ]
+    },
+    {
+      "english": "appeal to",
+      "rows": 2,
+      "translations": [
+        "يعجب؛ يجذب"
+      ],
+      "categories": [
+        "c03",
+        "c27"
+      ]
+    },
+    {
+      "english": "be worth it",
+      "rows": 2,
+      "translations": [
+        "يستاهل",
+        "يستحق"
+      ],
+      "categories": [
+        "c03",
+        "c27"
+      ]
+    },
+    {
+      "english": "make a difference",
+      "rows": 2,
+      "translations": [
+        "يعمل فرق",
+        "يُحدث فرقًا"
+      ],
+      "categories": [
+        "c03"
+      ]
+    },
+    {
+      "english": "priority",
+      "rows": 2,
+      "translations": [
+        "أولوية"
+      ],
+      "categories": [
+        "c03",
+        "c09"
+      ]
+    },
+    {
+      "english": "reasonable",
+      "rows": 2,
+      "translations": [
+        "معقول"
+      ],
+      "categories": [
+        "c03"
+      ]
+    },
+    {
+      "english": "sensible",
+      "rows": 2,
+      "translations": [
+        "عملي وعاقل",
+        "عاقل؛ يتصرف بحكمة"
+      ],
+      "categories": [
+        "c03",
+        "c11"
+      ]
+    },
+    {
+      "english": "practical",
+      "rows": 2,
+      "translations": [
+        "عملي"
+      ],
+      "categories": [
+        "c03"
+      ]
+    },
+    {
+      "english": "convenient",
+      "rows": 2,
+      "translations": [
+        "مريح؛ مناسب",
+        "مناسب؛ يسهل الأمور"
+      ],
+      "categories": [
+        "c03",
+        "c23"
+      ]
+    },
+    {
+      "english": "reliable",
+      "rows": 2,
+      "translations": [
+        "ممكن الاعتماد عليه",
+        "يمكن الاعتماد عليه"
+      ],
+      "categories": [
+        "c03",
+        "c11"
+      ]
+    },
+    {
+      "english": "exactly",
+      "rows": 2,
+      "translations": [
+        "بالضبط"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "absolutely",
+      "rows": 2,
+      "translations": [
+        "أكيد؛ تمامًا",
+        "بالتأكيد؛ تمامًا"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "fair enough",
+      "rows": 2,
+      "translations": [
+        "تمام؛ وجهة نظر مقبولة",
+        "كلام مقبول؛ معك حق في ذلك"
+      ],
+      "categories": [
+        "c04",
+        "c03"
+      ]
+    },
+    {
+      "english": "that's a good point",
+      "rows": 2,
+      "translations": [
+        "دي نقطة مهمة",
+        "هذه نقطة وجيهة"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "I see your point",
+      "rows": 2,
+      "translations": [
+        "أنا فاهم وجهة نظرك",
+        "أفهم وجهة نظرك"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "I couldn't agree more",
+      "rows": 2,
+      "translations": [
+        "متفق معاك تمامًا",
+        "أوافقك تمامًا"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "I suppose so",
+      "rows": 2,
+      "translations": [
+        "أعتقد كده",
+        "أظن ذلك"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "not necessarily",
+      "rows": 2,
+      "translations": [
+        "مش بالضرورة",
+        "ليس بالضرورة"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "I wouldn't say that",
+      "rows": 2,
+      "translations": [
+        "مش شايف إن ده صحيح",
+        "لا أرى الأمر بهذا الشكل"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "I'm not convinced",
+      "rows": 2,
+      "translations": [
+        "أنا مش مقتنع",
+        "لست مقتنعًا"
+      ],
+      "categories": [
+        "c04",
+        "c06"
+      ]
+    },
+    {
+      "english": "no wonder",
+      "rows": 2,
+      "translations": [
+        "مش غريب؛ عشان كده",
+        "لا عجب"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "what a relief",
+      "rows": 2,
+      "translations": [
+        "يا له من ارتياح؛ الحمد لله",
+        "يا له من شعور بالراحة!"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "that's a shame",
+      "rows": 2,
+      "translations": [
+        "خسارة؛ حاجة تزعل",
+        "هذا مؤسف"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "good for you",
+      "rows": 2,
+      "translations": [
+        "برافو عليك",
+        "شيء رائع لك؛ أحسنت"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "I'm glad to hear that",
+      "rows": 2,
+      "translations": [
+        "مبسوط إني سمعت ده",
+        "يسعدني سماع ذلك"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "that's impressive",
+      "rows": 2,
+      "translations": [
+        "ده شيء مبهر",
+        "هذا يثير الإعجاب"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "you're kidding",
+      "rows": 2,
+      "translations": [
+        "أنت بتهزر",
+        "لا بد أنك تمزح"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "seriously",
+      "rows": 2,
+      "translations": [
+        "بجد",
+        "هل تتكلم بجد؟"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "that's understandable",
+      "rows": 2,
+      "translations": [
+        "ده مفهوم وطبيعي",
+        "هذا مفهوم؛ يمكن تفهّمه"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "what a coincidence",
+      "rows": 2,
+      "translations": [
+        "يا لها من صدفة",
+        "يا لها من صدفة!"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "that's a bit much",
+      "rows": 2,
+      "translations": [
+        "ده زيادة عن اللزوم",
+        "هذا مبالغ فيه قليلًا"
+      ],
+      "categories": [
+        "c04"
+      ]
+    },
+    {
+      "english": "because of",
+      "rows": 2,
+      "translations": [
+        "بسبب"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "due to",
+      "rows": 2,
+      "translations": [
+        "بسبب",
+        "بسبب؛ نتيجةً لـ"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "that's why",
+      "rows": 2,
+      "translations": [
+        "عشان كده",
+        "لهذا السبب"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "that's because",
+      "rows": 2,
+      "translations": [
+        "ده لأن",
+        "وذلك لأن"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "the reason is",
+      "rows": 2,
+      "translations": [
+        "السبب هو"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "so that",
+      "rows": 2,
+      "translations": [
+        "عشان؛ لكي",
+        "حتى؛ لكي"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "in case",
+      "rows": 2,
+      "translations": [
+        "احتياطًا لو",
+        "تحسبًا لـ؛ في حال"
+      ],
+      "categories": [
+        "c05",
+        "c06"
+      ]
+    },
+    {
+      "english": "otherwise",
+      "rows": 2,
+      "translations": [
+        "وإلا"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "as a result",
+      "rows": 2,
+      "translations": [
+        "ونتيجة لكده",
+        "نتيجةً لذلك"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "thanks to",
+      "rows": 2,
+      "translations": [
+        "بفضل"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "for some reason",
+      "rows": 2,
+      "translations": [
+        "لسبب ما"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "for no reason",
+      "rows": 2,
+      "translations": [
+        "من غير سبب",
+        "دون سبب"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "even though",
+      "rows": 2,
+      "translations": [
+        "مع إن",
+        "رغم أن"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "although",
+      "rows": 2,
+      "translations": [
+        "رغم إن",
+        "مع أن"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "despite",
+      "rows": 2,
+      "translations": [
+        "رغم",
+        "بالرغم من"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "on the other hand",
+      "rows": 2,
+      "translations": [
+        "من ناحية تانية",
+        "من ناحية أخرى"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "at the same time",
+      "rows": 2,
+      "translations": [
+        "وفي نفس الوقت",
+        "في الوقت نفسه"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "instead of",
+      "rows": 2,
+      "translations": [
+        "بدل من",
+        "بدلًا من"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "rather than",
+      "rows": 2,
+      "translations": [
+        "بدل ما؛ عوضًا عن",
+        "بدلًا من؛ وليس"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "apart from",
+      "rows": 2,
+      "translations": [
+        "بخلاف؛ باستثناء",
+        "بخلاف؛ بالإضافة إلى"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "except for",
+      "rows": 2,
+      "translations": [
+        "باستثناء"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "after all",
+      "rows": 2,
+      "translations": [
+        "في النهاية؛ ما هو",
+        "في النهاية؛ إذا فكّرنا في الأمر"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "unless",
+      "rows": 2,
+      "translations": [
+        "إلا لو",
+        "إلا إذا"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "as long as",
+      "rows": 2,
+      "translations": [
+        "طالما",
+        "طالما؛ بشرط أن"
+      ],
+      "categories": [
+        "c05"
+      ]
+    },
+    {
+      "english": "apparently",
+      "rows": 2,
+      "translations": [
+        "على ما يبدو؛ حسب اللي اتقال",
+        "على ما يبدو"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "probably",
+      "rows": 2,
+      "translations": [
+        "غالبًا؛ على الأرجح",
+        "على الأرجح"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "possibly",
+      "rows": 2,
+      "translations": [
+        "ممكن",
+        "ربما؛ من الممكن"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "unlikely",
+      "rows": 2,
+      "translations": [
+        "غير مرجح",
+        "غير مرجّح"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "I guess",
+      "rows": 2,
+      "translations": [
+        "أعتقد؛ أظن",
+        "أظن؛ أخمّن"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "there's a chance",
+      "rows": 2,
+      "translations": [
+        "فيه احتمال",
+        "هناك احتمال"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "you never know",
+      "rows": 2,
+      "translations": [
+        "مين عارف؛ ممكن",
+        "لا أحد يعرف؛ كل شيء ممكن"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "I could be wrong",
+      "rows": 2,
+      "translations": [
+        "ممكن أكون غلطان",
+        "قد أكون مخطئًا"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "as far as I can tell",
+      "rows": 2,
+      "translations": [
+        "على قد ما أقدر أفهم أو أشوف",
+        "حسب ما أستطيع ملاحظته"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "expect",
+      "rows": 2,
+      "translations": [
+        "يتوقع"
+      ],
+      "categories": [
+        "c06",
+        "c03"
+      ]
+    },
+    {
+      "english": "be supposed to",
+      "rows": 2,
+      "translations": [
+        "المفروض إنه",
+        "من المفترض أن"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "be willing to",
+      "rows": 2,
+      "translations": [
+        "يكون مستعد إنه",
+        "يكون مستعدًا لفعل"
+      ],
+      "categories": [
+        "c06",
+        "c09"
+      ]
+    },
+    {
+      "english": "uncertain",
+      "rows": 2,
+      "translations": [
+        "غير متأكد؛ غير محسوم",
+        "غير محسوم؛ غير مؤكد"
+      ],
+      "categories": [
+        "c06"
+      ]
+    },
+    {
+      "english": "confident",
+      "rows": 2,
+      "translations": [
+        "واثق",
+        "واثق من نفسه"
+      ],
+      "categories": [
+        "c06",
+        "c10"
+      ]
+    },
+    {
+      "english": "at first",
+      "rows": 2,
+      "translations": [
+        "في الأول",
+        "في البداية"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "all of a sudden",
+      "rows": 2,
+      "translations": [
+        "فجأة",
+        "فجأة ودون مقدمات"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "meanwhile",
+      "rows": 2,
+      "translations": [
+        "في الوقت ده؛ في الأثناء",
+        "في أثناء ذلك"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "in the meantime",
+      "rows": 2,
+      "translations": [
+        "لحد ما ده يحصل",
+        "في هذه الأثناء"
+      ],
+      "categories": [
+        "c07",
+        "c08"
+      ]
+    },
+    {
+      "english": "by the time",
+      "rows": 2,
+      "translations": [
+        "على ما؛ بحلول الوقت اللي",
+        "بحلول الوقت الذي"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "just as",
+      "rows": 2,
+      "translations": [
+        "في نفس اللحظة اللي",
+        "في اللحظة التي"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "eventually",
+      "rows": 2,
+      "translations": [
+        "في الآخر بعد وقت",
+        "في النهاية؛ بعد فترة"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "in the end",
+      "rows": 2,
+      "translations": [
+        "في الآخر",
+        "في النهاية"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "end up",
+      "rows": 2,
+      "translations": [
+        "ينتهي به الأمر",
+        "ينتهي به الأمر إلى"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "look back on",
+      "rows": 2,
+      "translations": [
+        "يفتكر تجربة وينظر لها",
+        "يسترجع ما حدث في"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "go through",
+      "rows": 2,
+      "translations": [
+        "يمر بتجربة",
+        "يمرّ بتجربة صعبة"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "come across",
+      "rows": 2,
+      "translations": [
+        "يصادف؛ يلاقي بالصدفة",
+        "يعثر على شيء بالصدفة"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "run into",
+      "rows": 2,
+      "translations": [
+        "يقابل بالصدفة",
+        "يقابل شخصًا بالصدفة"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "happen to",
+      "rows": 2,
+      "translations": [
+        "يصادف إنه",
+        "يصادف أن"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "realize",
+      "rows": 2,
+      "translations": [
+        "يدرك؛ يلاحظ",
+        "يدرك"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "notice",
+      "rows": 2,
+      "translations": [
+        "ياخد باله من",
+        "يلاحظ"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "used to",
+      "rows": 2,
+      "translations": [
+        "كان بيعمل زمان",
+        "كان يفعل في الماضي"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "for the first time",
+      "rows": 2,
+      "translations": [
+        "لأول مرة"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "from then on",
+      "rows": 2,
+      "translations": [
+        "من وقتها فصاعدًا",
+        "من ذلك الوقت فصاعدًا"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "to my surprise",
+      "rows": 2,
+      "translations": [
+        "واللي فاجأني",
+        "على غير ما توقعت"
+      ],
+      "categories": [
+        "c07"
+      ]
+    },
+    {
+      "english": "lately",
+      "rows": 2,
+      "translations": [
+        "مؤخرًا؛ الفترة الأخيرة",
+        "مؤخرًا؛ في الفترة الأخيرة"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "recently",
+      "rows": 2,
+      "translations": [
+        "مؤخرًا",
+        "حديثًا؛ منذ وقت قريب"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "these days",
+      "rows": 2,
+      "translations": [
+        "الأيام دي",
+        "هذه الأيام"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "nowadays",
+      "rows": 2,
+      "translations": [
+        "دلوقتي؛ في الزمن الحالي",
+        "في أيامنا هذه"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "for a while",
+      "rows": 2,
+      "translations": [
+        "لفترة",
+        "لفترة من الوقت"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "it's been a while",
+      "rows": 2,
+      "translations": [
+        "بقالنا فترة",
+        "مضى وقت طويل"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "so far",
+      "rows": 2,
+      "translations": [
+        "لحد دلوقتي",
+        "حتى الآن"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "for now",
+      "rows": 2,
+      "translations": [
+        "في الوقت الحالي"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "sooner or later",
+      "rows": 2,
+      "translations": [
+        "عاجلًا أو آجلًا",
+        "عاجلًا أم آجلًا"
+      ],
+      "categories": [
+        "c08",
+        "c06"
+      ]
+    },
+    {
+      "english": "at the moment",
+      "rows": 2,
+      "translations": [
+        "في اللحظة دي؛ حاليًا",
+        "حاليًا؛ في هذه اللحظة"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "at some point",
+      "rows": 2,
+      "translations": [
+        "في وقت ما"
+      ],
+      "categories": [
+        "c08",
+        "c06"
+      ]
+    },
+    {
+      "english": "once in a while",
+      "rows": 2,
+      "translations": [
+        "كل فترة",
+        "من حين لآخر"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "every now and then",
+      "rows": 2,
+      "translations": [
+        "من وقت للتاني",
+        "بين الحين والآخر"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "hardly ever",
+      "rows": 2,
+      "translations": [
+        "نادرًا جدًا"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "occasionally",
+      "rows": 2,
+      "translations": [
+        "أحيانًا على فترات",
+        "أحيانًا"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "regularly",
+      "rows": 2,
+      "translations": [
+        "بانتظام"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "constantly",
+      "rows": 2,
+      "translations": [
+        "باستمرار"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "in advance",
+      "rows": 2,
+      "translations": [
+        "مقدمًا",
+        "مسبقًا"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "at short notice",
+      "rows": 2,
+      "translations": [
+        "قبلها بوقت قصير",
+        "دون وقت كافٍ للاستعداد"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "at the last minute",
+      "rows": 2,
+      "translations": [
+        "في آخر لحظة",
+        "في اللحظة الأخيرة"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "ahead of time",
+      "rows": 2,
+      "translations": [
+        "قبل المعاد",
+        "قبل الموعد"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "behind schedule",
+      "rows": 2,
+      "translations": [
+        "متأخر عن الجدول",
+        "متأخر عن الجدول المحدد"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "on time",
+      "rows": 2,
+      "translations": [
+        "في المعاد",
+        "في الموعد المحدد"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "in time",
+      "rows": 2,
+      "translations": [
+        "قبل ما الوقت يفوت",
+        "قبل فوات الأوان"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "a couple of",
+      "rows": 2,
+      "translations": [
+        "اتنين تقريبًا؛ كام",
+        "اثنان من؛ بضعة"
+      ],
+      "categories": [
+        "c08"
+      ]
+    },
+    {
+      "english": "plan ahead",
+      "rows": 2,
+      "translations": [
+        "يخطط من بدري",
+        "يخطط مسبقًا"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "intend to",
+      "rows": 2,
+      "translations": [
+        "ينوي إنه",
+        "ينوي أن"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "be thinking of",
+      "rows": 2,
+      "translations": [
+        "يفكر في إنه",
+        "يفكر في"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "make up my mind",
+      "rows": 2,
+      "translations": [
+        "يحسم قراره",
+        "أحسم قراري"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "change my mind",
+      "rows": 2,
+      "translations": [
+        "يغير رأيه",
+        "أغيّر رأيي"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "make a decision",
+      "rows": 2,
+      "translations": [
+        "ياخد قرار",
+        "يتخذ قرارًا"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "option",
+      "rows": 2,
+      "translations": [
+        "اختيار متاح",
+        "خيار"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "alternative",
+      "rows": 2,
+      "translations": [
+        "بديل"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "backup plan",
+      "rows": 2,
+      "translations": [
+        "خطة بديلة"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "reschedule",
+      "rows": 2,
+      "translations": [
+        "يغير الموعد",
+        "يغيّر الموعد"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "postpone",
+      "rows": 2,
+      "translations": [
+        "يؤجل",
+        "يؤجّل إلى وقت لاحق"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "put off",
+      "rows": 2,
+      "translations": [
+        "يأجل حاجة مش عايز يعملها دلوقتي",
+        "يؤجّل"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "keep my options open",
+      "rows": 2,
+      "translations": [
+        "يسيب اختياراته مفتوحة",
+        "أترك الخيارات متاحة"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "go ahead with",
+      "rows": 2,
+      "translations": [
+        "ينفذ؛ يمضي في",
+        "يمضي في تنفيذ"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "follow through",
+      "rows": 2,
+      "translations": [
+        "يكمل اللي قرر يعمله",
+        "يكمل ما بدأه أو التزم به"
+      ],
+      "categories": [
+        "c09",
+        "c13"
+      ]
+    },
+    {
+      "english": "take a chance",
+      "rows": 2,
+      "translations": [
+        "يجرب رغم المخاطرة",
+        "يجرب مع احتمال الفشل"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "aim to",
+      "rows": 2,
+      "translations": [
+        "يهدف إنه",
+        "يهدف إلى"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "sleep on it",
+      "rows": 2,
+      "translations": [
+        "يفكر في القرار لبكرة",
+        "يؤجل القرار حتى اليوم التالي للتفكير"
+      ],
+      "categories": [
+        "c09"
+      ]
+    },
+    {
+      "english": "relieved",
+      "rows": 2,
+      "translations": [
+        "مرتاح بعد قلق",
+        "مرتاح بعد زوال القلق"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "frustrated",
+      "rows": 2,
+      "translations": [
+        "محبط ومتضايق",
+        "محبط بسبب صعوبة أو عائق"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "anxious",
+      "rows": 2,
+      "translations": [
+        "قلقان ومتوتر",
+        "متوتر وقلق"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "embarrassed",
+      "rows": 2,
+      "translations": [
+        "محرج"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "awkward",
+      "rows": 2,
+      "translations": [
+        "محسوس فيه إحراج أو عدم ارتياح",
+        "محرج؛ غير مريح"
+      ],
+      "categories": [
+        "c10",
+        "c23"
+      ]
+    },
+    {
+      "english": "disappointed",
+      "rows": 2,
+      "translations": [
+        "خائب الأمل"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "annoyed",
+      "rows": 2,
+      "translations": [
+        "متضايق",
+        "متضايق؛ منزعج"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "upset",
+      "rows": 2,
+      "translations": [
+        "زعلان؛ متضايق",
+        "متضايق؛ حزين"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "exhausted",
+      "rows": 2,
+      "translations": [
+        "مرهق جدًا"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "lonely",
+      "rows": 2,
+      "translations": [
+        "حاسس بالوحدة",
+        "يشعر بالوحدة"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "homesick",
+      "rows": 2,
+      "translations": [
+        "مشتاق لبيته وأهله",
+        "مشتاق إلى البيت أو الوطن"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "guilty",
+      "rows": 2,
+      "translations": [
+        "حاسس بالذنب",
+        "يشعر بالذنب"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "jealous",
+      "rows": 2,
+      "translations": [
+        "غيران",
+        "غيور"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "grateful",
+      "rows": 2,
+      "translations": [
+        "ممتن"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "hopeful",
+      "rows": 2,
+      "translations": [
+        "عنده أمل",
+        "متفائل؛ لديه أمل"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "curious",
+      "rows": 2,
+      "translations": [
+        "فضولي؛ عايز يعرف",
+        "فضولي؛ يحب المعرفة"
+      ],
+      "categories": [
+        "c10",
+        "c11"
+      ]
+    },
+    {
+      "english": "in a good mood",
+      "rows": 2,
+      "translations": [
+        "مزاجه كويس",
+        "في مزاج جيد"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "in a bad mood",
+      "rows": 2,
+      "translations": [
+        "مزاجه وحش",
+        "في مزاج سيئ"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "cheer up",
+      "rows": 2,
+      "translations": [
+        "يفرح؛ يتحسن مزاجه",
+        "يتحسن مزاجه؛ يُبهج"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "calm down",
+      "rows": 2,
+      "translations": [
+        "يهدى",
+        "يهدأ"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "get over",
+      "rows": 2,
+      "translations": [
+        "يتجاوز؛ يتعافى من",
+        "يتجاوز حزنًا أو صدمة"
+      ],
+      "categories": [
+        "c10"
+      ]
+    },
+    {
+      "english": "let down",
+      "rows": 2,
+      "translations": [
+        "يخذل"
+      ],
+      "categories": [
+        "c10",
+        "c12"
+      ]
+    },
+    {
+      "english": "be in the mood for",
+      "rows": 2,
+      "translations": [
+        "يكون له مزاج لـ",
+        "يكون لديه مزاج لـ"
+      ],
+      "categories": [
+        "c10",
+        "c27"
+      ]
+    },
+    {
+      "english": "thoughtful",
+      "rows": 2,
+      "translations": [
+        "بيراعي غيره",
+        "يراعي الآخرين"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "easy-going",
+      "rows": 2,
+      "translations": [
+        "هادي ومرن في التعامل",
+        "سهل التعامل؛ غير متشدد"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "outgoing",
+      "rows": 2,
+      "translations": [
+        "اجتماعي ومقبل على الناس",
+        "اجتماعي"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "reserved",
+      "rows": 2,
+      "translations": [
+        "كتوم ومتحفظ",
+        "متحفظ في إظهار أفكاره ومشاعره"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "approachable",
+      "rows": 2,
+      "translations": [
+        "سهل تكلمه وتطلب منه مساعدة",
+        "يسهل الحديث معه"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "selfish",
+      "rows": 2,
+      "translations": [
+        "أناني"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "stubborn",
+      "rows": 2,
+      "translations": [
+        "عنيد"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "sensitive",
+      "rows": 2,
+      "translations": [
+        "حساس"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "generous",
+      "rows": 2,
+      "translations": [
+        "كريم"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "rude",
+      "rows": 2,
+      "translations": [
+        "وقح؛ قليل الذوق",
+        "فظ؛ قليل الأدب"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "responsible",
+      "rows": 2,
+      "translations": [
+        "مسؤول ويعتمد عليه",
+        "يتحمل المسؤولية"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "careless",
+      "rows": 2,
+      "translations": [
+        "مهمل",
+        "مهمل؛ غير منتبه"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "down-to-earth",
+      "rows": 2,
+      "translations": [
+        "واقعي وبسيط في التعامل",
+        "واقعي وبسيط في تعامله"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "supportive",
+      "rows": 2,
+      "translations": [
+        "مساند",
+        "داعم للآخرين"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "competitive",
+      "rows": 2,
+      "translations": [
+        "بيحب المنافسة",
+        "يحب المنافسة"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "independent",
+      "rows": 2,
+      "translations": [
+        "مستقل"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "get along with",
+      "rows": 2,
+      "translations": [
+        "ينسجم مع"
+      ],
+      "categories": [
+        "c11",
+        "c12"
+      ]
+    },
+    {
+      "english": "look up to",
+      "rows": 2,
+      "translations": [
+        "يحترم ويعتبر قدوة"
+      ],
+      "categories": [
+        "c11",
+        "c12"
+      ]
+    },
+    {
+      "english": "look down on",
+      "rows": 2,
+      "translations": [
+        "يبص باحتقار لـ",
+        "ينظر باستعلاء إلى"
+      ],
+      "categories": [
+        "c11",
+        "c12"
+      ]
+    },
+    {
+      "english": "interrupt",
+      "rows": 2,
+      "translations": [
+        "يقاطع الكلام",
+        "يقاطع المتحدث"
+      ],
+      "categories": [
+        "c11",
+        "c01"
+      ]
+    },
+    {
+      "english": "keep a promise",
+      "rows": 2,
+      "translations": [
+        "يوفي بوعد",
+        "يفي بوعد"
+      ],
+      "categories": [
+        "c11"
+      ]
+    },
+    {
+      "english": "keep in touch",
+      "rows": 2,
+      "translations": [
+        "يفضل على تواصل",
+        "يبقى على تواصل"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "lose touch",
+      "rows": 2,
+      "translations": [
+        "ينقطع التواصل"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "catch up with",
+      "rows": 2,
+      "translations": [
+        "يتقابل ويحكي آخر الأخبار مع",
+        "يتبادل آخر الأخبار مع"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "hang out",
+      "rows": 2,
+      "translations": [
+        "يقضي وقت مع الناس",
+        "يقضي وقتًا مع الآخرين"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "get together",
+      "rows": 2,
+      "translations": [
+        "يتجمع؛ يتقابل",
+        "يجتمعون للقاء اجتماعي"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "invite over",
+      "rows": 2,
+      "translations": [
+        "يعزم حد في بيته",
+        "يدعو شخصًا إلى البيت"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "drop by",
+      "rows": 2,
+      "translations": [
+        "يعدي زيارة سريعة",
+        "يمرّ لزيارة قصيرة"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "show up",
+      "rows": 2,
+      "translations": [
+        "يظهر؛ يحضر",
+        "يحضر؛ يظهر"
+      ],
+      "categories": [
+        "c12",
+        "c07"
+      ]
+    },
+    {
+      "english": "join in",
+      "rows": 2,
+      "translations": [
+        "يشارك مع المجموعة",
+        "يشارك في نشاط"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "get to know",
+      "rows": 2,
+      "translations": [
+        "يتعرف على حد تدريجيًا",
+        "يتعرف على تدريجيًا"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "introduce myself",
+      "rows": 2,
+      "translations": [
+        "يعرف نفسه",
+        "أعرّف بنفسي"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "mutual friend",
+      "rows": 2,
+      "translations": [
+        "صديق مشترك"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "close friend",
+      "rows": 2,
+      "translations": [
+        "صديق مقرب",
+        "صديق مقرّب"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "partner",
+      "rows": 2,
+      "translations": [
+        "شريك حياة",
+        "شريك؛ شريك حياة"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "flatmate",
+      "rows": 2,
+      "translations": [
+        "حد ساكن معاك في نفس الشقة",
+        "شخص يشاركك السكن"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "fall out with",
+      "rows": 2,
+      "translations": [
+        "يتخاصم مع"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "make up with",
+      "rows": 2,
+      "translations": [
+        "يتصالح مع"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "ask out",
+      "rows": 2,
+      "translations": [
+        "يطلب الخروج في موعد عاطفي",
+        "يدعو إلى موعد عاطفي"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "feel left out",
+      "rows": 2,
+      "translations": [
+        "يحس إنه مستبعد",
+        "يشعر بأنه مستبعد"
+      ],
+      "categories": [
+        "c12",
+        "c10"
+      ]
+    },
+    {
+      "english": "be there for",
+      "rows": 2,
+      "translations": [
+        "يساند ويقف جنب",
+        "يكون حاضرًا لدعم"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "count on",
+      "rows": 2,
+      "translations": [
+        "يعتمد على",
+        "يعوّل على"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "make an effort",
+      "rows": 2,
+      "translations": [
+        "يبذل مجهود",
+        "يبذل مجهودًا"
+      ],
+      "categories": [
+        "c12"
+      ]
+    },
+    {
+      "english": "issue",
+      "rows": 2,
+      "translations": [
+        "مشكلة أو نقطة محتاجة حل",
+        "مسألة؛ مشكلة"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "difficulty",
+      "rows": 2,
+      "translations": [
+        "صعوبة"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "challenge",
+      "rows": 2,
+      "translations": [
+        "تحدي",
+        "تحدٍّ"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "obstacle",
+      "rows": 2,
+      "translations": [
+        "عقبة",
+        "عائق"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "fault",
+      "rows": 2,
+      "translations": [
+        "غلطة؛ مسؤولية عن الغلط",
+        "عطل؛ خلل"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "be to blame",
+      "rows": 2,
+      "translations": [
+        "يكون هو السبب في الغلط",
+        "يكون مسؤولًا عن الخطأ"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "go wrong",
+      "rows": 2,
+      "translations": [
+        "يحصل فيه خلل",
+        "يسير بشكل خاطئ"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "break down",
+      "rows": 2,
+      "translations": [
+        "يعطل",
+        "يتعطل"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "run out of",
+      "rows": 2,
+      "translations": [
+        "يخلص منه",
+        "ينفد ما لديه من"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "get stuck",
+      "rows": 2,
+      "translations": [
+        "يتزنق؛ يقف مش عارف يكمل",
+        "يعلق؛ يتعطل عن التقدم"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "be short of",
+      "rows": 2,
+      "translations": [
+        "يكون عنده نقص في",
+        "ينقصه"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "deal with",
+      "rows": 2,
+      "translations": [
+        "يتعامل مع مشكلة أو موقف",
+        "يتعامل مع"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "sort out",
+      "rows": 2,
+      "translations": [
+        "يحل؛ يرتب",
+        "يحلّ؛ يرتّب"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "figure out",
+      "rows": 2,
+      "translations": [
+        "يفهم؛ يتوصل لحل",
+        "يفهم؛ يتوصل إلى"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "replace",
+      "rows": 2,
+      "translations": [
+        "يستبدل"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "come up with",
+      "rows": 2,
+      "translations": [
+        "يطلع بفكرة أو حل",
+        "يأتي بفكرة أو حل"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "start over",
+      "rows": 2,
+      "translations": [
+        "يبدأ من الأول",
+        "يبدأ من جديد"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "avoid",
+      "rows": 2,
+      "translations": [
+        "يتجنب"
+      ],
+      "categories": [
+        "c13",
+        "c09"
+      ]
+    },
+    {
+      "english": "manage to",
+      "rows": 2,
+      "translations": [
+        "ينجح في إنه",
+        "يتمكن من"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "fail to",
+      "rows": 2,
+      "translations": [
+        "يفشل في إنه",
+        "لا ينجح في؛ لا يفعل المطلوب"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "get out of hand",
+      "rows": 2,
+      "translations": [
+        "يخرج عن السيطرة"
+      ],
+      "categories": [
+        "c13"
+      ]
+    },
+    {
+      "english": "improve",
+      "rows": 2,
+      "translations": [
+        "يتحسن؛ يحسن",
+        "يحسّن؛ يتحسن"
+      ],
+      "categories": [
+        "c14",
+        "c13"
+      ]
+    },
+    {
+      "english": "make progress",
+      "rows": 2,
+      "translations": [
+        "يحرز تقدم",
+        "يحرز تقدمًا"
+      ],
+      "categories": [
+        "c14",
+        "c13"
+      ]
+    },
+    {
+      "english": "make the most of",
+      "rows": 2,
+      "translations": [
+        "يستفيد أقصى استفادة من",
+        "يستفيد بأكبر قدر من"
+      ],
+      "categories": [
+        "c14",
+        "c27"
+      ]
+    },
+    {
+      "english": "get used to",
+      "rows": 2,
+      "translations": [
+        "يتعود على",
+        "يعتاد على"
+      ],
+      "categories": [
+        "c14",
+        "c07"
+      ]
+    },
+    {
+      "english": "adapt",
+      "rows": 2,
+      "translations": [
+        "يتكيف",
+        "يتكيف؛ يكيّف"
+      ],
+      "categories": [
+        "c14",
+        "c13"
+      ]
+    },
+    {
+      "english": "get worse",
+      "rows": 2,
+      "translations": [
+        "يسوء"
+      ],
+      "categories": [
+        "c14",
+        "c21"
+      ]
+    },
+    {
+      "english": "cut down on",
+      "rows": 2,
+      "translations": [
+        "يقلل من",
+        "يقلل استهلاك"
+      ],
+      "categories": [
+        "c14",
+        "c13"
+      ]
+    },
+    {
+      "english": "keep up with",
+      "rows": 2,
+      "translations": [
+        "يواكب"
+      ],
+      "categories": [
+        "c14",
+        "c13"
+      ]
+    },
+    {
+      "english": "fall behind",
+      "rows": 2,
+      "translations": [
+        "يتأخر عن المطلوب",
+        "يتأخر عن الآخرين أو المطلوب"
+      ],
+      "categories": [
+        "c14",
+        "c16"
+      ]
+    },
+    {
+      "english": "catch up on",
+      "rows": 2,
+      "translations": [
+        "يلحق اللي فاته من شغل أو نوم",
+        "يستدرك ما فاته من"
+      ],
+      "categories": [
+        "c14",
+        "c13"
+      ]
+    },
+    {
+      "english": "carry on",
+      "rows": 2,
+      "translations": [
+        "يكمل",
+        "استمر"
+      ],
+      "categories": [
+        "c14",
+        "c01"
+      ]
+    },
+    {
+      "english": "slightly",
+      "rows": 2,
+      "translations": [
+        "شوية؛ بدرجة بسيطة",
+        "قليلًا؛ بدرجة بسيطة"
+      ],
+      "categories": [
+        "c14",
+        "c23"
+      ]
+    },
+    {
+      "english": "no longer",
+      "rows": 2,
+      "translations": [
+        "لم يعد"
+      ],
+      "categories": [
+        "c14",
+        "c08"
+      ]
+    },
+    {
+      "english": "workload",
+      "rows": 2,
+      "translations": [
+        "حجم الشغل",
+        "حجم العمل المطلوب"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "deadline",
+      "rows": 2,
+      "translations": [
+        "آخر موعد للتسليم",
+        "الموعد النهائي"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "shift",
+      "rows": 2,
+      "translations": [
+        "وردية؛ شيفت",
+        "وردية عمل"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "overtime",
+      "rows": 2,
+      "translations": [
+        "ساعات شغل إضافية",
+        "عمل إضافي"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "time off",
+      "rows": 2,
+      "translations": [
+        "إجازة من الشغل",
+        "فترة إجازة من العمل"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "day off",
+      "rows": 2,
+      "translations": [
+        "يوم إجازة"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "sick leave",
+      "rows": 2,
+      "translations": [
+        "إجازة مرضية"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "colleague",
+      "rows": 2,
+      "translations": [
+        "زميل شغل",
+        "زميل عمل"
+      ],
+      "categories": [
+        "c15",
+        "c12"
+      ]
+    },
+    {
+      "english": "responsibility",
+      "rows": 2,
+      "translations": [
+        "مسؤولية"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "task",
+      "rows": 2,
+      "translations": [
+        "مهمة"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "assignment",
+      "rows": 2,
+      "translations": [
+        "مهمة محددة مكلف بيها",
+        "مهمة مكلّف بها"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "follow up on",
+      "rows": 2,
+      "translations": [
+        "يتابع حاجة اتبدأت",
+        "يتابع ما تم بشأن"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "hand over",
+      "rows": 2,
+      "translations": [
+        "يسلم شغل أو مسؤولية",
+        "يسلّم مهمة أو مسؤولية"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "take over",
+      "rows": 2,
+      "translations": [
+        "يتولى مكان حد",
+        "يتسلم المسؤولية من شخص آخر"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "be in charge of",
+      "rows": 2,
+      "translations": [
+        "يكون مسؤول عن",
+        "يتولى إدارة"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "report to",
+      "rows": 2,
+      "translations": [
+        "يتبع إداريًا لـ",
+        "يعمل تحت إشراف"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "work on",
+      "rows": 2,
+      "translations": [
+        "يشتغل على",
+        "يعمل على"
+      ],
+      "categories": [
+        "c15"
+      ]
+    },
+    {
+      "english": "carry out",
+      "rows": 2,
+      "translations": [
+        "ينفذ مهمة",
+        "ينفذ"
+      ],
+      "categories": [
+        "c15",
+        "c13"
+      ]
+    },
+    {
+      "english": "get the hang of",
+      "rows": 2,
+      "translations": [
+        "يفهم ويعرف يعمل حاجة",
+        "يفهم طريقة فعل شيء ويتقنه"
+      ],
+      "categories": [
+        "c16",
+        "c27"
+      ]
+    },
+    {
+      "english": "revise",
+      "rows": 2,
+      "translations": [
+        "يراجع للمذاكرة",
+        "يراجع ما درسه"
+      ],
+      "categories": [
+        "c16"
+      ]
+    },
+    {
+      "english": "memorize",
+      "rows": 2,
+      "translations": [
+        "يحفظ"
+      ],
+      "categories": [
+        "c16"
+      ]
+    },
+    {
+      "english": "concentrate on",
+      "rows": 2,
+      "translations": [
+        "يركز في",
+        "يركز ذهنه على"
+      ],
+      "categories": [
+        "c16"
+      ]
+    },
+    {
+      "english": "focus on",
+      "rows": 2,
+      "translations": [
+        "يركز اهتمامه على",
+        "يركز على"
+      ],
+      "categories": [
+        "c16"
+      ]
+    },
+    {
+      "english": "get distracted",
+      "rows": 2,
+      "translations": [
+        "يتشتت"
+      ],
+      "categories": [
+        "c16"
+      ]
+    },
+    {
+      "english": "struggle with",
+      "rows": 2,
+      "translations": [
+        "يواجه صعوبة في"
+      ],
+      "categories": [
+        "c16",
+        "c13"
+      ]
+    },
+    {
+      "english": "make an attempt",
+      "rows": 2,
+      "translations": [
+        "يحاول محاولة",
+        "يقوم بمحاولة"
+      ],
+      "categories": [
+        "c16",
+        "c13"
+      ]
+    },
+    {
+      "english": "strength",
+      "rows": 2,
+      "translations": [
+        "نقطة قوة"
+      ],
+      "categories": [
+        "c16",
+        "c15"
+      ]
+    },
+    {
+      "english": "weakness",
+      "rows": 2,
+      "translations": [
+        "نقطة ضعف"
+      ],
+      "categories": [
+        "c16",
+        "c15"
+      ]
+    },
+    {
+      "english": "skill",
+      "rows": 2,
+      "translations": [
+        "مهارة"
+      ],
+      "categories": [
+        "c16",
+        "c15"
+      ]
+    },
+    {
+      "english": "learn by heart",
+      "rows": 2,
+      "translations": [
+        "يحفظ عن ظهر قلب"
+      ],
+      "categories": [
+        "c16"
+      ]
+    },
+    {
+      "english": "run errands",
+      "rows": 2,
+      "translations": [
+        "يخلص مشاوير",
+        "يقضي مشاوير ضرورية"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "stay in",
+      "rows": 2,
+      "translations": [
+        "يقعد في البيت",
+        "يبقى في البيت"
+      ],
+      "categories": [
+        "c17",
+        "c19"
+      ]
+    },
+    {
+      "english": "sleep in",
+      "rows": 2,
+      "translations": [
+        "يصحي متأخر عن المعتاد",
+        "ينام حتى وقت متأخر"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "oversleep",
+      "rows": 2,
+      "translations": [
+        "يتأخر في الصحيان بالغلط",
+        "ينام أكثر من اللازم ويفوته الموعد"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "get some rest",
+      "rows": 2,
+      "translations": [
+        "يرتاح شوية",
+        "يأخذ قسطًا من الراحة"
+      ],
+      "categories": [
+        "c17",
+        "c21"
+      ]
+    },
+    {
+      "english": "put away",
+      "rows": 2,
+      "translations": [
+        "يحط الحاجة في مكانها",
+        "يعيد الشيء إلى مكانه"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "tidy up",
+      "rows": 2,
+      "translations": [
+        "يرتب المكان",
+        "يرتّب المكان"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "clean up",
+      "rows": 2,
+      "translations": [
+        "ينضف بعد فوضى",
+        "ينظف المكان"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "throw away",
+      "rows": 2,
+      "translations": [
+        "يرمي",
+        "يرمي؛ يتخلص من"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "get rid of",
+      "rows": 2,
+      "translations": [
+        "يتخلص من"
+      ],
+      "categories": [
+        "c17",
+        "c13"
+      ]
+    },
+    {
+      "english": "make room for",
+      "rows": 2,
+      "translations": [
+        "يفضي مكان لـ",
+        "يفسح مكانًا لـ"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "move in",
+      "rows": 2,
+      "translations": [
+        "ينتقل للسكن في مكان"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "move out",
+      "rows": 2,
+      "translations": [
+        "يسيب السكن",
+        "يترك مكان السكن"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "settle in",
+      "rows": 2,
+      "translations": [
+        "يتأقلم مع مكان جديد"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "do the laundry",
+      "rows": 2,
+      "translations": [
+        "يغسل الهدوم",
+        "يغسل الملابس"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "leak",
+      "rows": 2,
+      "translations": [
+        "تسريب",
+        "تسرب"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "landlord",
+      "rows": 2,
+      "translations": [
+        "صاحب العقار اللي بتأجر منه",
+        "صاحب العقار المؤجَّر"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "deposit",
+      "rows": 2,
+      "translations": [
+        "تأمين؛ مبلغ مقدم",
+        "عربون؛ مبلغ تأمين"
+      ],
+      "categories": [
+        "c17",
+        "c18"
+      ]
+    },
+    {
+      "english": "power cut",
+      "rows": 2,
+      "translations": [
+        "انقطاع كهربا",
+        "انقطاع الكهرباء"
+      ],
+      "categories": [
+        "c17"
+      ]
+    },
+    {
+      "english": "afford",
+      "rows": 2,
+      "translations": [
+        "يقدر يتحمل التكلفة",
+        "يستطيع تحمّل التكلفة"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "set money aside",
+      "rows": 2,
+      "translations": [
+        "يحوش مبلغ لغرض",
+        "يضع مالًا جانبًا"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "save up for",
+      "rows": 2,
+      "translations": [
+        "يحوش عشان",
+        "يدّخر لشراء"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "cut back on",
+      "rows": 2,
+      "translations": [
+        "يقلل صرفه أو استهلاكه من",
+        "يقلل الإنفاق أو الاستخدام في"
+      ],
+      "categories": [
+        "c18",
+        "c13"
+      ]
+    },
+    {
+      "english": "overpriced",
+      "rows": 2,
+      "translations": [
+        "سعره أعلى من قيمته",
+        "سعره أعلى مما يستحق"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "discount",
+      "rows": 2,
+      "translations": [
+        "خصم"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "on sale",
+      "rows": 2,
+      "translations": [
+        "عليه تخفيض"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "refund",
+      "rows": 2,
+      "translations": [
+        "استرجاع فلوس",
+        "استرداد المال"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "exchange",
+      "rows": 2,
+      "translations": [
+        "يبدل مشتريات",
+        "استبدال"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "receipt",
+      "rows": 2,
+      "translations": [
+        "إيصال"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "warranty",
+      "rows": 2,
+      "translations": [
+        "ضمان",
+        "ضمان المنتج"
+      ],
+      "categories": [
+        "c18",
+        "c28"
+      ]
+    },
+    {
+      "english": "try on",
+      "rows": 2,
+      "translations": [
+        "يقيس هدوم",
+        "يجرّب ملابس أو أحذية"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "shop around",
+      "rows": 2,
+      "translations": [
+        "يقارن أسعار قبل الشرا",
+        "يقارن بين المتاجر والأسعار"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "split the bill",
+      "rows": 2,
+      "translations": [
+        "يقسم الحساب",
+        "يتقاسم الفاتورة"
+      ],
+      "categories": [
+        "c18",
+        "c19"
+      ]
+    },
+    {
+      "english": "owe",
+      "rows": 2,
+      "translations": [
+        "يكون عليه فلوس أو حاجة لحد",
+        "يكون عليه مال لـ"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "fee",
+      "rows": 2,
+      "translations": [
+        "رسوم"
+      ],
+      "categories": [
+        "c18"
+      ]
+    },
+    {
+      "english": "eat out",
+      "rows": 2,
+      "translations": [
+        "ياكل برا البيت",
+        "يأكل خارج البيت"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "order in",
+      "rows": 2,
+      "translations": [
+        "يطلب أكل للبيت",
+        "يطلب طعامًا للتوصيل"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "takeaway",
+      "rows": 2,
+      "translations": [
+        "أكل سفري أو دليفري",
+        "طعام للأخذ خارج المطعم"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "leftovers",
+      "rows": 2,
+      "translations": [
+        "بواقي أكل",
+        "بقايا الطعام"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "homemade",
+      "rows": 2,
+      "translations": [
+        "معمول في البيت",
+        "مصنوع في البيت"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "ready-made",
+      "rows": 2,
+      "translations": [
+        "جاهز من غير تحضير كبير",
+        "جاهز"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "ingredient",
+      "rows": 2,
+      "translations": [
+        "مكون في وصفة",
+        "مكوّن"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "recipe",
+      "rows": 2,
+      "translations": [
+        "وصفة أكل",
+        "وصفة طبخ"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "portion",
+      "rows": 2,
+      "translations": [
+        "حصة؛ كمية أكل للفرد",
+        "حصة؛ كمية لشخص"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "spicy",
+      "rows": 2,
+      "translations": [
+        "حراق؛ مليان توابل",
+        "حارّ؛ كثير التوابل"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "crispy",
+      "rows": 2,
+      "translations": [
+        "مقرمش"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "tender",
+      "rows": 2,
+      "translations": [
+        "طري وسهل المضغ",
+        "طريّ وسهل المضغ"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "undercooked",
+      "rows": 2,
+      "translations": [
+        "مش مستوي كفاية",
+        "غير ناضج بما يكفي"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "overcooked",
+      "rows": 2,
+      "translations": [
+        "مستوي زيادة",
+        "مطهو أكثر من اللازم"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "go off",
+      "rows": 2,
+      "translations": [
+        "يفسد الأكل",
+        "يفسد الطعام"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "heat up",
+      "rows": 2,
+      "translations": [
+        "يسخن",
+        "يسخّن"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "stir",
+      "rows": 2,
+      "translations": [
+        "يقلب",
+        "يقلّب"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "allergic to",
+      "rows": 2,
+      "translations": [
+        "عنده حساسية من",
+        "لديه حساسية من"
+      ],
+      "categories": [
+        "c19",
+        "c21"
+      ]
+    },
+    {
+      "english": "book a table",
+      "rows": 2,
+      "translations": [
+        "يحجز ترابيزة",
+        "يحجز طاولة"
+      ],
+      "categories": [
+        "c19"
+      ]
+    },
+    {
+      "english": "get around",
+      "rows": 2,
+      "translations": [
+        "يتنقل"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "set off",
+      "rows": 2,
+      "translations": [
+        "يبدأ الرحلة",
+        "ينطلق في رحلة"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "head for",
+      "rows": 2,
+      "translations": [
+        "يتجه إلى",
+        "يتجه نحو"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "get lost",
+      "rows": 2,
+      "translations": [
+        "يتوه",
+        "يضلّ الطريق"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "shortcut",
+      "rows": 2,
+      "translations": [
+        "طريق مختصر"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "traffic jam",
+      "rows": 2,
+      "translations": [
+        "اختناق مروري؛ زحمة واقفة",
+        "ازدحام مروري"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "rush hour",
+      "rows": 2,
+      "translations": [
+        "ساعة الذروة"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "delay",
+      "rows": 2,
+      "translations": [
+        "تأخير"
+      ],
+      "categories": [
+        "c20",
+        "c13"
+      ]
+    },
+    {
+      "english": "boarding pass",
+      "rows": 2,
+      "translations": [
+        "بطاقة صعود الطيارة",
+        "بطاقة صعود الطائرة"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "hand luggage",
+      "rows": 2,
+      "translations": [
+        "شنطة بتدخل معاك الطيارة",
+        "حقيبة تُؤخذ إلى مقصورة الطائرة"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "check in",
+      "rows": 2,
+      "translations": [
+        "يسجل وصوله أو دخوله",
+        "يسجل الوصول"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "return ticket",
+      "rows": 2,
+      "translations": [
+        "تذكرة ذهاب وعودة"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "get on",
+      "rows": 2,
+      "translations": [
+        "يركب مواصلة",
+        "يركب حافلة أو قطارًا"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "get off",
+      "rows": 2,
+      "translations": [
+        "ينزل من مواصلة",
+        "ينزل من حافلة أو قطار"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "walking distance",
+      "rows": 2,
+      "translations": [
+        "مسافة ممكن تتمشي",
+        "مسافة يمكن قطعها مشيًا"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "nearby",
+      "rows": 2,
+      "translations": [
+        "قريب من هنا",
+        "قريب؛ بالجوار"
+      ],
+      "categories": [
+        "c20"
+      ]
+    },
+    {
+      "english": "come down with",
+      "rows": 2,
+      "translations": [
+        "يبدأ يجيله مرض",
+        "يبدأ في الإصابة بمرض"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "symptom",
+      "rows": 2,
+      "translations": [
+        "عرض مرضي",
+        "عَرَض مرضي"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "stiff",
+      "rows": 2,
+      "translations": [
+        "متيبس؛ مش بيتحرك بسهولة",
+        "متيبس؛ يصعب تحريكه"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "swollen",
+      "rows": 2,
+      "translations": [
+        "متورم"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "ache",
+      "rows": 2,
+      "translations": [
+        "وجع مستمر",
+        "ألم مستمر؛ يؤلم"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "prescription",
+      "rows": 2,
+      "translations": [
+        "روشتة",
+        "وصفة طبية"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "side effect",
+      "rows": 2,
+      "translations": [
+        "أثر جانبي"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "stay hydrated",
+      "rows": 2,
+      "translations": [
+        "يحافظ على شرب سوايل كفاية",
+        "يشرب سوائل كافية"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "warm up",
+      "rows": 2,
+      "translations": [
+        "يسخن قبل تمرين",
+        "يقوم بالإحماء"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "cool down",
+      "rows": 2,
+      "translations": [
+        "يهدي جسمه بعد المجهود",
+        "يخفف التمرين تدريجيًا في نهايته"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "stretch",
+      "rows": 2,
+      "translations": [
+        "يمدد عضلاته",
+        "يقوم بتمارين الإطالة"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "keep fit",
+      "rows": 2,
+      "translations": [
+        "يحافظ على لياقته"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "balanced diet",
+      "rows": 2,
+      "translations": [
+        "أكل متوازن",
+        "نظام غذائي متوازن"
+      ],
+      "categories": [
+        "c21"
+      ]
+    },
+    {
+      "english": "log in",
+      "rows": 2,
+      "translations": [
+        "يسجل الدخول"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "log out",
+      "rows": 2,
+      "translations": [
+        "يسجل الخروج"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "sign up",
+      "rows": 2,
+      "translations": [
+        "يسجل أو يشترك",
+        "ينشئ حسابًا؛ يسجل"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "subscription",
+      "rows": 2,
+      "translations": [
+        "اشتراك"
+      ],
+      "categories": [
+        "c22",
+        "c28"
+      ]
+    },
+    {
+      "english": "notification",
+      "rows": 2,
+      "translations": [
+        "إشعار"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "scroll through",
+      "rows": 2,
+      "translations": [
+        "يتصفح بالتمرير",
+        "يمرّر الشاشة لتصفّح"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "forward a message",
+      "rows": 2,
+      "translations": [
+        "يعيد توجيه رسالة"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "attachment",
+      "rows": 2,
+      "translations": [
+        "ملف مرفق"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "screenshot",
+      "rows": 2,
+      "translations": [
+        "لقطة شاشة"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "upload",
+      "rows": 2,
+      "translations": [
+        "يرفع ملف على الإنترنت",
+        "يرفع ملفًا"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "download",
+      "rows": 2,
+      "translations": [
+        "ينزل ملف",
+        "ينزّل ملفًا"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "back up",
+      "rows": 2,
+      "translations": [
+        "يعمل نسخة احتياطية",
+        "ينشئ نسخة احتياطية"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "freeze",
+      "rows": 2,
+      "translations": [
+        "يهنج",
+        "يتجمّد ولا يستجيب"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "crash",
+      "rows": 2,
+      "translations": [
+        "يقفل فجأة بسبب عطل",
+        "يتعطل البرنامج فجأة"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "update",
+      "rows": 2,
+      "translations": [
+        "يحدث",
+        "يحدّث"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "mute",
+      "rows": 2,
+      "translations": [
+        "يكتم الصوت"
+      ],
+      "categories": [
+        "c22"
+      ]
+    },
+    {
+      "english": "binge-watch",
+      "rows": 2,
+      "translations": [
+        "يتفرج على حلقات كتير ورا بعض",
+        "يشاهد حلقات كثيرة متتالية"
+      ],
+      "categories": [
+        "c22",
+        "c19"
+      ]
+    },
+    {
+      "english": "plot",
+      "rows": 2,
+      "translations": [
+        "حبكة؛ أحداث القصة"
+      ],
+      "categories": [
+        "c22",
+        "c19"
+      ]
+    },
+    {
+      "english": "recommend",
+      "rows": 2,
+      "translations": [
+        "يرشح",
+        "ينصح بـ"
+      ],
+      "categories": [
+        "c22",
+        "c03"
+      ]
+    },
+    {
+      "english": "spacious",
+      "rows": 2,
+      "translations": [
+        "واسع ومريح",
+        "واسع"
+      ],
+      "categories": [
+        "c23"
+      ]
+    },
+    {
+      "english": "peaceful",
+      "rows": 2,
+      "translations": [
+        "هادي ومريح للأعصاب",
+        "هادئ ومريح"
+      ],
+      "categories": [
+        "c23"
+      ]
+    },
+    {
+      "english": "lively",
+      "rows": 2,
+      "translations": [
+        "مليان حركة ونشاط",
+        "مليء بالحركة والحيوية"
+      ],
+      "categories": [
+        "c23"
+      ]
+    },
+    {
+      "english": "unusual",
+      "rows": 2,
+      "translations": [
+        "غير معتاد"
+      ],
+      "categories": [
+        "c23",
+        "c07"
+      ]
+    },
+    {
+      "english": "ordinary",
+      "rows": 2,
+      "translations": [
+        "عادي من غير حاجة مميزة",
+        "عادي؛ غير مميز"
+      ],
+      "categories": [
+        "c23",
+        "c07"
+      ]
+    },
+    {
+      "english": "rough",
+      "rows": 2,
+      "translations": [
+        "صعب؛ مش سلس",
+        "خشن"
+      ],
+      "categories": [
+        "c23"
+      ]
+    },
+    {
+      "english": "smooth",
+      "rows": 2,
+      "translations": [
+        "سلس من غير مشاكل",
+        "ناعم؛ سلس"
+      ],
+      "categories": [
+        "c23"
+      ]
+    },
+    {
+      "english": "different from",
+      "rows": 2,
+      "translations": [
+        "مختلف عن"
+      ],
+      "categories": [
+        "c23"
+      ]
+    },
+    {
+      "english": "compared with",
+      "rows": 2,
+      "translations": [
+        "بالمقارنة بـ",
+        "مقارنةً بـ"
+      ],
+      "categories": [
+        "c23"
+      ]
+    },
+    {
+      "english": "it depends on",
+      "rows": 2,
+      "translations": [
+        "بيعتمد على",
+        "يعتمد على"
+      ],
+      "categories": [
+        "c23",
+        "c06"
+      ]
+    },
+    {
+      "english": "bring up",
+      "rows": 2,
+      "translations": [
+        "يفتح موضوع",
+        "يفتح موضوعًا للنقاش"
+      ],
+      "categories": [
+        "c24",
+        "c01"
+      ]
+    },
+    {
+      "english": "put up with",
+      "rows": 2,
+      "translations": [
+        "يستحمل حاجة مضايقاه",
+        "يتحمل"
+      ],
+      "categories": [
+        "c24",
+        "c12"
+      ]
+    },
+    {
+      "english": "pay off",
+      "rows": 2,
+      "translations": [
+        "يجيب نتيجة كويسة",
+        "يؤتي ثماره"
+      ],
+      "categories": [
+        "c24",
+        "c13"
+      ]
+    },
+    {
+      "english": "go ahead",
+      "rows": 2,
+      "translations": [
+        "يتفضل يبدأ",
+        "تفضل؛ أكمل"
+      ],
+      "categories": [
+        "c24",
+        "c01"
+      ]
+    },
+    {
+      "english": "look into",
+      "rows": 2,
+      "translations": [
+        "يفحص أو يبحث في",
+        "يبحث في؛ يتحقق من"
+      ],
+      "categories": [
+        "c24",
+        "c13"
+      ]
+    },
+    {
+      "english": "hold on",
+      "rows": 2,
+      "translations": [
+        "يستنى شوية",
+        "انتظر لحظة"
+      ],
+      "categories": [
+        "c24",
+        "c01"
+      ]
+    },
+    {
+      "english": "would you mind",
+      "rows": 2,
+      "translations": [
+        "ممكن لو سمحت",
+        "هل تمانع أن"
+      ],
+      "categories": [
+        "c25"
+      ]
+    },
+    {
+      "english": "could you possibly",
+      "rows": 2,
+      "translations": [
+        "ممكن لو تقدر",
+        "هل يمكنك، إن أمكن، أن"
+      ],
+      "categories": [
+        "c25"
+      ]
+    },
+    {
+      "english": "would it be possible to",
+      "rows": 2,
+      "translations": [
+        "هل ممكن",
+        "هل من الممكن أن"
+      ],
+      "categories": [
+        "c25"
+      ]
+    },
+    {
+      "english": "I'd appreciate it if",
+      "rows": 2,
+      "translations": [
+        "هكون شاكر لو",
+        "سأكون ممتنًا لو"
+      ],
+      "categories": [
+        "c25"
+      ]
+    },
+    {
+      "english": "thanks anyway",
+      "rows": 2,
+      "translations": [
+        "شكرًا على كل حال",
+        "شكرًا على أي حال"
+      ],
+      "categories": [
+        "c25",
+        "c12"
+      ]
+    },
+    {
+      "english": "no worries",
+      "rows": 2,
+      "translations": [
+        "ولا يهمك",
+        "لا تقلق؛ لا مشكلة"
+      ],
+      "categories": [
+        "c25",
+        "c12"
+      ]
+    },
+    {
+      "english": "I'm afraid I can't",
+      "rows": 2,
+      "translations": [
+        "للأسف مش هقدر",
+        "للأسف، لا أستطيع"
+      ],
+      "categories": [
+        "c25"
+      ]
+    },
+    {
+      "english": "maybe another time",
+      "rows": 2,
+      "translations": [
+        "ممكن مرة تانية",
+        "ربما في وقت آخر"
+      ],
+      "categories": [
+        "c25"
+      ]
+    },
+    {
+      "english": "I didn't mean to",
+      "rows": 2,
+      "translations": [
+        "مكنتش أقصد إني",
+        "لم أقصد أن أفعل ذلك"
+      ],
+      "categories": [
+        "c25",
+        "c12"
+      ]
+    },
+    {
+      "english": "suggest",
+      "rows": 2,
+      "translations": [
+        "يقترح"
+      ],
+      "categories": [
+        "c26",
+        "c03"
+      ]
+    },
+    {
+      "english": "encourage",
+      "rows": 2,
+      "translations": [
+        "يشجع"
+      ],
+      "categories": [
+        "c26",
+        "c12"
+      ]
+    },
+    {
+      "english": "mention",
+      "rows": 2,
+      "translations": [
+        "يذكر حاجة بسرعة",
+        "يذكر شيئًا"
+      ],
+      "categories": [
+        "c26",
+        "c01"
+      ]
+    },
+    {
+      "english": "rely on",
+      "rows": 2,
+      "translations": [
+        "يعتمد على"
+      ],
+      "categories": [
+        "c26",
+        "c12"
+      ]
+    },
+    {
+      "english": "make an exception",
+      "rows": 2,
+      "translations": [
+        "يعمل استثناء",
+        "يعمل استثناءً"
+      ],
+      "categories": [
+        "c26",
+        "c25"
+      ]
+    }
+  ],
+  "nearPatterns": [
+    {
+      "first": "p002",
+      "second": "p104",
+      "similarity": 0.745,
+      "patterns": [
+        "What have you been up to …?",
+        "What made you decide to …?"
+      ]
+    },
+    {
+      "first": "p003",
+      "second": "p086",
+      "similarity": 0.7,
+      "patterns": [
+        "How was …?",
+        "How about …?"
+      ]
+    },
+    {
+      "first": "p004",
+      "second": "p012",
+      "similarity": 0.732,
+      "patterns": [
+        "What do you do for …?",
+        "What do you mean by …?"
+      ]
+    },
+    {
+      "first": "p004",
+      "second": "p024",
+      "similarity": 0.762,
+      "patterns": [
+        "What do you do for …?",
+        "What do you think of …?"
+      ]
+    },
+    {
+      "first": "p009",
+      "second": "p086",
+      "similarity": 0.833,
+      "patterns": [
+        "How about you?",
+        "How about …?"
+      ]
+    },
+    {
+      "first": "p012",
+      "second": "p013",
+      "similarity": 0.765,
+      "patterns": [
+        "What do you mean by …?",
+        "Do you mean …?"
+      ]
+    },
+    {
+      "first": "p012",
+      "second": "p024",
+      "similarity": 0.744,
+      "patterns": [
+        "What do you mean by …?",
+        "What do you think of …?"
+      ]
+    },
+    {
+      "first": "p013",
+      "second": "p083",
+      "similarity": 0.71,
+      "patterns": [
+        "Do you mean …?",
+        "Do you mind if I …?"
+      ]
+    },
+    {
+      "first": "p016",
+      "second": "p041",
+      "similarity": 0.714,
+      "patterns": [
+        "What I’m trying to say is …",
+        "I’m trying to …"
+      ]
+    },
+    {
+      "first": "p018",
+      "second": "p088",
+      "similarity": 0.727,
+      "patterns": [
+        "Let me think …",
+        "Let me …"
+      ]
+    },
+    {
+      "first": "p020",
+      "second": "p073",
+      "similarity": 0.7,
+      "patterns": [
+        "It depends on …",
+        "I might …, depending on …"
+      ]
+    },
+    {
+      "first": "p033",
+      "second": "p041",
+      "similarity": 0.722,
+      "patterns": [
+        "I’m not really into …",
+        "I’m trying to …"
+      ]
+    },
+    {
+      "first": "p033",
+      "second": "p112",
+      "similarity": 0.7,
+      "patterns": [
+        "I’m not really into …",
+        "I’m not following …"
+      ]
+    },
+    {
+      "first": "p036",
+      "second": "p090",
+      "similarity": 0.833,
+      "patterns": [
+        "I’m worried about …",
+        "I’m sorry about …"
+      ]
+    },
+    {
+      "first": "p041",
+      "second": "p052",
+      "similarity": 0.722,
+      "patterns": [
+        "I’m trying to …",
+        "I’m getting used to …"
+      ]
+    },
+    {
+      "first": "p041",
+      "second": "p072",
+      "similarity": 0.75,
+      "patterns": [
+        "I’m trying to …",
+        "I’m planning to …"
+      ]
+    },
+    {
+      "first": "p041",
+      "second": "p144",
+      "similarity": 0.759,
+      "patterns": [
+        "I’m trying to …",
+        "I try not to …"
+      ]
+    },
+    {
+      "first": "p041",
+      "second": "p146",
+      "similarity": 0.774,
+      "patterns": [
+        "I’m trying to …",
+        "I’m working on …"
+      ]
+    },
+    {
+      "first": "p043",
+      "second": "p072",
+      "similarity": 0.703,
+      "patterns": [
+        "I’m having trouble …",
+        "I’m planning to …"
+      ]
+    },
+    {
+      "first": "p044",
+      "second": "p151",
+      "similarity": 0.718,
+      "patterns": [
+        "I can’t figure out …",
+        "I can’t afford to …"
+      ]
+    },
+    {
+      "first": "p046",
+      "second": "p065",
+      "similarity": 0.7,
+      "patterns": [
+        "I keep …",
+        "I ended up …"
+      ]
+    },
+    {
+      "first": "p048",
+      "second": "p126",
+      "similarity": 0.757,
+      "patterns": [
+        "It takes me … to …",
+        "It makes sense to …"
+      ]
+    },
+    {
+      "first": "p050",
+      "second": "p141",
+      "similarity": 0.72,
+      "patterns": [
+        "I managed to …",
+        "I tend to …"
+      ]
+    },
+    {
+      "first": "p050",
+      "second": "p169",
+      "similarity": 0.75,
+      "patterns": [
+        "I managed to …",
+        "I had to …"
+      ]
+    },
+    {
+      "first": "p050",
+      "second": "p171",
+      "similarity": 0.759,
+      "patterns": [
+        "I managed to …",
+        "I happened to …"
+      ]
+    },
+    {
+      "first": "p052",
+      "second": "p145",
+      "similarity": 0.773,
+      "patterns": [
+        "I’m getting used to …",
+        "I’m getting better at …"
+      ]
+    },
+    {
+      "first": "p054",
+      "second": "p103",
+      "similarity": 0.722,
+      "patterns": [
+        "Have you ever …?",
+        "Have you heard from …?"
+      ]
+    },
+    {
+      "first": "p054",
+      "second": "p181",
+      "similarity": 0.759,
+      "patterns": [
+        "Have you ever …?",
+        "Are you free …?"
+      ]
+    },
+    {
+      "first": "p056",
+      "second": "p167",
+      "similarity": 0.75,
+      "patterns": [
+        "I haven’t … for …",
+        "I haven’t … yet."
+      ]
+    },
+    {
+      "first": "p060",
+      "second": "p164",
+      "similarity": 0.88,
+      "patterns": [
+        "I should’ve …",
+        "I could’ve …"
+      ]
+    },
+    {
+      "first": "p061",
+      "second": "p062",
+      "similarity": 0.757,
+      "patterns": [
+        "I was … when …",
+        "I was about to … when …"
+      ]
+    },
+    {
+      "first": "p061",
+      "second": "p176",
+      "similarity": 0.71,
+      "patterns": [
+        "I was … when …",
+        "I was so … that …"
+      ]
+    },
+    {
+      "first": "p079",
+      "second": "p158",
+      "similarity": 0.711,
+      "patterns": [
+        "You don’t have to …",
+        "I don’t have enough … to …"
+      ]
+    },
+    {
+      "first": "p090",
+      "second": "p094",
+      "similarity": 0.722,
+      "patterns": [
+        "I’m sorry about …",
+        "I’m sorry to hear …"
+      ]
+    },
+    {
+      "first": "p093",
+      "second": "p132",
+      "similarity": 0.774,
+      "patterns": [
+        "I can’t believe …",
+        "I can’t help …"
+      ]
+    },
+    {
+      "first": "p097",
+      "second": "p200",
+      "similarity": 0.7,
+      "patterns": [
+        "It’s up to you …",
+        "I’ll make it up to you …"
+      ]
+    },
+    {
+      "first": "p100",
+      "second": "p150",
+      "similarity": 0.743,
+      "patterns": [
+        "I’ve got to go …",
+        "I’ve got a lot to …"
+      ]
+    },
+    {
+      "first": "p108",
+      "second": "p171",
+      "similarity": 0.848,
+      "patterns": [
+        "What happened to …?",
+        "I happened to …"
+      ]
+    },
+    {
+      "first": "p119",
+      "second": "p165",
+      "similarity": 0.8,
+      "patterns": [
+        "I can’t remember …",
+        "I remember …"
+      ]
+    },
+    {
+      "first": "p122",
+      "second": "p123",
+      "similarity": 0.769,
+      "patterns": [
+        "What I like about … is …",
+        "What bothers me about … is …"
+      ]
+    },
+    {
+      "first": "p127",
+      "second": "p196",
+      "similarity": 0.8,
+      "patterns": [
+        "I prefer it when …",
+        "I appreciate it when …"
+      ]
+    },
+    {
+      "first": "p133",
+      "second": "p141",
+      "similarity": 0.72,
+      "patterns": [
+        "I’m tired of …",
+        "I tend to …"
+      ]
+    },
+    {
+      "first": "p134",
+      "second": "p151",
+      "similarity": 0.706,
+      "patterns": [
+        "I can’t stand …",
+        "I can’t afford to …"
+      ]
+    },
+    {
+      "first": "p141",
+      "second": "p144",
+      "similarity": 0.72,
+      "patterns": [
+        "I tend to …",
+        "I try not to …"
+      ]
+    },
+    {
+      "first": "p141",
+      "second": "p169",
+      "similarity": 0.762,
+      "patterns": [
+        "I tend to …",
+        "I had to …"
+      ]
+    },
+    {
+      "first": "p141",
+      "second": "p171",
+      "similarity": 0.769,
+      "patterns": [
+        "I tend to …",
+        "I happened to …"
+      ]
+    },
+    {
+      "first": "p154",
+      "second": "p179",
+      "similarity": 0.7,
+      "patterns": [
+        "… won’t …",
+        "… without …"
+      ]
+    },
+    {
+      "first": "p157",
+      "second": "p169",
+      "similarity": 0.75,
+      "patterns": [
+        "I’ll have to …",
+        "I had to …"
+      ]
+    },
+    {
+      "first": "p163",
+      "second": "p164",
+      "similarity": 0.71,
+      "patterns": [
+        "I would’ve …, but …",
+        "I could’ve …"
+      ]
+    },
+    {
+      "first": "p169",
+      "second": "p171",
+      "similarity": 0.8,
+      "patterns": [
+        "I had to …",
+        "I happened to …"
+      ]
+    }
+  ],
+  "nearVocabulary": [
+    {
+      "first": "va211af620b5a",
+      "second": "vb9b4f7b0f5b4",
+      "expressions": [
+        "what do you mean by",
+        "what do you mean?"
+      ],
+      "similarity": 0.914,
+      "decision": "Retain distinct source expressions; do not infer identical meanings from spelling."
+    },
+    {
+      "first": "va6bb5b2ba95c",
+      "second": "v3ceb307af398",
+      "expressions": [
+        "settle on",
+        "settle down"
+      ],
+      "similarity": 0.9,
+      "decision": "Retain distinct source expressions; do not infer identical meanings from spelling."
+    },
+    {
+      "first": "va6cb05d9df6c",
+      "second": "v9683ff190bce",
+      "expressions": [
+        "be planning on",
+        "be planning to"
+      ],
+      "similarity": 0.929,
+      "decision": "Retain distinct source expressions; do not infer identical meanings from spelling."
+    },
+    {
+      "first": "v46c0f8347d26",
+      "second": "va573d0b605b8",
+      "expressions": [
+        "take it personally",
+        "take personally"
+      ],
+      "similarity": 0.909,
+      "decision": "Retain distinct source expressions; do not infer identical meanings from spelling."
+    },
+    {
+      "first": "vf1c562eae32f",
+      "second": "v9ec1600e60d2",
+      "expressions": [
+        "fault",
+        "faulty"
+      ],
+      "similarity": 0.909,
+      "decision": "Retain distinct source expressions; do not infer identical meanings from spelling."
+    },
+    {
+      "first": "v86626c2fd868",
+      "second": "v25b22b2593b4",
+      "expressions": [
+        "make myself at home",
+        "make yourself at home"
+      ],
+      "similarity": 0.9,
+      "decision": "Retain distinct source expressions; do not infer identical meanings from spelling."
+    },
+    {
+      "first": "v4d22f6cc1b3d",
+      "second": "v1dc0f78c0917",
+      "expressions": [
+        "be likely to",
+        "be unlikely to"
+      ],
+      "similarity": 0.923,
+      "decision": "Retain distinct source expressions; do not infer identical meanings from spelling."
+    }
+  ]
+}

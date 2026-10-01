@@ -1,0 +1,5763 @@
+[
+  {
+    "id": "p001",
+    "kind": "pattern",
+    "english": "How’s … going?",
+    "arabic": "أخبار … إيه؟ / … ماشي إزاي؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "How’s your new job going?",
+        "arabic": "أخبار شغلك الجديد إيه؟"
+      },
+      {
+        "english": "How’s your English practice going?",
+        "arabic": "تدريبك على الإنجليزي ماشي إزاي؟"
+      },
+      {
+        "english": "How’s your day going so far?",
+        "arabic": "يومك ماشي إزاي لحد دلوقتي؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 1,
+    "categories": [
+      "c01"
+    ],
+    "related": [
+      "v4e93f1dc7bd9"
+    ]
+  },
+  {
+    "id": "p002",
+    "kind": "pattern",
+    "english": "What have you been up to …?",
+    "arabic": "كنت بتعمل إيه …؟ / أخبارك إيه …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What have you been up to lately?",
+        "arabic": "أخبارك إيه اليومين دول؟ بتعمل إيه؟"
+      },
+      {
+        "english": "What have you been up to since we last met?",
+        "arabic": "عملت إيه من آخر مرة اتقابلنا؟"
+      },
+      {
+        "english": "What have you been up to this morning?",
+        "arabic": "كنت بتعمل إيه الصبح؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 2,
+    "categories": [
+      "c01"
+    ],
+    "related": [
+      "vf22b2d12b1b7"
+    ]
+  },
+  {
+    "id": "p003",
+    "kind": "pattern",
+    "english": "How was …?",
+    "arabic": "… كان عامل إزاي؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "How was your weekend?",
+        "arabic": "الويك إند بتاعك كان عامل إزاي؟"
+      },
+      {
+        "english": "How was the interview?",
+        "arabic": "المقابلة كانت عاملة إزاي؟"
+      },
+      {
+        "english": "How was your trip back home?",
+        "arabic": "رحلة رجوعك للبيت كانت عاملة إزاي؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 3,
+    "categories": [
+      "c01"
+    ],
+    "related": []
+  },
+  {
+    "id": "p004",
+    "kind": "pattern",
+    "english": "What do you do for …?",
+    "arabic": "بتعمل إيه عشان …؟",
+    "usage": [
+      "في “for a living”، المعنى: بتشتغل إيه؟"
+    ],
+    "variations": [
+      {
+        "english": "What do you do for a living?",
+        "arabic": "بتشتغل إيه؟"
+      },
+      {
+        "english": "What do you do for fun outside work?",
+        "arabic": "بتعمل إيه للتسلية بعيد عن الشغل؟"
+      },
+      {
+        "english": "What do you usually do for exercise?",
+        "arabic": "عادةً بتعمل إيه كرياضة؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 4,
+    "categories": [
+      "c01"
+    ],
+    "related": []
+  },
+  {
+    "id": "p005",
+    "kind": "pattern",
+    "english": "What kind of … do you like?",
+    "arabic": "بتحب نوع إيه من …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What kind of films do you like?",
+        "arabic": "بتحب نوع إيه من الأفلام؟"
+      },
+      {
+        "english": "What kind of food do you like cooking?",
+        "arabic": "بتحب تطبخ أكل من أي نوع؟"
+      },
+      {
+        "english": "What kind of places do you like going to on holiday?",
+        "arabic": "بتحب تروح أماكن من أي نوع في الإجازة؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 5,
+    "categories": [
+      "c01"
+    ],
+    "related": [
+      "v297529e7516f"
+    ]
+  },
+  {
+    "id": "p006",
+    "kind": "pattern",
+    "english": "How did you get into …?",
+    "arabic": "إزاي بدأت تهتم بـ…؟ / إزاي دخلت مجال …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "How did you get into programming?",
+        "arabic": "إزاي دخلت مجال البرمجة؟"
+      },
+      {
+        "english": "How did you get into photography?",
+        "arabic": "إزاي بدأت تهتم بالتصوير؟"
+      },
+      {
+        "english": "How did you get into running?",
+        "arabic": "إزاي بدأت تمارس الجري وتهتم بيه؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 6,
+    "categories": [
+      "c01"
+    ],
+    "related": [
+      "v354263f23c5c"
+    ]
+  },
+  {
+    "id": "p007",
+    "kind": "pattern",
+    "english": "How long have you been …?",
+    "arabic": "بقالك قد إيه …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "How long have you been working here?",
+        "arabic": "بقالك قد إيه شغال هنا؟"
+      },
+      {
+        "english": "How long have you been learning English?",
+        "arabic": "بقالك قد إيه بتتعلم إنجليزي؟"
+      },
+      {
+        "english": "How long have you been living on your own?",
+        "arabic": "بقالك قد إيه عايش لوحدك؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 7,
+    "categories": [
+      "c01"
+    ],
+    "related": []
+  },
+  {
+    "id": "p008",
+    "kind": "pattern",
+    "english": "What was … like?",
+    "arabic": "… كان عامل إزاي؟ / تجربة … كانت إيه؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What was your first day like?",
+        "arabic": "أول يوم ليك كان عامل إزاي؟"
+      },
+      {
+        "english": "What was it like living abroad?",
+        "arabic": "تجربة العيش برّه كانت عاملة إزاي؟"
+      },
+      {
+        "english": "What was the hotel like?",
+        "arabic": "الفندق كان عامل إزاي؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 8,
+    "categories": [
+      "c01"
+    ],
+    "related": []
+  },
+  {
+    "id": "p009",
+    "kind": "pattern",
+    "english": "How about you?",
+    "arabic": "وإنت؟ / وإنت بالنسبالك؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I usually work from home. How about you?",
+        "arabic": "أنا عادةً بشتغل من البيت. وإنت؟"
+      },
+      {
+        "english": "I haven’t made any plans yet. How about you?",
+        "arabic": "لسه معملتش أي خطط. وإنت؟"
+      },
+      {
+        "english": "I thought the ending was a bit strange. How about you?",
+        "arabic": "حسّيت إن النهاية غريبة شوية. وإنت رأيك إيه؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 9,
+    "categories": [
+      "c01"
+    ],
+    "related": [
+      "v379ac8747aea"
+    ]
+  },
+  {
+    "id": "p010",
+    "kind": "pattern",
+    "english": "Speaking of …, …",
+    "arabic": "بمناسبة الكلام عن …، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Speaking of work, how did your interview go?",
+        "arabic": "بمناسبة الكلام عن الشغل، عملت إيه في المقابلة؟"
+      },
+      {
+        "english": "Speaking of holidays, have you booked anything yet?",
+        "arabic": "بمناسبة الكلام عن الإجازات، حجزت أي حاجة ولا لسه؟"
+      },
+      {
+        "english": "Speaking of food, there’s a new place near my office.",
+        "arabic": "بمناسبة الكلام عن الأكل، فيه مكان جديد جنب مكتبي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 10,
+    "categories": [
+      "c01"
+    ],
+    "related": [
+      "v68cf620e2d95"
+    ]
+  },
+  {
+    "id": "p011",
+    "kind": "pattern",
+    "english": "Could you say … again?",
+    "arabic": "ممكن تقول … تاني؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Could you say that again? I didn’t hear the last part.",
+        "arabic": "ممكن تقول ده تاني؟ مسمعتش آخر جزء."
+      },
+      {
+        "english": "Could you say your name again?",
+        "arabic": "ممكن تقول اسمك تاني؟"
+      },
+      {
+        "english": "Could you say the address again, a bit more slowly?",
+        "arabic": "ممكن تقول العنوان تاني، أبطأ شوية؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 11,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "v8b2a9725bb20",
+      "ve4bcc02afded"
+    ]
+  },
+  {
+    "id": "p012",
+    "kind": "pattern",
+    "english": "What do you mean by …?",
+    "arabic": "تقصد إيه بـ…؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What do you mean by “flexible hours”?",
+        "arabic": "تقصد إيه بـ«مواعيد مرنة»؟"
+      },
+      {
+        "english": "What do you mean by “too expensive”?",
+        "arabic": "تقصد إيه بـ«غالي أوي»؟"
+      },
+      {
+        "english": "What do you mean by “it didn’t work out”?",
+        "arabic": "تقصد إيه بـ«الموضوع منجحش»؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 12,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "va211af620b5a",
+      "vb9b4f7b0f5b4"
+    ]
+  },
+  {
+    "id": "p013",
+    "kind": "pattern",
+    "english": "Do you mean …?",
+    "arabic": "تقصد …؟",
+    "usage": [
+      "بعدها بنستخدم ترتيب الجملة العادي: “Do you mean we…?”"
+    ],
+    "variations": [
+      {
+        "english": "Do you mean we have to book in advance?",
+        "arabic": "تقصد إننا لازم نحجز قبلها؟"
+      },
+      {
+        "english": "Do you mean this Friday or next Friday?",
+        "arabic": "تقصد الجمعة دي ولا الجمعة الجاية؟"
+      },
+      {
+        "english": "Do you mean you’ve already paid for it?",
+        "arabic": "تقصد إنك دفعت تمنه خلاص؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 13,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "vf410628ade69"
+    ]
+  },
+  {
+    "id": "p014",
+    "kind": "pattern",
+    "english": "Could you explain how …?",
+    "arabic": "ممكن تشرحلي إزاي …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Could you explain how this works?",
+        "arabic": "ممكن تشرحلي ده بيشتغل إزاي؟"
+      },
+      {
+        "english": "Could you explain how I can change my booking?",
+        "arabic": "ممكن تشرحلي إزاي أغيّر الحجز بتاعي؟"
+      },
+      {
+        "english": "Could you explain how you got that answer?",
+        "arabic": "ممكن تشرحلي إزاي وصلت للإجابة دي؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 14,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p015",
+    "kind": "pattern",
+    "english": "What’s the word for …?",
+    "arabic": "إيه الكلمة اللي معناها …؟ / بنسمي … إيه؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What’s the word for someone who always arrives on time?",
+        "arabic": "إيه الكلمة اللي بتوصف شخص دايمًا بييجي في معاده؟"
+      },
+      {
+        "english": "What’s the word for the money you get back after returning something?",
+        "arabic": "بنسمي الفلوس اللي بترجعلك لما ترجّع حاجة اشتريتها إيه؟"
+      },
+      {
+        "english": "What’s the word for feeling happy and sad at the same time?",
+        "arabic": "إيه الكلمة اللي بتوصف إحساس إنك فرحان وزعلان في نفس الوقت؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 15,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "v44f395ddd776",
+      "vcdc874b9a974",
+      "v16f9e9094529"
+    ]
+  },
+  {
+    "id": "p016",
+    "kind": "pattern",
+    "english": "What I’m trying to say is …",
+    "arabic": "اللي بحاول أقوله هو إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What I’m trying to say is we need more time.",
+        "arabic": "اللي بحاول أقوله إننا محتاجين وقت أكتر."
+      },
+      {
+        "english": "What I’m trying to say is I’m interested, but I can’t decide yet.",
+        "arabic": "اللي بحاول أقوله إني مهتم، بس لسه مش قادر أقرر."
+      },
+      {
+        "english": "What I’m trying to say is it wasn’t your fault.",
+        "arabic": "اللي بحاول أقوله إن الغلط مكنش منك."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 16,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p017",
+    "kind": "pattern",
+    "english": "I mean, …",
+    "arabic": "قصدي … / يعني …",
+    "usage": [
+      "لتوضيح كلامك أو تصحيحه."
+    ],
+    "variations": [
+      {
+        "english": "It’s not cheap. I mean, it costs almost half my salary.",
+        "arabic": "هو مش رخيص. يعني تمنه تقريبًا نص مرتبي."
+      },
+      {
+        "english": "Let’s meet on Thursday. I mean, Friday—sorry.",
+        "arabic": "نتقابل الخميس. قصدي الجمعة، معلش."
+      },
+      {
+        "english": "I enjoyed it. I mean, some parts were slow, but the story was good.",
+        "arabic": "عجبني. يعني فيه أجزاء كانت بطيئة، بس القصة كانت حلوة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 17,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "v2d9e817344c8"
+    ]
+  },
+  {
+    "id": "p018",
+    "kind": "pattern",
+    "english": "Let me think …",
+    "arabic": "خلّيني أفكر …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Let me think. I might be free on Saturday.",
+        "arabic": "خلّيني أفكر. ممكن أكون فاضي السبت."
+      },
+      {
+        "english": "Let me think for a second. What was his name?",
+        "arabic": "خلّيني أفكر ثانية. هو كان اسمه إيه؟"
+      },
+      {
+        "english": "Let me think about it and get back to you.",
+        "arabic": "خلّيني أفكر في الموضوع وأرد عليك."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 18,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "v11dc80e1ea4f",
+      "v47f4998ca2d3",
+      "v5ce93a2ada09"
+    ]
+  },
+  {
+    "id": "p019",
+    "kind": "pattern",
+    "english": "As far as I know, …",
+    "arabic": "على حد علمي، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "As far as I know, the shop is still open.",
+        "arabic": "على حد علمي، المحل لسه فاتح."
+      },
+      {
+        "english": "As far as I know, nobody’s booked a table yet.",
+        "arabic": "على حد علمي، محدش حجز ترابيزة لسه."
+      },
+      {
+        "english": "As far as I know, you don’t need an appointment.",
+        "arabic": "على حد علمي، مش محتاج تحجز معاد."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 19,
+    "categories": [
+      "c06"
+    ],
+    "related": [
+      "v62e8d92cce2b"
+    ]
+  },
+  {
+    "id": "p020",
+    "kind": "pattern",
+    "english": "It depends on …",
+    "arabic": "ده حسب … / الموضوع بيتوقف على …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It depends on how much it costs.",
+        "arabic": "ده حسب سعره كام."
+      },
+      {
+        "english": "It depends on whether I finish work on time.",
+        "arabic": "ده حسب إذا كنت هخلّص الشغل في معادي ولا لأ."
+      },
+      {
+        "english": "It depends on what you’re looking for.",
+        "arabic": "ده حسب إنت بتدور على إيه."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 20,
+    "categories": [
+      "c06"
+    ],
+    "related": [
+      "v16f9e9094529",
+      "vc0be7889e877",
+      "v0ab329b8d2ba",
+      "v3801aec8d5e9"
+    ]
+  },
+  {
+    "id": "p021",
+    "kind": "pattern",
+    "english": "I think …",
+    "arabic": "أنا شايف إن … / أعتقد إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I think we should leave a bit earlier.",
+        "arabic": "أنا شايف إننا المفروض نمشي بدري شوية."
+      },
+      {
+        "english": "I think it’s worth trying.",
+        "arabic": "أنا شايف إن الموضوع يستاهل نجربه."
+      },
+      {
+        "english": "I don’t think that’s a good idea right now.",
+        "arabic": "مش شايف إن دي فكرة كويسة دلوقتي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 21,
+    "categories": [
+      "c03"
+    ],
+    "related": []
+  },
+  {
+    "id": "p022",
+    "kind": "pattern",
+    "english": "The way I see it, …",
+    "arabic": "أنا شايف الموضوع كده: …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "The way I see it, we have two options.",
+        "arabic": "أنا شايف إن قدامنا اختيارين."
+      },
+      {
+        "english": "The way I see it, saving a little is better than saving nothing.",
+        "arabic": "أنا شايف إن تحويش مبلغ صغير أحسن من إنك متحوّش خالص."
+      },
+      {
+        "english": "The way I see it, we should deal with the biggest problem first.",
+        "arabic": "أنا شايف إننا المفروض نحل أكبر مشكلة الأول."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 22,
+    "categories": [
+      "c03"
+    ],
+    "related": [
+      "v8bb2995ae4ed",
+      "va7f64bfc605e"
+    ]
+  },
+  {
+    "id": "p023",
+    "kind": "pattern",
+    "english": "To be honest, …",
+    "arabic": "بصراحة، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "To be honest, I didn’t really enjoy it.",
+        "arabic": "بصراحة، مستمتعتش بيه أوي."
+      },
+      {
+        "english": "To be honest, I’d rather stay home tonight.",
+        "arabic": "بصراحة، أفضل أقعد في البيت النهارده بالليل."
+      },
+      {
+        "english": "To be honest, I’m still not sure what I want.",
+        "arabic": "بصراحة، لسه مش متأكد أنا عايز إيه."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 23,
+    "categories": [
+      "c03"
+    ],
+    "related": [
+      "v37cee1d1a5cc",
+      "vce10e30eeda9"
+    ]
+  },
+  {
+    "id": "p024",
+    "kind": "pattern",
+    "english": "What do you think of …?",
+    "arabic": "إيه رأيك في …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What do you think of this idea?",
+        "arabic": "إيه رأيك في الفكرة دي؟"
+      },
+      {
+        "english": "What do you think of your new manager?",
+        "arabic": "إيه رأيك في مديرك الجديد؟"
+      },
+      {
+        "english": "What do you think of moving the meeting to tomorrow?",
+        "arabic": "إيه رأيك ننقل الاجتماع لبكرة؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 24,
+    "categories": [
+      "c03"
+    ],
+    "related": [
+      "v9c76754aaae5"
+    ]
+  },
+  {
+    "id": "p025",
+    "kind": "pattern",
+    "english": "I agree with you about …",
+    "arabic": "أنا متفق معاك بخصوص …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I agree with you about the price. It’s too high.",
+        "arabic": "أنا متفق معاك بخصوص السعر. غالي أوي."
+      },
+      {
+        "english": "I agree with you about needing more practice.",
+        "arabic": "أنا متفق معاك إننا محتاجين تدريب أكتر."
+      },
+      {
+        "english": "I agree with you about keeping things simple.",
+        "arabic": "أنا متفق معاك إننا نخلي الأمور بسيطة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 25,
+    "categories": [
+      "c04"
+    ],
+    "related": []
+  },
+  {
+    "id": "p026",
+    "kind": "pattern",
+    "english": "I see your point, but …",
+    "arabic": "فاهم وجهة نظرك، بس …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I see your point, but we don’t have enough time.",
+        "arabic": "فاهم وجهة نظرك، بس معندناش وقت كفاية."
+      },
+      {
+        "english": "I see your point, but it might be worth the extra money.",
+        "arabic": "فاهم وجهة نظرك، بس ممكن يكون مستاهل الفلوس الزيادة."
+      },
+      {
+        "english": "I see your point, but not everyone enjoys working from home.",
+        "arabic": "فاهم وجهة نظرك، بس مش كل الناس بتحب الشغل من البيت."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 26,
+    "categories": [
+      "c04"
+    ],
+    "related": [
+      "v5b2b6aa5fd26"
+    ]
+  },
+  {
+    "id": "p027",
+    "kind": "pattern",
+    "english": "I’m not convinced that …",
+    "arabic": "مش مقتنع إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m not convinced that buying a new one will solve the problem.",
+        "arabic": "مش مقتنع إن شراء واحد جديد هيحل المشكلة."
+      },
+      {
+        "english": "I’m not convinced that this is the best option.",
+        "arabic": "مش مقتنع إن ده أحسن اختيار."
+      },
+      {
+        "english": "I’m not convinced that we need to change everything.",
+        "arabic": "مش مقتنع إننا محتاجين نغيّر كل حاجة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 27,
+    "categories": [
+      "c04"
+    ],
+    "related": [
+      "v2eda8b09cc84"
+    ]
+  },
+  {
+    "id": "p028",
+    "kind": "pattern",
+    "english": "You’re right about …, but …",
+    "arabic": "إنت صح في موضوع …، بس …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "You’re right about the location, but the rent is too high.",
+        "arabic": "إنت صح إن المكان كويس، بس الإيجار غالي أوي."
+      },
+      {
+        "english": "You’re right about needing a break, but let’s finish this first.",
+        "arabic": "إنت صح إننا محتاجين راحة، بس خلّينا نخلّص ده الأول."
+      },
+      {
+        "english": "You’re right about the food, but the service wasn’t great.",
+        "arabic": "إنت صح إن الأكل حلو، بس الخدمة مكنتش كويسة أوي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 28,
+    "categories": [
+      "c04"
+    ],
+    "related": []
+  },
+  {
+    "id": "p029",
+    "kind": "pattern",
+    "english": "I wouldn’t say …",
+    "arabic": "مش هقول إن … / مش شايف إن الوصف ده دقيق.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I wouldn’t say it was easy, but it was worth it.",
+        "arabic": "مش هقول إنه كان سهل، بس كان يستاهل."
+      },
+      {
+        "english": "I wouldn’t say he’s rude. He’s just very quiet.",
+        "arabic": "مش هقول إنه قليل الذوق. هو بس هادي أوي."
+      },
+      {
+        "english": "I wouldn’t say I’m fluent yet, but I’m getting better.",
+        "arabic": "مش هقول إني بتكلم بطلاقة لسه، بس بتحسن."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 29,
+    "categories": [
+      "c04"
+    ],
+    "related": []
+  },
+  {
+    "id": "p030",
+    "kind": "pattern",
+    "english": "That’s what I was thinking.",
+    "arabic": "ده اللي كنت بفكر فيه.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "That’s what I was thinking—we should book early.",
+        "arabic": "ده اللي كنت بفكر فيه: نحجز بدري."
+      },
+      {
+        "english": "That’s exactly what I was thinking about the ending.",
+        "arabic": "ده بالظبط اللي كنت بفكر فيه بخصوص النهاية."
+      },
+      {
+        "english": "That’s what I was thinking too, but I wasn’t sure.",
+        "arabic": "أنا كمان كنت بفكر في كده، بس مكنتش متأكد."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 30,
+    "categories": [
+      "c04"
+    ],
+    "related": []
+  },
+  {
+    "id": "p031",
+    "kind": "pattern",
+    "english": "I feel like … / I don’t feel like …",
+    "arabic": "نفسي في … / مش نفسي في …",
+    "usage": [
+      "بعدها اسم أو فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I feel like going for a walk after dinner.",
+        "arabic": "نفسي أتمشّى بعد العشا."
+      },
+      {
+        "english": "I don’t feel like cooking tonight.",
+        "arabic": "مش نفسي أطبخ النهارده بالليل."
+      },
+      {
+        "english": "Do you feel like having a coffee before we leave?",
+        "arabic": "نفسك تشرب قهوة قبل ما نمشي؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 31,
+    "categories": [
+      "c27"
+    ],
+    "related": [
+      "vdde0f84cb9b9"
+    ]
+  },
+  {
+    "id": "p032",
+    "kind": "pattern",
+    "english": "I’d rather … than …",
+    "arabic": "أفضل … بدل ما …",
+    "usage": [
+      "بعد “rather” بنستخدم الفعل من غير “to”."
+    ],
+    "variations": [
+      {
+        "english": "I’d rather walk than wait for the bus.",
+        "arabic": "أفضل أمشي بدل ما أستنى الأتوبيس."
+      },
+      {
+        "english": "I’d rather save up than buy it on credit.",
+        "arabic": "أفضل أحوّش تمنه بدل ما أشتريه بالقسط."
+      },
+      {
+        "english": "I’d rather talk in person than discuss this over text.",
+        "arabic": "أفضل نتكلم وش لوش بدل ما نناقش ده في رسايل."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 32,
+    "categories": [
+      "c27"
+    ],
+    "related": [
+      "vce10e30eeda9"
+    ]
+  },
+  {
+    "id": "p033",
+    "kind": "pattern",
+    "english": "I’m not really into …",
+    "arabic": "مش بحب … أوي / مش مهتم أوي بـ…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m not really into horror films.",
+        "arabic": "مش بحب أفلام الرعب أوي."
+      },
+      {
+        "english": "I’m not really into going out every night.",
+        "arabic": "مش بحب أخرج كل ليلة."
+      },
+      {
+        "english": "I’m not really into football, but I watch the big matches.",
+        "arabic": "مش مهتم بالكورة أوي، بس بتفرّج على الماتشات الكبيرة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 33,
+    "categories": [
+      "c27"
+    ],
+    "related": []
+  },
+  {
+    "id": "p034",
+    "kind": "pattern",
+    "english": "I don’t mind …",
+    "arabic": "معنديش مانع … / الموضوع مش مضايقني.",
+    "usage": [
+      "بعدها اسم أو فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I don’t mind waiting a few minutes.",
+        "arabic": "معنديش مانع أستنى كام دقيقة."
+      },
+      {
+        "english": "I don’t mind where we eat, as long as it’s nearby.",
+        "arabic": "مش فارق معايا ناكل فين، طالما المكان قريب."
+      },
+      {
+        "english": "I don’t mind helping, but I can’t stay late.",
+        "arabic": "معنديش مانع أساعد، بس مش هقدر أفضل لوقت متأخر."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 34,
+    "categories": [
+      "c27"
+    ],
+    "related": [
+      "v7e76a29180fd",
+      "vc62bc89b2ac2",
+      "vf0377dcf421b"
+    ]
+  },
+  {
+    "id": "p035",
+    "kind": "pattern",
+    "english": "I’m looking forward to …",
+    "arabic": "مستني … بحماس / متحمس لـ…",
+    "usage": [
+      "بعد “to” هنا بنستخدم اسم أو فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I’m looking forward to seeing you again.",
+        "arabic": "متحمس أشوفك تاني."
+      },
+      {
+        "english": "I’m looking forward to having a few days off.",
+        "arabic": "مستني آخد كام يوم إجازة بفارغ الصبر."
+      },
+      {
+        "english": "I’m looking forward to the weekend.",
+        "arabic": "مستني الويك إند بحماس."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 35,
+    "categories": [
+      "c10"
+    ],
+    "related": []
+  },
+  {
+    "id": "p036",
+    "kind": "pattern",
+    "english": "I’m worried about …",
+    "arabic": "قلقان من … / قلقان على …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m worried about making mistakes when I speak.",
+        "arabic": "قلقان من إني أغلط وأنا بتكلم."
+      },
+      {
+        "english": "I’m worried about how much this will cost.",
+        "arabic": "قلقان من تكلفة الموضوع ده."
+      },
+      {
+        "english": "I’m worried about my friend. He hasn’t replied all day.",
+        "arabic": "قلقان على صاحبي. مردش طول اليوم."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 36,
+    "categories": [
+      "c10"
+    ],
+    "related": []
+  },
+  {
+    "id": "p037",
+    "kind": "pattern",
+    "english": "I’m relieved that …",
+    "arabic": "ارتحت لما عرفت إن … / حاسس براحة إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m relieved that everyone got home safely.",
+        "arabic": "ارتحت لما عرفت إن الكل وصل البيت بالسلامة."
+      },
+      {
+        "english": "I’m relieved that we don’t have to start again.",
+        "arabic": "ارتحت إننا مش مضطرين نبدأ من الأول."
+      },
+      {
+        "english": "I’m relieved that the interview is over.",
+        "arabic": "ارتحت إن المقابلة خلصت."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 37,
+    "categories": [
+      "c10"
+    ],
+    "related": []
+  },
+  {
+    "id": "p038",
+    "kind": "pattern",
+    "english": "I find … difficult / helpful / frustrating.",
+    "arabic": "بلاقي … صعب / مفيد / محبط.",
+    "usage": [
+      "ممكن تستخدم “it + صفة + to…”"
+    ],
+    "variations": [
+      {
+        "english": "I find it difficult to speak when everyone’s listening.",
+        "arabic": "بلاقي صعوبة أتكلم لما الكل يبقى بيسمعني."
+      },
+      {
+        "english": "I find short videos helpful when I’m learning something new.",
+        "arabic": "بلاقي الفيديوهات القصيرة مفيدة لما بتعلم حاجة جديدة."
+      },
+      {
+        "english": "I find it frustrating when people cancel at the last minute.",
+        "arabic": "بتضايق لما الناس تلغي في آخر لحظة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 38,
+    "categories": [
+      "c10"
+    ],
+    "related": [
+      "vfe87d2110fc7",
+      "v0584e1c4c6da"
+    ]
+  },
+  {
+    "id": "p039",
+    "kind": "pattern",
+    "english": "It’s getting …",
+    "arabic": "بدأ يبقى … / بيبقى … أكتر مع الوقت.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It’s getting easier to understand people.",
+        "arabic": "فهم كلام الناس بدأ يبقى أسهل."
+      },
+      {
+        "english": "It’s getting harder to find a place to park.",
+        "arabic": "بقى أصعب تلاقي مكان تركن فيه."
+      },
+      {
+        "english": "It’s getting late. We should probably leave.",
+        "arabic": "الوقت اتأخر. غالبًا المفروض نمشي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 39,
+    "categories": [
+      "c14"
+    ],
+    "related": []
+  },
+  {
+    "id": "p040",
+    "kind": "pattern",
+    "english": "I wish I could …",
+    "arabic": "يا ريتني أقدر …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I wish I could come, but I’m working that day.",
+        "arabic": "يا ريتني أقدر أجي، بس أنا شغال اليوم ده."
+      },
+      {
+        "english": "I wish I could speak English more confidently.",
+        "arabic": "يا ريتني أقدر أتكلم إنجليزي بثقة أكتر."
+      },
+      {
+        "english": "I wish I could take a longer holiday.",
+        "arabic": "يا ريتني أقدر آخد إجازة أطول."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 40,
+    "categories": [
+      "c10"
+    ],
+    "related": []
+  },
+  {
+    "id": "p041",
+    "kind": "pattern",
+    "english": "I’m trying to …",
+    "arabic": "بحاول …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m trying to spend less time on my phone.",
+        "arabic": "بحاول أقضي وقت أقل على الموبايل."
+      },
+      {
+        "english": "I’m trying to understand what went wrong.",
+        "arabic": "بحاول أفهم إيه اللي حصل غلط."
+      },
+      {
+        "english": "I’m trying to finish this before lunch.",
+        "arabic": "بحاول أخلّص ده قبل الغدا."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 41,
+    "categories": [
+      "c14"
+    ],
+    "related": []
+  },
+  {
+    "id": "p042",
+    "kind": "pattern",
+    "english": "I need to … by …",
+    "arabic": "محتاج … في موعد أقصاه …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I need to send the report by Thursday.",
+        "arabic": "محتاج أبعت التقرير في موعد أقصاه الخميس."
+      },
+      {
+        "english": "I need to be home by eight.",
+        "arabic": "لازم أكون في البيت على الساعة تمانية بالكتير."
+      },
+      {
+        "english": "I need to make a decision by the end of the week.",
+        "arabic": "لازم آخد قرار قبل نهاية الأسبوع."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 42,
+    "categories": [
+      "c08"
+    ],
+    "related": [
+      "v0e747bbe12bb"
+    ]
+  },
+  {
+    "id": "p043",
+    "kind": "pattern",
+    "english": "I’m having trouble …",
+    "arabic": "بواجه صعوبة في … / مش عارف … بسهولة.",
+    "usage": [
+      "بعدها فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I’m having trouble logging in.",
+        "arabic": "مش عارف أسجّل الدخول."
+      },
+      {
+        "english": "I’m having trouble finding the right words.",
+        "arabic": "بواجه صعوبة ألاقي الكلمات المناسبة."
+      },
+      {
+        "english": "I’m having trouble sleeping lately.",
+        "arabic": "بواجه صعوبة في النوم اليومين دول."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 43,
+    "categories": [
+      "c13"
+    ],
+    "related": []
+  },
+  {
+    "id": "p044",
+    "kind": "pattern",
+    "english": "I can’t figure out …",
+    "arabic": "مش قادر أفهم … / مش عارف أوصل لـ…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I can’t figure out how to change the settings.",
+        "arabic": "مش عارف أغيّر الإعدادات إزاي."
+      },
+      {
+        "english": "I can’t figure out why it keeps stopping.",
+        "arabic": "مش فاهم ليه كل شوية بيقف."
+      },
+      {
+        "english": "I can’t figure out which option is better.",
+        "arabic": "مش قادر أحدد أنهي اختيار أحسن."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 44,
+    "categories": [
+      "c13"
+    ],
+    "related": [
+      "vf9c3d3f7e8aa"
+    ]
+  },
+  {
+    "id": "p045",
+    "kind": "pattern",
+    "english": "The problem is …",
+    "arabic": "المشكلة إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "The problem is we’ve already paid for it.",
+        "arabic": "المشكلة إننا دفعنا تمنه خلاص."
+      },
+      {
+        "english": "The problem is I don’t have enough space at home.",
+        "arabic": "المشكلة إن معنديش مساحة كفاية في البيت."
+      },
+      {
+        "english": "The problem is nobody told me the time had changed.",
+        "arabic": "المشكلة إن محدش قالي إن المعاد اتغيّر."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 45,
+    "categories": [
+      "c13"
+    ],
+    "related": []
+  },
+  {
+    "id": "p046",
+    "kind": "pattern",
+    "english": "I keep …",
+    "arabic": "كل شوية … / بفضل … بشكل متكرر.",
+    "usage": [
+      "بعدها فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I keep forgetting to bring my charger.",
+        "arabic": "كل شوية بنسى أجيب الشاحن."
+      },
+      {
+        "english": "I keep getting the same error message.",
+        "arabic": "كل شوية بتطلعلي نفس رسالة الخطأ."
+      },
+      {
+        "english": "I keep putting it off because I don’t know where to start.",
+        "arabic": "بفضل أأجّله عشان مش عارف أبدأ منين."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 46,
+    "categories": [
+      "c14"
+    ],
+    "related": [
+      "v37f70388a8c7"
+    ]
+  },
+  {
+    "id": "p047",
+    "kind": "pattern",
+    "english": "We’ve run out of …",
+    "arabic": "… خلص من عندنا.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "We’ve run out of time.",
+        "arabic": "الوقت خلص مننا."
+      },
+      {
+        "english": "We’ve run out of milk. Can you pick some up?",
+        "arabic": "اللبن خلص من عندنا. ممكن تجيب شوية؟"
+      },
+      {
+        "english": "We’ve run out of ideas.",
+        "arabic": "الأفكار خلصت مننا ومش عارفين نفكر في حاجة جديدة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 47,
+    "categories": [
+      "c13"
+    ],
+    "related": [
+      "v301d740a92f9"
+    ]
+  },
+  {
+    "id": "p048",
+    "kind": "pattern",
+    "english": "It takes me … to …",
+    "arabic": "بياخد مني … عشان …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It takes me about an hour to get to work.",
+        "arabic": "بياخد مني حوالي ساعة عشان أوصل الشغل."
+      },
+      {
+        "english": "It takes me a while to relax after a busy day.",
+        "arabic": "بياخد مني شوية وقت عشان أهدى بعد يوم زحمة."
+      },
+      {
+        "english": "It takes me longer to explain things in English.",
+        "arabic": "شرح الحاجات بالإنجليزي بياخد مني وقت أطول."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 48,
+    "categories": [
+      "c08"
+    ],
+    "related": []
+  },
+  {
+    "id": "p049",
+    "kind": "pattern",
+    "english": "I’m supposed to …",
+    "arabic": "المفروض إني …",
+    "usage": [
+      "لحاجة متوقعة منك، أو متفق عليها، أو جزء من مسؤوليتك."
+    ],
+    "variations": [
+      {
+        "english": "I’m supposed to send this before I leave.",
+        "arabic": "المفروض أبعت ده قبل ما أمشي."
+      },
+      {
+        "english": "I’m supposed to be there at nine.",
+        "arabic": "المفروض أكون هناك الساعة تسعة."
+      },
+      {
+        "english": "I’m not supposed to share that information.",
+        "arabic": "المفروض مش مسموحلي أشارك المعلومات دي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 49,
+    "categories": [
+      "c15"
+    ],
+    "related": []
+  },
+  {
+    "id": "p050",
+    "kind": "pattern",
+    "english": "I managed to …",
+    "arabic": "قدرت … في الآخر، رغم إن الموضوع كان صعب.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I managed to finish everything on time.",
+        "arabic": "قدرت أخلّص كل حاجة في معادها."
+      },
+      {
+        "english": "I managed to get a seat on the last train.",
+        "arabic": "قدرت ألاقي كرسي في آخر قطار."
+      },
+      {
+        "english": "I managed to fix it without calling anyone.",
+        "arabic": "قدرت أصلّحه من غير ما أتصل بحد."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 50,
+    "categories": [
+      "c14"
+    ],
+    "related": [
+      "v16f9e9094529"
+    ]
+  },
+  {
+    "id": "p051",
+    "kind": "pattern",
+    "english": "I used to …, but now …",
+    "arabic": "كنت زمان …، بس دلوقتي …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I used to stay up late, but now I go to bed earlier.",
+        "arabic": "كنت زمان بسهر، بس دلوقتي بنام بدري أكتر."
+      },
+      {
+        "english": "I used to hate cooking, but now I quite enjoy it.",
+        "arabic": "كنت زمان بكره الطبخ، بس دلوقتي بقيت بحبه."
+      },
+      {
+        "english": "I used to translate everything in my head, but now I try to think in English.",
+        "arabic": "كنت زمان بترجم كل حاجة في دماغي، بس دلوقتي بحاول أفكر بالإنجليزي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 51,
+    "categories": [
+      "c14"
+    ],
+    "related": [
+      "v1c009af3ff57",
+      "v8bc9e1df926a",
+      "vdb4874db7988"
+    ]
+  },
+  {
+    "id": "p052",
+    "kind": "pattern",
+    "english": "I’m getting used to …",
+    "arabic": "بدأت أتعود على …",
+    "usage": [
+      "بعدها اسم أو فعل بـ-ing؛ معناها مختلف عن “I used to…” في رقم 51."
+    ],
+    "variations": [
+      {
+        "english": "I’m getting used to waking up early.",
+        "arabic": "بدأت أتعود أصحى بدري."
+      },
+      {
+        "english": "I’m getting used to the new system at work.",
+        "arabic": "بدأت أتعود على النظام الجديد في الشغل."
+      },
+      {
+        "english": "I’m still getting used to living on my own.",
+        "arabic": "لسه بتعود على العيش لوحدي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 52,
+    "categories": [
+      "c14"
+    ],
+    "related": [
+      "v1c009af3ff57"
+    ]
+  },
+  {
+    "id": "p053",
+    "kind": "pattern",
+    "english": "I’ve never … before.",
+    "arabic": "عمري ما … قبل كده.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ve never travelled on my own before.",
+        "arabic": "عمري ما سافرت لوحدي قبل كده."
+      },
+      {
+        "english": "I’ve never tried this kind of food before.",
+        "arabic": "عمري ما جرّبت النوع ده من الأكل قبل كده."
+      },
+      {
+        "english": "I’ve never had to deal with this before.",
+        "arabic": "عمري ما اضطريت أتعامل مع ده قبل كده."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 53,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v297529e7516f",
+      "va7f64bfc605e"
+    ]
+  },
+  {
+    "id": "p054",
+    "kind": "pattern",
+    "english": "Have you ever …?",
+    "arabic": "عمرك … قبل كده؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Have you ever missed a flight?",
+        "arabic": "عمرك فاتتك طيارة؟"
+      },
+      {
+        "english": "Have you ever worked with someone you already knew?",
+        "arabic": "عمرك اشتغلت مع حد كنت تعرفه من قبلها؟"
+      },
+      {
+        "english": "Have you ever bought something and immediately regretted it?",
+        "arabic": "عمرك اشتريت حاجة وندمت عليها فورًا؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 54,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p055",
+    "kind": "pattern",
+    "english": "It’s my first time …",
+    "arabic": "دي أول مرة ليا …",
+    "usage": [
+      "بعدها فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "It’s my first time giving a presentation in English.",
+        "arabic": "دي أول مرة أعمل عرض بالإنجليزي."
+      },
+      {
+        "english": "It’s my first time staying in this area.",
+        "arabic": "دي أول مرة أقعد في المنطقة دي."
+      },
+      {
+        "english": "It’s my first time using this app, so I’m still learning.",
+        "arabic": "دي أول مرة أستخدم التطبيق ده، ف لسه بتعلم عليه."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 55,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p056",
+    "kind": "pattern",
+    "english": "I haven’t … for …",
+    "arabic": "بقالي … ما…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I haven’t seen him for months.",
+        "arabic": "بقالي شهور مشفتوش."
+      },
+      {
+        "english": "I haven’t had a proper break for weeks.",
+        "arabic": "بقالي أسابيع مخدتش راحة بجد."
+      },
+      {
+        "english": "I haven’t been to the gym for a while.",
+        "arabic": "بقالي فترة مروحتش الجيم."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 56,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "ve1ef16cfeced"
+    ]
+  },
+  {
+    "id": "p057",
+    "kind": "pattern",
+    "english": "I’ve been … lately.",
+    "arabic": "بقيت … / بقالي فترة … اليومين دول.",
+    "usage": [
+      "بعدها فعل بـ-ing أو صفة حسب المعنى."
+    ],
+    "variations": [
+      {
+        "english": "I’ve been working late a lot lately.",
+        "arabic": "بقالي فترة بشتغل لوقت متأخر كتير."
+      },
+      {
+        "english": "I’ve been trying to eat better lately.",
+        "arabic": "بقالي فترة بحاول أحسّن أكلي."
+      },
+      {
+        "english": "I’ve been feeling a bit tired lately.",
+        "arabic": "حاسس بتعب شوية اليومين دول."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 57,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p058",
+    "kind": "pattern",
+    "english": "The last time I … was …",
+    "arabic": "آخر مرة … كانت …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "The last time I saw her was at a friend’s wedding.",
+        "arabic": "آخر مرة شفتها كانت في فرح واحد صاحبنا."
+      },
+      {
+        "english": "The last time I went away was about a year ago.",
+        "arabic": "آخر مرة سافرت أغيّر جو كانت من حوالي سنة."
+      },
+      {
+        "english": "The last time I tried it, it didn’t work.",
+        "arabic": "آخر مرة جرّبته، مشتغلش."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 58,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p059",
+    "kind": "pattern",
+    "english": "I didn’t realise … until …",
+    "arabic": "مخدتش بالي إن … غير لما …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I didn’t realise I’d lost my phone until I got home.",
+        "arabic": "مخدتش بالي إن موبايلي ضاع غير لما وصلت البيت."
+      },
+      {
+        "english": "I didn’t realise how tired I was until I sat down.",
+        "arabic": "مخدتش بالي إني تعبان أوي غير لما قعدت."
+      },
+      {
+        "english": "I didn’t realise the shop was closed until we got there.",
+        "arabic": "مخدتش بالي إن المحل مقفول غير لما وصلنا هناك."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 59,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p060",
+    "kind": "pattern",
+    "english": "I should’ve …",
+    "arabic": "كان المفروض أكون …",
+    "usage": [
+      "“Should’ve” = “should have”، وبعدها التصريف الثالث للفعل."
+    ],
+    "variations": [
+      {
+        "english": "I should’ve checked the address before leaving.",
+        "arabic": "كان المفروض أتأكد من العنوان قبل ما أمشي."
+      },
+      {
+        "english": "I should’ve told you earlier.",
+        "arabic": "كان المفروض أقولك بدري."
+      },
+      {
+        "english": "I should’ve taken a break instead of working all night.",
+        "arabic": "كان المفروض آخد راحة بدل ما أشتغل طول الليل."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 60,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "va2c8bc5a8e53"
+    ]
+  },
+  {
+    "id": "p061",
+    "kind": "pattern",
+    "english": "I was … when …",
+    "arabic": "كنت بعمل … لما … حصل.",
+    "usage": [
+      "الفعل الأول بـ-ing؛ بعد “when” حدث قطع أو غيّر الموقف."
+    ],
+    "variations": [
+      {
+        "english": "I was walking home when it started raining.",
+        "arabic": "كنت ماشي راجع البيت لما المطر بدأ."
+      },
+      {
+        "english": "I was cooking when the power went out.",
+        "arabic": "كنت بطبخ لما الكهربا قطعت."
+      },
+      {
+        "english": "I was talking to a customer when my manager called.",
+        "arabic": "كنت بتكلم مع عميل لما مديري اتصل."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 61,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p062",
+    "kind": "pattern",
+    "english": "I was about to … when …",
+    "arabic": "كنت لسه هعمل … لما …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I was about to leave when you called.",
+        "arabic": "كنت لسه همشي لما اتصلت."
+      },
+      {
+        "english": "I was about to pay when I realised I’d forgotten my wallet.",
+        "arabic": "كنت لسه هدفع لما افتكرت إني ناسي المحفظة."
+      },
+      {
+        "english": "I was about to book it when the price went up.",
+        "arabic": "كنت لسه هحجزه لما السعر زاد."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 62,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v96a52c3419e5"
+    ]
+  },
+  {
+    "id": "p063",
+    "kind": "pattern",
+    "english": "At first, …, but then …",
+    "arabic": "في الأول …، بس بعد كده …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "At first, I was nervous, but then I started to relax.",
+        "arabic": "في الأول كنت متوتر، بس بعد كده بدأت أهدى."
+      },
+      {
+        "english": "At first, I didn’t like the area, but then I got to know it better.",
+        "arabic": "في الأول مكنتش بحب المنطقة، بس بعد كده عرفتها أكتر."
+      },
+      {
+        "english": "At first, we thought it was broken, but then we found the problem.",
+        "arabic": "في الأول افتكرناه بايظ، بس بعد كده عرفنا المشكلة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 63,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v1589e7b7b027"
+    ]
+  },
+  {
+    "id": "p064",
+    "kind": "pattern",
+    "english": "It turned out that …",
+    "arabic": "طلع في الآخر إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It turned out that we were waiting in the wrong place.",
+        "arabic": "طلع في الآخر إننا كنا مستنيين في المكان الغلط."
+      },
+      {
+        "english": "It turned out that she knew my brother.",
+        "arabic": "طلع إنها تعرف أخويا."
+      },
+      {
+        "english": "It turned out that the repair was free.",
+        "arabic": "طلع إن التصليح ببلاش."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 64,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v3a00c3a62326"
+    ]
+  },
+  {
+    "id": "p065",
+    "kind": "pattern",
+    "english": "I ended up …",
+    "arabic": "في الآخر لقيت نفسي … / انتهى بيا الحال إني …",
+    "usage": [
+      "بعدها فعل بـ-ing؛ غالبًا النتيجة مختلفة عن الخطة."
+    ],
+    "variations": [
+      {
+        "english": "I ended up staying home because I was too tired.",
+        "arabic": "في الآخر قعدت في البيت عشان كنت تعبان أوي."
+      },
+      {
+        "english": "I ended up buying a different phone.",
+        "arabic": "في الآخر اشتريت موبايل مختلف."
+      },
+      {
+        "english": "I ended up talking to him for nearly an hour.",
+        "arabic": "لقيت نفسي بتكلم معاه حوالي ساعة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 65,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p066",
+    "kind": "pattern",
+    "english": "By the time …, …",
+    "arabic": "على ما …، كان … حصل خلاص.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "By the time we arrived, the film had already started.",
+        "arabic": "على ما وصلنا، الفيلم كان بدأ خلاص."
+      },
+      {
+        "english": "By the time I got home, everyone was asleep.",
+        "arabic": "على ما وصلت البيت، الكل كان نايم."
+      },
+      {
+        "english": "By the time I checked, the tickets had sold out.",
+        "arabic": "على ما شفت، التذاكر كانت خلصت."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 66,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v8e47687c1137"
+    ]
+  },
+  {
+    "id": "p067",
+    "kind": "pattern",
+    "english": "That’s why …",
+    "arabic": "وعشان كده …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I didn’t sleep well. That’s why I’m so tired.",
+        "arabic": "منمتش كويس. عشان كده أنا تعبان أوي."
+      },
+      {
+        "english": "The rent went up. That’s why we moved.",
+        "arabic": "الإيجار زاد. عشان كده نقلنا."
+      },
+      {
+        "english": "I want to speak more confidently. That’s why I practise out loud.",
+        "arabic": "عايز أتكلم بثقة أكتر. عشان كده بتدرّب بصوت عالي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 67,
+    "categories": [
+      "c05"
+    ],
+    "related": [
+      "v8ec05902a7a6"
+    ]
+  },
+  {
+    "id": "p068",
+    "kind": "pattern",
+    "english": "Even though …, …",
+    "arabic": "رغم إن …، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Even though I was tired, I went out for a short walk.",
+        "arabic": "رغم إني كنت تعبان، نزلت أتمشّى شوية."
+      },
+      {
+        "english": "Even though it was expensive, I think it was worth it.",
+        "arabic": "رغم إنه كان غالي، شايف إنه كان يستاهل."
+      },
+      {
+        "english": "Even though we disagree, we still get along well.",
+        "arabic": "رغم إننا مختلفين في الرأي، علاقتنا لسه كويسة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 68,
+    "categories": [
+      "c05"
+    ],
+    "related": [
+      "v4d462926fa66"
+    ]
+  },
+  {
+    "id": "p069",
+    "kind": "pattern",
+    "english": "… so that I can …",
+    "arabic": "… عشان أقدر …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I write things down so that I can remember them later.",
+        "arabic": "بكتب الحاجات عشان أقدر أفتكرها بعدين."
+      },
+      {
+        "english": "I’m leaving early so that I can avoid the traffic.",
+        "arabic": "همشي بدري عشان أقدر أتجنب الزحمة."
+      },
+      {
+        "english": "I’m saving a little each month so that I can take a holiday.",
+        "arabic": "بحوّش مبلغ صغير كل شهر عشان أقدر آخد إجازة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 69,
+    "categories": [
+      "c05"
+    ],
+    "related": [
+      "vab6b7abe5e49"
+    ]
+  },
+  {
+    "id": "p070",
+    "kind": "pattern",
+    "english": "Whenever …, …",
+    "arabic": "كل ما …، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Whenever I get nervous, I start speaking too quickly.",
+        "arabic": "كل ما بتوتر، ببدأ أتكلم بسرعة زيادة."
+      },
+      {
+        "english": "Whenever I’m in the area, I stop by that café.",
+        "arabic": "كل ما أكون في المنطقة، بعدّي على الكافيه ده."
+      },
+      {
+        "english": "Whenever I have a free evening, I try to catch up with friends.",
+        "arabic": "كل ما يبقى عندي ليلة فاضية، بحاول أقابل صحابي وأعرف أخبارهم."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 70,
+    "categories": [
+      "c08"
+    ],
+    "related": [
+      "v9a9aaf8aba72"
+    ]
+  },
+  {
+    "id": "p071",
+    "kind": "pattern",
+    "english": "I’m thinking about …",
+    "arabic": "بفكر في …",
+    "usage": [
+      "بعدها اسم أو فعل بـ-ing؛ لسه بتفكر، مش بالضرورة قررت."
+    ],
+    "variations": [
+      {
+        "english": "I’m thinking about taking an English course.",
+        "arabic": "بفكر آخد كورس إنجليزي."
+      },
+      {
+        "english": "I’m thinking about moving closer to work.",
+        "arabic": "بفكر أنقل أسكن أقرب للشغل."
+      },
+      {
+        "english": "I’m thinking about inviting a few friends over.",
+        "arabic": "بفكر أعزم كام واحد من صحابي عندي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 71,
+    "categories": [
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p072",
+    "kind": "pattern",
+    "english": "I’m planning to …",
+    "arabic": "ناوي … / مخطط إني …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m planning to take a few days off next month.",
+        "arabic": "ناوي آخد كام يوم إجازة الشهر الجاي."
+      },
+      {
+        "english": "I’m planning to start looking for a new place.",
+        "arabic": "ناوي أبدأ أدور على مكان جديد."
+      },
+      {
+        "english": "I’m planning to practise speaking every evening.",
+        "arabic": "ناوي أتدرّب على الكلام كل يوم بالليل."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 72,
+    "categories": [
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p073",
+    "kind": "pattern",
+    "english": "I might …, depending on …",
+    "arabic": "ممكن …، حسب …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I might join you, depending on when I finish work.",
+        "arabic": "ممكن آجي معاكم، حسب هخلّص الشغل إمتى."
+      },
+      {
+        "english": "I might drive, depending on the weather.",
+        "arabic": "ممكن أروح بالعربية، حسب الجو."
+      },
+      {
+        "english": "I might stay an extra night, depending on the price.",
+        "arabic": "ممكن أقعد ليلة زيادة، حسب السعر."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 73,
+    "categories": [
+      "c06",
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p074",
+    "kind": "pattern",
+    "english": "If …, I’ll …",
+    "arabic": "لو …، هعمل …",
+    "usage": [
+      "بعد “if” هنا بنستخدم المضارع، حتى وإحنا بنتكلم عن المستقبل."
+    ],
+    "variations": [
+      {
+        "english": "If I finish early, I’ll give you a call.",
+        "arabic": "لو خلّصت بدري، هكلمك."
+      },
+      {
+        "english": "If it rains, I’ll take a taxi.",
+        "arabic": "لو الدنيا مطرت، هاخد تاكسي."
+      },
+      {
+        "english": "If the price drops, I’ll buy it.",
+        "arabic": "لو السعر نزل، هشتريه."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 74,
+    "categories": [
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p075",
+    "kind": "pattern",
+    "english": "… unless …",
+    "arabic": "… إلا لو … / … لو … ماحصلش.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ll come unless I have to work late.",
+        "arabic": "هاجي إلا لو اضطريت أشتغل لوقت متأخر."
+      },
+      {
+        "english": "We won’t get a table unless we book ahead.",
+        "arabic": "مش هنلاقي ترابيزة إلا لو حجزنا قبلها."
+      },
+      {
+        "english": "I’m not buying a new one unless this one stops working.",
+        "arabic": "مش هشتري واحد جديد إلا لو ده بطل يشتغل."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 75,
+    "categories": [
+      "c05",
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p076",
+    "kind": "pattern",
+    "english": "I’m … tomorrow / this evening / next week.",
+    "arabic": "عندي ترتيب أو معاد لـ… بكرة / النهارده بالليل / الأسبوع الجاي.",
+    "usage": [
+      "المضارع المستمر ممكن يعبّر عن ترتيب مستقبلي."
+    ],
+    "variations": [
+      {
+        "english": "I’m meeting a friend after work tomorrow.",
+        "arabic": "متفق أقابل صاحب ليا بعد الشغل بكرة."
+      },
+      {
+        "english": "I’m seeing the dentist on Monday.",
+        "arabic": "عندي معاد عند دكتور الأسنان يوم الاتنين."
+      },
+      {
+        "english": "I’m taking the train to Alexandria this weekend.",
+        "arabic": "هروح إسكندرية بالقطار الويك إند ده."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 76,
+    "categories": [
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p077",
+    "kind": "pattern",
+    "english": "I’ll let you know when …",
+    "arabic": "هقولك / هبلغك لما …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ll let you know when I get there.",
+        "arabic": "هقولك لما أوصل هناك."
+      },
+      {
+        "english": "I’ll let you know when I hear back from them.",
+        "arabic": "هبلغك لما يردّوا عليا."
+      },
+      {
+        "english": "I’ll let you know when I’m free.",
+        "arabic": "هقولك لما أكون فاضي."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 77,
+    "categories": [
+      "c09"
+    ],
+    "related": [
+      "v01a142253839"
+    ]
+  },
+  {
+    "id": "p078",
+    "kind": "pattern",
+    "english": "Let’s see how …",
+    "arabic": "خلّينا نشوف … هيبقى عامل إزاي.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Let’s see how it goes before we make any promises.",
+        "arabic": "خلّينا نشوف الموضوع هيمشي إزاي قبل ما نوعد بأي حاجة."
+      },
+      {
+        "english": "Let’s see how much time we have after lunch.",
+        "arabic": "خلّينا نشوف هيبقى معانا وقت قد إيه بعد الغدا."
+      },
+      {
+        "english": "Let’s see how you feel tomorrow.",
+        "arabic": "خلّينا نشوف هتبقى حاسس بإيه بكرة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 78,
+    "categories": [
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p079",
+    "kind": "pattern",
+    "english": "You don’t have to …",
+    "arabic": "مش لازم … / مش مضطر …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "You don’t have to decide right now.",
+        "arabic": "مش لازم تقرر دلوقتي."
+      },
+      {
+        "english": "You don’t have to bring anything.",
+        "arabic": "مش لازم تجيب أي حاجة معاك."
+      },
+      {
+        "english": "You don’t have to explain if you don’t want to.",
+        "arabic": "مش مضطر تشرح لو مش عايز."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 79,
+    "categories": [
+      "c09",
+      "c25"
+    ],
+    "related": []
+  },
+  {
+    "id": "p080",
+    "kind": "pattern",
+    "english": "If I were you, I’d …",
+    "arabic": "لو أنا مكانك، كنت هعمل …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "If I were you, I’d ask before paying.",
+        "arabic": "لو أنا مكانك، كنت هسأل قبل ما أدفع."
+      },
+      {
+        "english": "If I were you, I’d take a day to think about it.",
+        "arabic": "لو أنا مكانك، كنت هاخد يوم أفكر في الموضوع."
+      },
+      {
+        "english": "If I were you, I’d start with something small.",
+        "arabic": "لو أنا مكانك، كنت هبدأ بحاجة بسيطة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 80,
+    "categories": [
+      "c09",
+      "c25"
+    ],
+    "related": []
+  },
+  {
+    "id": "p081",
+    "kind": "pattern",
+    "english": "Do you want me to …?",
+    "arabic": "تحب أعملك …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Do you want me to pick you up?",
+        "arabic": "تحب أعدّي آخدك؟"
+      },
+      {
+        "english": "Do you want me to check it before you send it?",
+        "arabic": "تحب أراجعه قبل ما تبعته؟"
+      },
+      {
+        "english": "Do you want me to explain what happened?",
+        "arabic": "تحب أشرح إيه اللي حصل؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 81,
+    "categories": [
+      "c25"
+    ],
+    "related": []
+  },
+  {
+    "id": "p082",
+    "kind": "pattern",
+    "english": "Could you …?",
+    "arabic": "ممكن …؟",
+    "usage": [
+      "لطلب حاجة من شخص بطريقة مهذبة وطبيعية."
+    ],
+    "variations": [
+      {
+        "english": "Could you send me the location?",
+        "arabic": "ممكن تبعتلي اللوكيشن؟"
+      },
+      {
+        "english": "Could you give me a hand with this?",
+        "arabic": "ممكن تساعدني في ده؟"
+      },
+      {
+        "english": "Could you keep the noise down a bit?",
+        "arabic": "ممكن تقلّلوا الصوت شوية؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 82,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "vc245da0aea4e"
+    ]
+  },
+  {
+    "id": "p083",
+    "kind": "pattern",
+    "english": "Do you mind if I …?",
+    "arabic": "عندك مانع لو أنا …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Do you mind if I sit here?",
+        "arabic": "عندك مانع لو قعدت هنا؟"
+      },
+      {
+        "english": "Do you mind if I open the window?",
+        "arabic": "عندك مانع لو فتحت الشباك؟"
+      },
+      {
+        "english": "Do you mind if I ask you a personal question?",
+        "arabic": "عندك مانع لو سألتك سؤال شخصي؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 83,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "v66b252bbb447"
+    ]
+  },
+  {
+    "id": "p084",
+    "kind": "pattern",
+    "english": "Is there any chance you could …?",
+    "arabic": "ممكن لو تقدر …؟",
+    "usage": [
+      "مفيد لما الطلب يحتاج مجهود أو يكون صعب شوية."
+    ],
+    "variations": [
+      {
+        "english": "Is there any chance you could cover my shift tomorrow?",
+        "arabic": "ممكن لو تقدر تشتغل مكاني بكرة؟"
+      },
+      {
+        "english": "Is there any chance you could move the appointment to Friday?",
+        "arabic": "ممكن لو تقدر تنقل المعاد للجمعة؟"
+      },
+      {
+        "english": "Is there any chance you could lend me your charger for a few minutes?",
+        "arabic": "ممكن لو تقدر تسلفني الشاحن كام دقيقة؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 84,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "vf07a69e9e873"
+    ]
+  },
+  {
+    "id": "p085",
+    "kind": "pattern",
+    "english": "Would you like to …?",
+    "arabic": "تحب …؟",
+    "usage": [
+      "لدعوة حد يعمل حاجة."
+    ],
+    "variations": [
+      {
+        "english": "Would you like to join us for lunch?",
+        "arabic": "تحب تيجي تتغدى معانا؟"
+      },
+      {
+        "english": "Would you like to come over on Saturday?",
+        "arabic": "تحب تيجي عندي السبت؟"
+      },
+      {
+        "english": "Would you like to have a look before you decide?",
+        "arabic": "تحب تبص عليه قبل ما تقرر؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 85,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "vd0e7331f83ad"
+    ]
+  },
+  {
+    "id": "p086",
+    "kind": "pattern",
+    "english": "How about …?",
+    "arabic": "إيه رأيك في …؟ / إيه رأيك نعمل …؟",
+    "usage": [
+      "للاقتراح: بعدها اسم أو فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "How about meeting somewhere closer to you?",
+        "arabic": "إيه رأيك نتقابل في مكان أقرب ليك؟"
+      },
+      {
+        "english": "How about ordering something instead of cooking?",
+        "arabic": "إيه رأيك نطلب أكل بدل ما نطبخ؟"
+      },
+      {
+        "english": "How about a quick walk before we go home?",
+        "arabic": "إيه رأيك نتمشّى شوية قبل ما نروح؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 86,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "va2c8bc5a8e53",
+      "v379ac8747aea"
+    ]
+  },
+  {
+    "id": "p087",
+    "kind": "pattern",
+    "english": "Why don’t we …?",
+    "arabic": "ما تيجي نعمل …؟",
+    "usage": [
+      "اقتراح، مش سؤال حقيقي عن السبب."
+    ],
+    "variations": [
+      {
+        "english": "Why don’t we split the bill?",
+        "arabic": "ما تيجي نقسم الحساب؟"
+      },
+      {
+        "english": "Why don’t we try a different place this time?",
+        "arabic": "ما تيجي نجرب مكان مختلف المرة دي؟"
+      },
+      {
+        "english": "Why don’t we take a break and come back to it?",
+        "arabic": "ما تيجي ناخد راحة ونرجعله بعدين؟"
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 87,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "v3c76625529f3",
+      "v47f4998ca2d3"
+    ]
+  },
+  {
+    "id": "p088",
+    "kind": "pattern",
+    "english": "Let me …",
+    "arabic": "خلّيني … / سيبني أعمل …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Let me check my calendar first.",
+        "arabic": "خلّيني أشوف مواعيدي الأول."
+      },
+      {
+        "english": "Let me help you carry that.",
+        "arabic": "خلّيني أساعدك تشيل ده."
+      },
+      {
+        "english": "Let me know if anything changes.",
+        "arabic": "ابقى قولي لو أي حاجة اتغيّرت."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 88,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "v228f1c410f97",
+      "v7ff389ab0e45"
+    ]
+  },
+  {
+    "id": "p089",
+    "kind": "pattern",
+    "english": "Thanks for …",
+    "arabic": "شكرًا على …",
+    "usage": [
+      "بعدها اسم أو فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "Thanks for helping me out yesterday.",
+        "arabic": "شكرًا إنك ساعدتني إمبارح."
+      },
+      {
+        "english": "Thanks for letting me know.",
+        "arabic": "شكرًا إنك بلغتني."
+      },
+      {
+        "english": "Thanks for being so patient with me.",
+        "arabic": "شكرًا على صبرك معايا."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 89,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "v51f2da7eda41",
+      "v93a9bc7729f8"
+    ]
+  },
+  {
+    "id": "p090",
+    "kind": "pattern",
+    "english": "I’m sorry about …",
+    "arabic": "آسف على … / آسف بخصوص …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m sorry about the delay.",
+        "arabic": "آسف على التأخير."
+      },
+      {
+        "english": "I’m sorry about what I said earlier.",
+        "arabic": "آسف على الكلام اللي قلته من شوية."
+      },
+      {
+        "english": "I’m sorry about cancelling at the last minute.",
+        "arabic": "آسف إني لغيت في آخر لحظة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 90,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "v0584e1c4c6da",
+      "v556b97c2a617"
+    ]
+  },
+  {
+    "id": "p091",
+    "kind": "pattern",
+    "english": "That sounds …",
+    "arabic": "ده شكله … / من كلامك، ده يبدو …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "That sounds like a good plan.",
+        "arabic": "دي شكلها خطة كويسة."
+      },
+      {
+        "english": "That sounds exhausting.",
+        "arabic": "ده شكله مرهق جدًا."
+      },
+      {
+        "english": "That sounds much better than your old job.",
+        "arabic": "الشغل ده من كلامك يبدو أحسن بكتير من شغلك القديم."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 91,
+    "categories": [
+      "c04"
+    ],
+    "related": []
+  },
+  {
+    "id": "p092",
+    "kind": "pattern",
+    "english": "No wonder …",
+    "arabic": "عشان كده … / مش غريبة إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "No wonder you’re tired—you’ve been working all day.",
+        "arabic": "مش غريبة إنك تعبان، إنت بتشتغل طول اليوم."
+      },
+      {
+        "english": "No wonder it’s busy—the food is really good.",
+        "arabic": "عشان كده المكان زحمة، الأكل حلو فعلًا."
+      },
+      {
+        "english": "No wonder she was upset. Nobody told her what was happening.",
+        "arabic": "مش غريبة إنها كانت زعلانة. محدش قالها إيه اللي بيحصل."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 92,
+    "categories": [
+      "c04"
+    ],
+    "related": [
+      "vd70f963c8ebd"
+    ]
+  },
+  {
+    "id": "p093",
+    "kind": "pattern",
+    "english": "I can’t believe …",
+    "arabic": "مش مصدق إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I can’t believe you remembered!",
+        "arabic": "مش مصدق إنك افتكرت!"
+      },
+      {
+        "english": "I can’t believe how much the prices have gone up.",
+        "arabic": "مش مصدق الأسعار زادت قد إيه."
+      },
+      {
+        "english": "I can’t believe it’s already October.",
+        "arabic": "مش مصدق إننا دخلنا أكتوبر خلاص."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 93,
+    "categories": [
+      "c04"
+    ],
+    "related": []
+  },
+  {
+    "id": "p094",
+    "kind": "pattern",
+    "english": "I’m sorry to hear …",
+    "arabic": "زعلت لما سمعت …",
+    "usage": [
+      "للتعاطف مع خبر سيئ، مش للاعتذار عن غلط منك."
+    ],
+    "variations": [
+      {
+        "english": "I’m sorry to hear you’ve been ill.",
+        "arabic": "زعلت لما عرفت إنك كنت تعبان."
+      },
+      {
+        "english": "I’m sorry to hear that things didn’t work out.",
+        "arabic": "زعلت لما عرفت إن الأمور ممشيتش زي ما كنت عايز."
+      },
+      {
+        "english": "I’m sorry to hear about your job.",
+        "arabic": "زعلت لما سمعت اللي حصل بخصوص شغلك."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 94,
+    "categories": [
+      "c04"
+    ],
+    "related": [
+      "veda8cfdfffbf"
+    ]
+  },
+  {
+    "id": "p095",
+    "kind": "pattern",
+    "english": "You must be … / That must be …",
+    "arabic": "أكيد إنت … / أكيد ده …",
+    "usage": [
+      "هنا “must” للتوقع القوي أو التعاطف، مش للإلزام."
+    ],
+    "variations": [
+      {
+        "english": "You must be really pleased with the result.",
+        "arabic": "أكيد إنت مبسوط أوي بالنتيجة."
+      },
+      {
+        "english": "You must be tired after such a long journey.",
+        "arabic": "أكيد إنت تعبان بعد رحلة طويلة كده."
+      },
+      {
+        "english": "That must be frustrating when it happens every day.",
+        "arabic": "أكيد ده بيضايق لما يحصل كل يوم."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 95,
+    "categories": [
+      "c04"
+    ],
+    "related": [
+      "vd3f340c5afe6",
+      "v6ead4d7864ba"
+    ]
+  },
+  {
+    "id": "p096",
+    "kind": "pattern",
+    "english": "Don’t worry, I’ll …",
+    "arabic": "متقلقش، أنا هعمل …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Don’t worry, I’ll take care of it.",
+        "arabic": "متقلقش، أنا هتصرّف في الموضوع."
+      },
+      {
+        "english": "Don’t worry, I’ll wait for you.",
+        "arabic": "متقلقش، هستناك."
+      },
+      {
+        "english": "Don’t worry, I’ll show you what to do.",
+        "arabic": "متقلقش، هوريك تعمل إيه."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 96,
+    "categories": [
+      "c04",
+      "c25"
+    ],
+    "related": [
+      "v92cc7c26ba74"
+    ]
+  },
+  {
+    "id": "p097",
+    "kind": "pattern",
+    "english": "It’s up to you …",
+    "arabic": "القرار ليك … / براحتك …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It’s up to you where we go.",
+        "arabic": "القرار ليك نروح فين."
+      },
+      {
+        "english": "It’s up to you whether you tell them.",
+        "arabic": "القرار ليك تقولهم ولا لأ."
+      },
+      {
+        "english": "It’s up to you. I’m happy with either option.",
+        "arabic": "براحتك. أنا مناسبني أي اختيار من الاتنين."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 97,
+    "categories": [
+      "c09"
+    ],
+    "related": [
+      "ve0c2745accac"
+    ]
+  },
+  {
+    "id": "p098",
+    "kind": "pattern",
+    "english": "… works for me.",
+    "arabic": "… مناسبني / … ينفع معايا.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Friday evening works for me.",
+        "arabic": "الجمعة بالليل مناسبني."
+      },
+      {
+        "english": "Meeting online works for me.",
+        "arabic": "إننا نتقابل أونلاين مناسبني."
+      },
+      {
+        "english": "That plan works for me, as long as we leave early.",
+        "arabic": "الخطة دي مناسباني، طالما هنمشي بدري."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 98,
+    "categories": [
+      "c09"
+    ],
+    "related": [
+      "vc62bc89b2ac2",
+      "vcbfc6a9d3440"
+    ]
+  },
+  {
+    "id": "p099",
+    "kind": "pattern",
+    "english": "I’d love to, but …",
+    "arabic": "نفسي فعلًا، بس …",
+    "usage": [
+      "طريقة لطيفة لرفض دعوة مع ذكر السبب."
+    ],
+    "variations": [
+      {
+        "english": "I’d love to, but I’ve already made plans.",
+        "arabic": "نفسي فعلًا، بس أنا مرتب حاجة تانية خلاص."
+      },
+      {
+        "english": "I’d love to, but I can’t afford it right now.",
+        "arabic": "نفسي فعلًا، بس مقدرش أتحمل تكلفته دلوقتي."
+      },
+      {
+        "english": "I’d love to, but I need a quiet night at home.",
+        "arabic": "نفسي فعلًا، بس محتاج أقضي ليلة هادية في البيت."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 99,
+    "categories": [
+      "c25"
+    ],
+    "related": [
+      "vc017b8048e19"
+    ]
+  },
+  {
+    "id": "p100",
+    "kind": "pattern",
+    "english": "I’ve got to go …",
+    "arabic": "لازم أمشي … / لازم أقفل …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ve got to go. It was really nice catching up.",
+        "arabic": "لازم أمشي. اتبسطت أوي إننا اتكلمنا وعرفنا أخبار بعض."
+      },
+      {
+        "english": "I’ve got to go, but let’s talk again soon.",
+        "arabic": "لازم أمشي، بس خلّينا نتكلم تاني قريب."
+      },
+      {
+        "english": "I’ve got to go—I’ve got an early start tomorrow.",
+        "arabic": "لازم أمشي، عندي يوم بيبدأ بدري بكرة."
+      }
+    ],
+    "source": "100-everyday-english-speaking-patterns(1).md",
+    "sourceNumber": 100,
+    "categories": [
+      "c01"
+    ],
+    "related": []
+  },
+  {
+    "id": "p101",
+    "kind": "pattern",
+    "english": "What brings you …?",
+    "arabic": "إيه اللي جابك …؟ / إيه سبب زيارتك لـ…؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What brings you to Cairo?",
+        "arabic": "إيه اللي جابك القاهرة؟"
+      },
+      {
+        "english": "What brings you here today?",
+        "arabic": "إيه اللي جابك هنا النهارده؟"
+      },
+      {
+        "english": "What brings you to this part of town?",
+        "arabic": "إيه اللي جابك الناحية دي من المدينة؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 101,
+    "categories": [
+      "c01"
+    ],
+    "related": []
+  },
+  {
+    "id": "p102",
+    "kind": "pattern",
+    "english": "You look like you’ve …",
+    "arabic": "شكلك كأنك …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "You look like you’ve had a long day.",
+        "arabic": "شكلك كان عندك يوم طويل ومتعب."
+      },
+      {
+        "english": "You look like you’ve got something on your mind.",
+        "arabic": "شكلك فيه حاجة شاغلة بالك."
+      },
+      {
+        "english": "You look like you’ve just heard some good news.",
+        "arabic": "شكلك لسه سامع خبر حلو."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 102,
+    "categories": [
+      "c04"
+    ],
+    "related": []
+  },
+  {
+    "id": "p103",
+    "kind": "pattern",
+    "english": "Have you heard from …?",
+    "arabic": "… كلمك أو بعتلك أخبار مؤخرًا؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Have you heard from Ahmed recently?",
+        "arabic": "أحمد كلمك مؤخرًا؟"
+      },
+      {
+        "english": "Have you heard from the company about your interview?",
+        "arabic": "الشركة ردّت عليك بخصوص المقابلة؟"
+      },
+      {
+        "english": "Have you heard from her since she moved?",
+        "arabic": "هي كلمتك من ساعة ما نقلت؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 103,
+    "categories": [
+      "c01"
+    ],
+    "related": []
+  },
+  {
+    "id": "p104",
+    "kind": "pattern",
+    "english": "What made you decide to …?",
+    "arabic": "إيه اللي خلاك تقرر …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What made you decide to change jobs?",
+        "arabic": "إيه اللي خلاك تقرر تغيّر شغلك؟"
+      },
+      {
+        "english": "What made you decide to learn Spanish?",
+        "arabic": "إيه اللي خلاك تقرر تتعلم إسباني؟"
+      },
+      {
+        "english": "What made you decide to move back home?",
+        "arabic": "إيه اللي خلاك تقرر ترجع تعيش في بلدك؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 104,
+    "categories": [
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p105",
+    "kind": "pattern",
+    "english": "How come …?",
+    "arabic": "إزاي كده؟ / ليه …؟",
+    "usage": [
+      "صيغة غير رسمية للسؤال عن السبب. بعدها ترتيب الجملة العادي: “How come you left?” مش “How come did you leave?”"
+    ],
+    "variations": [
+      {
+        "english": "How come you left so early?",
+        "arabic": "ليه مشيت بدري كده؟"
+      },
+      {
+        "english": "How come nobody told me?",
+        "arabic": "إزاي محدش قالي؟"
+      },
+      {
+        "english": "How come this one costs more?",
+        "arabic": "ليه ده أغلى؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 105,
+    "categories": [
+      "c05"
+    ],
+    "related": [
+      "vece76041bd89"
+    ]
+  },
+  {
+    "id": "p106",
+    "kind": "pattern",
+    "english": "Did you hear about …?",
+    "arabic": "سمعت عن …؟ / عرفت خبر …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Did you hear about the new café near the station?",
+        "arabic": "سمعت عن الكافيه الجديد اللي جنب المحطة؟"
+      },
+      {
+        "english": "Did you hear about Sara’s promotion?",
+        "arabic": "عرفت إن سارة اترقّت؟"
+      },
+      {
+        "english": "Did you hear about what happened at work yesterday?",
+        "arabic": "سمعت عن اللي حصل في الشغل إمبارح؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 106,
+    "categories": [
+      "c01"
+    ],
+    "related": []
+  },
+  {
+    "id": "p107",
+    "kind": "pattern",
+    "english": "… reminds me of …",
+    "arabic": "… بيفكرني بـ…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "This place reminds me of where I grew up.",
+        "arabic": "المكان ده بيفكرني بالمكان اللي كبرت فيه."
+      },
+      {
+        "english": "That story reminds me of something that happened to me.",
+        "arabic": "القصة دي بتفكرني بحاجة حصلتلي."
+      },
+      {
+        "english": "You remind me of an old friend of mine.",
+        "arabic": "إنت بتفكرني بصاحب قديم ليا."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 107,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v70fe28865bb7",
+      "v5953bc7b08b6"
+    ]
+  },
+  {
+    "id": "p108",
+    "kind": "pattern",
+    "english": "What happened to …?",
+    "arabic": "إيه اللي حصل لـ…؟ / … راح فين؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What happened to your plan to start a business?",
+        "arabic": "إيه اللي حصل في خطتك إنك تبدأ مشروع؟"
+      },
+      {
+        "english": "What happened to your phone? The screen looks cracked.",
+        "arabic": "إيه اللي حصل لموبايلك؟ الشاشة شكلها مشروخة."
+      },
+      {
+        "english": "What happened to the café that used to be here?",
+        "arabic": "الكافيه اللي كان هنا راح فين؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 108,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v1c009af3ff57"
+    ]
+  },
+  {
+    "id": "p109",
+    "kind": "pattern",
+    "english": "…, you know what I mean?",
+    "arabic": "…، فاهم قصدي؟",
+    "usage": [
+      "مناسبة للكلام غير الرسمي؛ استخدمها باعتدال للتأكد إن إحساسك أو وصفك وصل."
+    ],
+    "variations": [
+      {
+        "english": "It’s nice, but it doesn’t really feel like home, you know what I mean?",
+        "arabic": "المكان حلو، بس مش حاسس فيه بإحساس البيت، فاهم قصدي؟"
+      },
+      {
+        "english": "I want a job that leaves me some energy at the end of the day, you know what I mean?",
+        "arabic": "عايز شغل يسيبلي شوية طاقة في آخر اليوم، فاهم قصدي؟"
+      },
+      {
+        "english": "He’s friendly, but he’s hard to get to know, you know what I mean?",
+        "arabic": "هو لطيف، بس صعب تعرفه بجد، فاهم قصدي؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 109,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "v2d9e817344c8",
+      "v01a142253839",
+      "vba58e5519f64",
+      "vdde0f84cb9b9"
+    ]
+  },
+  {
+    "id": "p110",
+    "kind": "pattern",
+    "english": "Anyway, back to …",
+    "arabic": "المهم، نرجع لـ…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Anyway, back to your trip—when are you leaving?",
+        "arabic": "المهم، نرجع لسفرك. هتمشي إمتى؟"
+      },
+      {
+        "english": "Anyway, back to what you were saying about work.",
+        "arabic": "المهم، نرجع للي كنت بتقوله عن الشغل."
+      },
+      {
+        "english": "Anyway, back to the plan. Who’s booking the tickets?",
+        "arabic": "المهم، نرجع للخطة. مين هيحجز التذاكر؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 110,
+    "categories": [
+      "c01"
+    ],
+    "related": [
+      "v47f4998ca2d3"
+    ]
+  },
+  {
+    "id": "p111",
+    "kind": "pattern",
+    "english": "I didn’t catch …",
+    "arabic": "مسمعتش … كويس / ملحقتش أفهم …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I didn’t catch your name.",
+        "arabic": "مسمعتش اسمك كويس."
+      },
+      {
+        "english": "I didn’t catch the last thing you said.",
+        "arabic": "مسمعتش آخر حاجة قلتها كويس."
+      },
+      {
+        "english": "I didn’t catch what time we’re meeting.",
+        "arabic": "ملحقتش أفهم هنتقابل الساعة كام."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 111,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p112",
+    "kind": "pattern",
+    "english": "I’m not following …",
+    "arabic": "مش قادر أتابع أو أفهم …",
+    "usage": [
+      "المقصود هنا إن تسلسل الشرح مش واضح، مش مجرد إنك مسمعتش."
+    ],
+    "variations": [
+      {
+        "english": "I’m not following. How did we get that number?",
+        "arabic": "مش قادر أتابع. وصلنا للرقم ده إزاي؟"
+      },
+      {
+        "english": "I’m not following the part about the payment.",
+        "arabic": "مش فاهم الجزء الخاص بالدفع."
+      },
+      {
+        "english": "I’m not quite following your example. Can we go through it slowly?",
+        "arabic": "مش فاهم مثالك أوي. ممكن نمشي فيه واحدة واحدة؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 112,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "vb20c4fb7b495",
+      "v9c39b1a2e1d6"
+    ]
+  },
+  {
+    "id": "p113",
+    "kind": "pattern",
+    "english": "What’s the difference between … and …?",
+    "arabic": "إيه الفرق بين … و…؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What’s the difference between these two plans?",
+        "arabic": "إيه الفرق بين الباقتين دول؟"
+      },
+      {
+        "english": "What’s the difference between a refund and store credit?",
+        "arabic": "إيه الفرق بين استرجاع الفلوس ورصيد أستخدمه في المحل؟"
+      },
+      {
+        "english": "What’s the difference between booking online and booking here?",
+        "arabic": "إيه الفرق بين إني أحجز أونلاين وإني أحجز هنا؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 113,
+    "categories": [
+      "c02",
+      "c23"
+    ],
+    "related": []
+  },
+  {
+    "id": "p114",
+    "kind": "pattern",
+    "english": "Can you give me an example of …?",
+    "arabic": "ممكن تديني مثال على …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Can you give me an example of what you mean?",
+        "arabic": "ممكن تديني مثال يوضح قصدك؟"
+      },
+      {
+        "english": "Can you give me an example of a typical day in this job?",
+        "arabic": "ممكن تديني مثال ليوم عادي في الشغل ده؟"
+      },
+      {
+        "english": "Can you give me an example of when I’d use that expression?",
+        "arabic": "ممكن تديني مثال لموقف أستخدم فيه التعبير ده؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 114,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p115",
+    "kind": "pattern",
+    "english": "Just to check, …, right?",
+    "arabic": "بس عشان أتأكد، …، صح؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Just to check, we’re meeting at six, right?",
+        "arabic": "بس عشان أتأكد، هنتقابل الساعة ستة، صح؟"
+      },
+      {
+        "english": "Just to check, this includes breakfast, right?",
+        "arabic": "بس عشان أتأكد، ده شامل الفطار، صح؟"
+      },
+      {
+        "english": "Just to check, I don’t need to print anything, right?",
+        "arabic": "بس عشان أتأكد، مش محتاج أطبع أي حاجة، صح؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 115,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p116",
+    "kind": "pattern",
+    "english": "What does … stand for?",
+    "arabic": "… اختصار لإيه؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What does “HR” stand for?",
+        "arabic": "HR اختصار لإيه؟"
+      },
+      {
+        "english": "What does “ETA” stand for in this message?",
+        "arabic": "ETA اختصار لإيه في الرسالة دي؟"
+      },
+      {
+        "english": "What does the “P” stand for on this form?",
+        "arabic": "حرف P في الاستمارة دي اختصار لإيه؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 116,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p117",
+    "kind": "pattern",
+    "english": "If I understand correctly, …",
+    "arabic": "لو أنا فاهم صح، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "If I understand correctly, I can cancel without paying a fee.",
+        "arabic": "لو أنا فاهم صح، أقدر ألغي من غير ما أدفع رسوم."
+      },
+      {
+        "english": "If I understand correctly, you want to try it before buying it.",
+        "arabic": "لو أنا فاهم صح، إنت عايز تجرّبه قبل ما تشتريه."
+      },
+      {
+        "english": "If I understand correctly, only one of us needs to attend.",
+        "arabic": "لو أنا فاهم صح، واحد بس مننا محتاج يحضر."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 117,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p118",
+    "kind": "pattern",
+    "english": "I don’t know how to explain it, but …",
+    "arabic": "مش عارف أشرحها إزاي، بس …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I don’t know how to explain it, but something feels different.",
+        "arabic": "مش عارف أشرحها إزاي، بس حاسس إن فيه حاجة مختلفة."
+      },
+      {
+        "english": "I don’t know how to explain it, but I feel more comfortable speaking to him.",
+        "arabic": "مش عارف أشرحها إزاي، بس بحس براحة أكتر وأنا بتكلم معاه."
+      },
+      {
+        "english": "I don’t know how to explain it, but the room feels smaller than it looks.",
+        "arabic": "مش عارف أشرحها إزاي، بس الأوضة حاسسها أضيق من شكلها."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 118,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p119",
+    "kind": "pattern",
+    "english": "I can’t remember …",
+    "arabic": "مش فاكر …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I can’t remember where I put the receipt.",
+        "arabic": "مش فاكر حطيت الإيصال فين."
+      },
+      {
+        "english": "I can’t remember whether I locked the door.",
+        "arabic": "مش فاكر قفلت الباب بالمفتاح ولا لأ."
+      },
+      {
+        "english": "I can’t remember the name, but I’d recognise the place.",
+        "arabic": "مش فاكر الاسم، بس هعرف المكان لو شفته."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 119,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p120",
+    "kind": "pattern",
+    "english": "I thought you said …",
+    "arabic": "أنا كنت فاكر إنك قلت …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I thought you said the meeting was tomorrow.",
+        "arabic": "أنا كنت فاكر إنك قلت الاجتماع بكرة."
+      },
+      {
+        "english": "I thought you said you didn’t need a lift.",
+        "arabic": "أنا كنت فاكر إنك قلت مش محتاج حد يوصلك."
+      },
+      {
+        "english": "I thought you said it was included in the price.",
+        "arabic": "أنا كنت فاكر إنك قلت إنه داخل في السعر."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 120,
+    "categories": [
+      "c02"
+    ],
+    "related": []
+  },
+  {
+    "id": "p121",
+    "kind": "pattern",
+    "english": "For me, … is more important than …",
+    "arabic": "بالنسبالي، … أهم من …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "For me, a good camera is more important than a big screen.",
+        "arabic": "بالنسبالي، كاميرا كويسة أهم من شاشة كبيرة."
+      },
+      {
+        "english": "For me, having free time is more important than earning a bit more.",
+        "arabic": "بالنسبالي، يبقى عندي وقت فاضي أهم من إني أكسب شوية زيادة."
+      },
+      {
+        "english": "For me, being clear is more important than sounding perfect.",
+        "arabic": "بالنسبالي، كلامي يبقى واضح أهم من إنه يطلع مثالي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 121,
+    "categories": [
+      "c03"
+    ],
+    "related": []
+  },
+  {
+    "id": "p122",
+    "kind": "pattern",
+    "english": "What I like about … is …",
+    "arabic": "اللي بيعجبني في … هو …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What I like about this area is that everything is nearby.",
+        "arabic": "اللي بيعجبني في المنطقة دي إن كل حاجة قريبة."
+      },
+      {
+        "english": "What I like about him is that he listens.",
+        "arabic": "اللي بيعجبني فيه إنه بيسمع للي قدامه."
+      },
+      {
+        "english": "What I like about working from home is not having to commute.",
+        "arabic": "اللي بيعجبني في الشغل من البيت إني مش مضطر أروح وأرجع كل يوم."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 122,
+    "categories": [
+      "c03"
+    ],
+    "related": []
+  },
+  {
+    "id": "p123",
+    "kind": "pattern",
+    "english": "What bothers me about … is …",
+    "arabic": "اللي بيضايقني في … هو …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What bothers me about the app is how often it crashes.",
+        "arabic": "اللي بيضايقني في التطبيق إنه بيهنّج ويقفل كتير."
+      },
+      {
+        "english": "What bothers me about the job is the constant change of plans.",
+        "arabic": "اللي بيضايقني في الشغل إن الخطط بتتغيّر طول الوقت."
+      },
+      {
+        "english": "What bothers me about the flat is the noise at night.",
+        "arabic": "اللي بيضايقني في الشقة هو الدوشة بالليل."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 123,
+    "categories": [
+      "c10"
+    ],
+    "related": []
+  },
+  {
+    "id": "p124",
+    "kind": "pattern",
+    "english": "It’s not as … as I expected.",
+    "arabic": "هو مش … زي ما كنت متوقع.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It’s not as difficult as I expected. I can do most of it myself.",
+        "arabic": "هو مش صعب زي ما كنت متوقع. أقدر أعمل معظمه لوحدي."
+      },
+      {
+        "english": "It’s not as quiet as I expected, especially at night.",
+        "arabic": "هو مش هادي زي ما كنت متوقع، خصوصًا بالليل."
+      },
+      {
+        "english": "It’s not as expensive as I expected, so I might book an extra night.",
+        "arabic": "هو مش غالي زي ما كنت متوقع، فممكن أحجز ليلة زيادة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 124,
+    "categories": [
+      "c23"
+    ],
+    "related": []
+  },
+  {
+    "id": "p125",
+    "kind": "pattern",
+    "english": "It’s worth …",
+    "arabic": "يستاهل …",
+    "usage": [
+      "بعد “worth” استخدم اسم أو فعل بـ-ing، مش “to + فعل”."
+    ],
+    "variations": [
+      {
+        "english": "It’s worth checking the reviews before you book.",
+        "arabic": "يستاهل تشوف التقييمات قبل ما تحجز."
+      },
+      {
+        "english": "It’s worth paying a little extra for a direct flight.",
+        "arabic": "يستاهل تدفع زيادة بسيطة عشان رحلة من غير ترانزيت."
+      },
+      {
+        "english": "It’s worth asking, even if they say no.",
+        "arabic": "يستاهل تسأل، حتى لو قالوا لأ."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 125,
+    "categories": [
+      "c03"
+    ],
+    "related": [
+      "v3891f62bbf7e"
+    ]
+  },
+  {
+    "id": "p126",
+    "kind": "pattern",
+    "english": "It makes sense to …",
+    "arabic": "من المنطقي إننا … / ده تصرّف معقول إننا …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It makes sense to book now while the price is low.",
+        "arabic": "من المنطقي نحجز دلوقتي والسعر لسه قليل."
+      },
+      {
+        "english": "It makes sense to test it before changing everything.",
+        "arabic": "من المنطقي نجرّبه قبل ما نغيّر كل حاجة."
+      },
+      {
+        "english": "It makes sense to share a taxi if we’re going to the same place.",
+        "arabic": "من المنطقي ناخد تاكسي مع بعض طالما رايحين نفس المكان."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 126,
+    "categories": [
+      "c03"
+    ],
+    "related": []
+  },
+  {
+    "id": "p127",
+    "kind": "pattern",
+    "english": "I prefer it when …",
+    "arabic": "بحب أكتر لما …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I prefer it when people tell me directly.",
+        "arabic": "بحب أكتر لما الناس تقولّي بشكل مباشر."
+      },
+      {
+        "english": "I prefer it when we make plans a few days ahead.",
+        "arabic": "بحب أكتر لما نرتب قبلها بكام يوم."
+      },
+      {
+        "english": "I prefer it when the music isn’t too loud.",
+        "arabic": "بحب أكتر لما صوت المزيكا ميكونش عالي أوي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 127,
+    "categories": [
+      "c27"
+    ],
+    "related": [
+      "v801221722ffc"
+    ]
+  },
+  {
+    "id": "p128",
+    "kind": "pattern",
+    "english": "Don’t get me wrong, …",
+    "arabic": "متفهمنيش غلط، …",
+    "usage": [
+      "بتمهّد لتوضيح موقفك عشان كلامك ميتفهمش بشكل أشد من قصدك."
+    ],
+    "variations": [
+      {
+        "english": "Don’t get me wrong, I like the job. I just need more time off.",
+        "arabic": "متفهمنيش غلط، أنا بحب الشغل. بس محتاج إجازات أكتر."
+      },
+      {
+        "english": "Don’t get me wrong, the food was good. The service was the problem.",
+        "arabic": "متفهمنيش غلط، الأكل كان حلو. المشكلة كانت في الخدمة."
+      },
+      {
+        "english": "Don’t get me wrong, I want to help. I just can’t do it today.",
+        "arabic": "متفهمنيش غلط، أنا عايز أساعد. بس مش هقدر النهارده."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 128,
+    "categories": [
+      "c02"
+    ],
+    "related": [
+      "v7e3a30d65386"
+    ]
+  },
+  {
+    "id": "p129",
+    "kind": "pattern",
+    "english": "Compared with …, …",
+    "arabic": "بالمقارنة بـ…، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Compared with my old phone, this one takes much better pictures.",
+        "arabic": "بالمقارنة بموبايلي القديم، ده بيصوّر أحسن بكتير."
+      },
+      {
+        "english": "Compared with last month, things are a lot calmer.",
+        "arabic": "بالمقارنة بالشهر اللي فات، الأمور أهدى بكتير."
+      },
+      {
+        "english": "Compared with driving, taking the train is less stressful.",
+        "arabic": "بالمقارنة بالسواقة، القطار أقل توترًا."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 129,
+    "categories": [
+      "c23"
+    ],
+    "related": [
+      "v2f96dc4d6cf3"
+    ]
+  },
+  {
+    "id": "p130",
+    "kind": "pattern",
+    "english": "There’s no point in …",
+    "arabic": "مفيش فايدة من …",
+    "usage": [
+      "بعدها فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "There’s no point in going now. The shop will be closed.",
+        "arabic": "مفيش فايدة نروح دلوقتي. المحل هيكون قفل."
+      },
+      {
+        "english": "There’s no point in arguing about something we can’t change.",
+        "arabic": "مفيش فايدة نتخانق على حاجة مش هنقدر نغيّرها."
+      },
+      {
+        "english": "There’s no point in buying more if we won’t use it.",
+        "arabic": "مفيش فايدة نشتري زيادة لو مش هنستخدمها."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 130,
+    "categories": [
+      "c03"
+    ],
+    "related": [
+      "v40a304736d9a"
+    ]
+  },
+  {
+    "id": "p131",
+    "kind": "pattern",
+    "english": "I’m happy with …",
+    "arabic": "أنا راضي عن … / مبسوط بـ…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m happy with how it turned out.",
+        "arabic": "أنا مبسوط بالنتيجة اللي طلع بيها."
+      },
+      {
+        "english": "I’m happy with my current phone. I don’t need a new one.",
+        "arabic": "أنا راضي عن موبايلي الحالي. مش محتاج واحد جديد."
+      },
+      {
+        "english": "I’m not happy with the way they handled the problem.",
+        "arabic": "أنا مش راضي عن الطريقة اللي تعاملوا بيها مع المشكلة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 131,
+    "categories": [
+      "c10"
+    ],
+    "related": []
+  },
+  {
+    "id": "p132",
+    "kind": "pattern",
+    "english": "I can’t help …",
+    "arabic": "مش قادر أمنع نفسي من …",
+    "usage": [
+      "بعدها فعل بـ-ing. هنا “help” مش معناها «يساعد»."
+    ],
+    "variations": [
+      {
+        "english": "I can’t help laughing when I remember what he said.",
+        "arabic": "مش قادر أمسك نفسي من الضحك لما أفتكر هو قال إيه."
+      },
+      {
+        "english": "I can’t help worrying about the interview.",
+        "arabic": "مش قادر أمنع نفسي من القلق بخصوص المقابلة."
+      },
+      {
+        "english": "I can’t help checking my phone when I’m waiting for a reply.",
+        "arabic": "مش قادر أمنع نفسي من إني أبص على الموبايل وأنا مستني رد."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 132,
+    "categories": [
+      "c10"
+    ],
+    "related": [
+      "v3ce25f788267"
+    ]
+  },
+  {
+    "id": "p133",
+    "kind": "pattern",
+    "english": "I’m tired of …",
+    "arabic": "زهقت من …",
+    "usage": [
+      "بعدها اسم أو فعل بـ-ing؛ مش معناها تعب جسدي بس."
+    ],
+    "variations": [
+      {
+        "english": "I’m tired of waiting for an answer.",
+        "arabic": "زهقت من انتظار الرد."
+      },
+      {
+        "english": "I’m tired of having the same conversation every week.",
+        "arabic": "زهقت من إننا بنتكلم في نفس الموضوع كل أسبوع."
+      },
+      {
+        "english": "I’m tired of all these last-minute changes.",
+        "arabic": "زهقت من كل التغييرات دي في آخر لحظة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 133,
+    "categories": [
+      "c10"
+    ],
+    "related": []
+  },
+  {
+    "id": "p134",
+    "kind": "pattern",
+    "english": "I can’t stand …",
+    "arabic": "مش بطيق … / مش بستحمل …",
+    "usage": [
+      "أقوى من “I don’t like”."
+    ],
+    "variations": [
+      {
+        "english": "I can’t stand it when people play videos out loud on the train.",
+        "arabic": "مش بطيق لما الناس تشغّل فيديوهات بصوت عالي في القطار."
+      },
+      {
+        "english": "I can’t stand being rushed when I’m trying to decide.",
+        "arabic": "مش بستحمل حد يستعجلني وأنا بحاول أقرر."
+      },
+      {
+        "english": "I can’t stand the noise from the building work.",
+        "arabic": "مش مستحمل دوشة شغل البناء."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 134,
+    "categories": [
+      "c10"
+    ],
+    "related": [
+      "v866006a978c1",
+      "v68df93367d6d"
+    ]
+  },
+  {
+    "id": "p135",
+    "kind": "pattern",
+    "english": "… makes me feel …",
+    "arabic": "… بيخلّيني أحس بـ…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Speaking without preparation makes me feel nervous.",
+        "arabic": "الكلام من غير تحضير بيخلّيني أتوتر."
+      },
+      {
+        "english": "A short walk makes me feel more relaxed.",
+        "arabic": "التمشية شوية بتخلّيني أحس براحة أكتر."
+      },
+      {
+        "english": "It makes me feel better when someone listens without judging.",
+        "arabic": "بحس أحسن لما حد يسمعني من غير ما يحكم عليا."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 135,
+    "categories": [
+      "c10"
+    ],
+    "related": []
+  },
+  {
+    "id": "p136",
+    "kind": "pattern",
+    "english": "I have a feeling that …",
+    "arabic": "عندي إحساس إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I have a feeling that we’ve met before.",
+        "arabic": "عندي إحساس إننا اتقابلنا قبل كده."
+      },
+      {
+        "english": "I have a feeling that something’s going to change.",
+        "arabic": "عندي إحساس إن فيه حاجة هتتغيّر."
+      },
+      {
+        "english": "I have a feeling that he hasn’t told us everything.",
+        "arabic": "عندي إحساس إنه مقالناش كل حاجة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 136,
+    "categories": [
+      "c06"
+    ],
+    "related": []
+  },
+  {
+    "id": "p137",
+    "kind": "pattern",
+    "english": "I’m not sure whether …",
+    "arabic": "مش متأكد إذا كنت … ولا …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m not sure whether to call or send a message.",
+        "arabic": "مش متأكد أتصل ولا أبعت رسالة."
+      },
+      {
+        "english": "I’m not sure whether he’s serious or joking.",
+        "arabic": "مش متأكد هو بيتكلم جد ولا بيهزر."
+      },
+      {
+        "english": "I’m not sure whether we need to book or can just turn up.",
+        "arabic": "مش متأكد لازم نحجز ولا ينفع نروح على طول."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 137,
+    "categories": [
+      "c06"
+    ],
+    "related": []
+  },
+  {
+    "id": "p138",
+    "kind": "pattern",
+    "english": "From what I’ve heard, …",
+    "arabic": "على حسب اللي سمعته، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "From what I’ve heard, it’s a good place to work.",
+        "arabic": "على حسب اللي سمعته، ده مكان كويس للشغل."
+      },
+      {
+        "english": "From what I’ve heard, the course involves a lot of speaking practice.",
+        "arabic": "على حسب اللي سمعته، الكورس فيه تدريب كتير على الكلام."
+      },
+      {
+        "english": "From what I’ve heard, weekends are much busier.",
+        "arabic": "على حسب اللي سمعته، الويك إند بيبقى أزحم بكتير."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 138,
+    "categories": [
+      "c06"
+    ],
+    "related": [
+      "vce5e334d7eb1"
+    ]
+  },
+  {
+    "id": "p139",
+    "kind": "pattern",
+    "english": "There’s a good chance that …",
+    "arabic": "فيه احتمال كبير إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "There’s a good chance that we’ll finish early.",
+        "arabic": "فيه احتمال كبير إننا نخلّص بدري."
+      },
+      {
+        "english": "There’s a good chance that the price will drop.",
+        "arabic": "فيه احتمال كبير إن السعر ينزل."
+      },
+      {
+        "english": "There’s a good chance that she’s already on her way.",
+        "arabic": "فيه احتمال كبير إنها في السكة دلوقتي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 139,
+    "categories": [
+      "c06"
+    ],
+    "related": []
+  },
+  {
+    "id": "p140",
+    "kind": "pattern",
+    "english": "… must have …",
+    "arabic": "أكيد … حصل.",
+    "usage": [
+      "“Must have + التصريف الثالث” لتوقع قوي عن الماضي، مش لحقيقة متأكد منها."
+    ],
+    "variations": [
+      {
+        "english": "I must have left my keys at work.",
+        "arabic": "أكيد سبت مفاتيحي في الشغل."
+      },
+      {
+        "english": "She must have forgotten about the meeting.",
+        "arabic": "أكيد نسيت الاجتماع."
+      },
+      {
+        "english": "We must have taken a wrong turn somewhere.",
+        "arabic": "أكيد دخلنا حتة غلط في الطريق."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 140,
+    "categories": [
+      "c06"
+    ],
+    "related": []
+  },
+  {
+    "id": "p141",
+    "kind": "pattern",
+    "english": "I tend to …",
+    "arabic": "غالبًا بعمل … / عادةً بميل إني …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I tend to overthink things before making a decision.",
+        "arabic": "غالبًا بفكر زيادة عن اللزوم قبل ما آخد قرار."
+      },
+      {
+        "english": "I tend to eat later when I work from home.",
+        "arabic": "غالبًا باكل في وقت متأخر لما بشتغل من البيت."
+      },
+      {
+        "english": "I tend to stay quiet until I get to know people.",
+        "arabic": "عادةً بفضل ساكت لحد ما أعرف الناس."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 141,
+    "categories": [
+      "c14"
+    ],
+    "related": [
+      "vcf7a9f9e4d34",
+      "vba58e5519f64"
+    ]
+  },
+  {
+    "id": "p142",
+    "kind": "pattern",
+    "english": "I find myself …",
+    "arabic": "بلاقي نفسي … من غير ما أخطط لكده.",
+    "usage": [
+      "بعدها فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I find myself checking emails even on my days off.",
+        "arabic": "بلاقي نفسي ببص على الإيميلات حتى في أيام إجازتي."
+      },
+      {
+        "english": "I find myself using the same words again and again.",
+        "arabic": "بلاقي نفسي بستخدم نفس الكلمات كل مرة."
+      },
+      {
+        "english": "I find myself thinking about work when I’m trying to relax.",
+        "arabic": "بلاقي نفسي بفكر في الشغل وأنا بحاول أرتاح."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 142,
+    "categories": [
+      "c14"
+    ],
+    "related": [
+      "v9359a03ca87d"
+    ]
+  },
+  {
+    "id": "p143",
+    "kind": "pattern",
+    "english": "I always make sure …",
+    "arabic": "دايمًا بتأكد إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I always make sure my phone is charged before I leave.",
+        "arabic": "دايمًا بتأكد إن الموبايل مشحون قبل ما أمشي."
+      },
+      {
+        "english": "I always make sure I understand the price before agreeing.",
+        "arabic": "دايمًا بتأكد إني فاهم السعر قبل ما أوافق."
+      },
+      {
+        "english": "I always make sure to save a copy of important files.",
+        "arabic": "دايمًا بحرص إني أحفظ نسخة من الملفات المهمة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 143,
+    "categories": [
+      "c14"
+    ],
+    "related": [
+      "v3d997239a725"
+    ]
+  },
+  {
+    "id": "p144",
+    "kind": "pattern",
+    "english": "I try not to …",
+    "arabic": "بحاول ما…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I try not to check my phone first thing in the morning.",
+        "arabic": "بحاول مبصش على الموبايل أول ما أصحى."
+      },
+      {
+        "english": "I try not to interrupt when someone’s speaking.",
+        "arabic": "بحاول مقاطعش حد وهو بيتكلم."
+      },
+      {
+        "english": "I try not to take work problems home with me.",
+        "arabic": "بحاول ماخدش مشاكل الشغل معايا البيت."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 144,
+    "categories": [
+      "c14"
+    ],
+    "related": []
+  },
+  {
+    "id": "p145",
+    "kind": "pattern",
+    "english": "I’m getting better at …",
+    "arabic": "بتحسن في …",
+    "usage": [
+      "بعدها اسم أو فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I’m getting better at explaining my ideas.",
+        "arabic": "بتحسن في شرح أفكاري."
+      },
+      {
+        "english": "I’m getting better at cooking without a recipe.",
+        "arabic": "بتحسن في الطبخ من غير وصفة."
+      },
+      {
+        "english": "I’m getting better at saying no when I’m too busy.",
+        "arabic": "بتحسن في إني أقول لأ لما أكون مشغول أوي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 145,
+    "categories": [
+      "c14"
+    ],
+    "related": []
+  },
+  {
+    "id": "p146",
+    "kind": "pattern",
+    "english": "I’m working on …",
+    "arabic": "بشتغل على … / بحاول أطوّر …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m working on my pronunciation.",
+        "arabic": "بشتغل على تحسين النطق بتاعي."
+      },
+      {
+        "english": "I’m working on a small project after work.",
+        "arabic": "بشتغل على مشروع صغير بعد الشغل."
+      },
+      {
+        "english": "I’m working on being more patient.",
+        "arabic": "بحاول أبقى صبور أكتر."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 146,
+    "categories": [
+      "c15"
+    ],
+    "related": []
+  },
+  {
+    "id": "p147",
+    "kind": "pattern",
+    "english": "I’m in the middle of …",
+    "arabic": "أنا دلوقتي في نص … / لسه بعمل … ومش خلّصت.",
+    "usage": [
+      "بعدها اسم أو فعل بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I’m in the middle of cooking. Can I call you back?",
+        "arabic": "أنا لسه بطبخ. ممكن أكلمك بعدين؟"
+      },
+      {
+        "english": "I’m in the middle of a meeting right now.",
+        "arabic": "أنا في نص اجتماع دلوقتي."
+      },
+      {
+        "english": "I’m in the middle of moving, so everything’s a bit messy.",
+        "arabic": "أنا في وسط نقل البيت، فالدنيا ملخبطة شوية."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 147,
+    "categories": [
+      "c15"
+    ],
+    "related": []
+  },
+  {
+    "id": "p148",
+    "kind": "pattern",
+    "english": "I haven’t got around to … yet.",
+    "arabic": "لسه ملحقتش أو ملقيتش وقت أعمل …",
+    "usage": [
+      "بعدها فعل بـ-ing. في البريطاني ممكن تسمع “got round to”، وفي الأمريكي “gotten around to”."
+    ],
+    "variations": [
+      {
+        "english": "I haven’t got around to replying to your message yet.",
+        "arabic": "لسه ملحقتش أرد على رسالتك."
+      },
+      {
+        "english": "I haven’t got around to booking the tickets yet.",
+        "arabic": "لسه ملقيتش وقت أحجز التذاكر."
+      },
+      {
+        "english": "I haven’t got around to sorting out those photos yet.",
+        "arabic": "لسه ملحقتش أرتب الصور دي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 148,
+    "categories": [
+      "c14"
+    ],
+    "related": []
+  },
+  {
+    "id": "p149",
+    "kind": "pattern",
+    "english": "I’ve been meaning to …",
+    "arabic": "بقالي فترة ناوي …، بس لسه معملتهاش.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ve been meaning to call you.",
+        "arabic": "بقالي فترة ناوي أكلمك."
+      },
+      {
+        "english": "I’ve been meaning to ask how your interview went.",
+        "arabic": "بقالي فترة عايز أسألك عملت إيه في المقابلة."
+      },
+      {
+        "english": "I’ve been meaning to try that restaurant for ages.",
+        "arabic": "بقالي كتير نفسي أجرب المطعم ده."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 149,
+    "categories": [
+      "c14"
+    ],
+    "related": [
+      "v70e800038dd6"
+    ]
+  },
+  {
+    "id": "p150",
+    "kind": "pattern",
+    "english": "I’ve got a lot to …",
+    "arabic": "عندي حاجات كتير لازم …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ve got a lot to finish before Thursday.",
+        "arabic": "عندي حاجات كتير لازم أخلّصها قبل الخميس."
+      },
+      {
+        "english": "I’ve got a lot to think about after that conversation.",
+        "arabic": "عندي حاجات كتير محتاج أفكر فيها بعد الكلام ده."
+      },
+      {
+        "english": "I’ve got a lot to catch up on after being away.",
+        "arabic": "عندي حاجات كتير لازم ألحق أتابعها وأخلّصها بعد غيابي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 150,
+    "categories": [
+      "c15"
+    ],
+    "related": [
+      "vcc2ce0768468"
+    ]
+  },
+  {
+    "id": "p151",
+    "kind": "pattern",
+    "english": "I can’t afford to …",
+    "arabic": "مش قادر أتحمل تكلفة … / مش قادر أخاطر بـ…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I can’t afford to replace my laptop right now.",
+        "arabic": "مش قادر أتحمل تكلفة تغيير اللابتوب دلوقتي."
+      },
+      {
+        "english": "I can’t afford to take another day off this week.",
+        "arabic": "مش هينفع آخد يوم إجازة كمان الأسبوع ده."
+      },
+      {
+        "english": "I can’t afford to miss the last train.",
+        "arabic": "مينفعش أخاطر إن آخر قطار يفوتني."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 151,
+    "categories": [
+      "c13"
+    ],
+    "related": [
+      "v745258937ad0"
+    ]
+  },
+  {
+    "id": "p152",
+    "kind": "pattern",
+    "english": "I have no idea …",
+    "arabic": "معنديش أي فكرة … / مش عارف خالص …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I have no idea where to start.",
+        "arabic": "مش عارف خالص أبدأ منين."
+      },
+      {
+        "english": "I have no idea what happened to the booking.",
+        "arabic": "معنديش أي فكرة إيه اللي حصل للحجز."
+      },
+      {
+        "english": "I have no idea how long this will take.",
+        "arabic": "مش عارف خالص ده هياخد وقت قد إيه."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 152,
+    "categories": [
+      "c13"
+    ],
+    "related": [
+      "v1492f2c4345c"
+    ]
+  },
+  {
+    "id": "p153",
+    "kind": "pattern",
+    "english": "There’s something wrong with …",
+    "arabic": "فيه حاجة غلط في … / فيه مشكلة في …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "There’s something wrong with my phone. It won’t charge.",
+        "arabic": "فيه مشكلة في موبايلي. مش بيرضى يشحن."
+      },
+      {
+        "english": "There’s something wrong with this bill. We didn’t order that.",
+        "arabic": "فيه حاجة غلط في الحساب ده. إحنا مطلبناش الحاجة دي."
+      },
+      {
+        "english": "There’s something wrong with the heating. It keeps switching off.",
+        "arabic": "فيه مشكلة في التدفئة. كل شوية بتفصل."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 153,
+    "categories": [
+      "c13"
+    ],
+    "related": []
+  },
+  {
+    "id": "p154",
+    "kind": "pattern",
+    "english": "… won’t …",
+    "arabic": "… مش راضي …",
+    "usage": [
+      "مع الأجهزة والحاجات، “won’t” ممكن توصف حاجة مش بتشتغل زي المفروض؛ مش مستقبل بس."
+    ],
+    "variations": [
+      {
+        "english": "My laptop won’t turn on.",
+        "arabic": "اللابتوب مش راضي يفتح."
+      },
+      {
+        "english": "The door won’t close properly.",
+        "arabic": "الباب مش راضي يتقفل كويس."
+      },
+      {
+        "english": "The payment won’t go through.",
+        "arabic": "عملية الدفع مش راضية تتم."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 154,
+    "categories": [
+      "c13"
+    ],
+    "related": [
+      "v9c39b1a2e1d6"
+    ]
+  },
+  {
+    "id": "p155",
+    "kind": "pattern",
+    "english": "I’ve been told that …",
+    "arabic": "اتقالي إن …",
+    "usage": [
+      "بتنقل معلومة حد قالهالك، مش بالضرورة حاجة اتأكدت منها بنفسك."
+    ],
+    "variations": [
+      {
+        "english": "I’ve been told that I need to bring my ID.",
+        "arabic": "اتقالي إني لازم أجيب بطاقتي."
+      },
+      {
+        "english": "I’ve been told that someone will call me tomorrow.",
+        "arabic": "اتقالي إن حد هيكلمني بكرة."
+      },
+      {
+        "english": "I’ve been told that the refund can take a few days.",
+        "arabic": "اتقالي إن الفلوس ممكن تاخد كام يوم عشان ترجع."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 155,
+    "categories": [
+      "c06"
+    ],
+    "related": []
+  },
+  {
+    "id": "p156",
+    "kind": "pattern",
+    "english": "I need to get … fixed / checked / replaced.",
+    "arabic": "محتاج أخلي حد يصلّح / يفحص / يغيّر …",
+    "usage": [
+      "“Get + الحاجة + التصريف الثالث” هنا معناها إنك ترتب إن حد يعمل الخدمة."
+    ],
+    "variations": [
+      {
+        "english": "I need to get my phone screen replaced.",
+        "arabic": "محتاج أغيّر شاشة الموبايل عند حد."
+      },
+      {
+        "english": "I need to get the car checked before the trip.",
+        "arabic": "محتاج أخلي حد يفحص العربية قبل السفر."
+      },
+      {
+        "english": "I need to get this zip fixed.",
+        "arabic": "محتاج أخلي حد يصلّح السوستة دي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 156,
+    "categories": [
+      "c13"
+    ],
+    "related": []
+  },
+  {
+    "id": "p157",
+    "kind": "pattern",
+    "english": "I’ll have to …",
+    "arabic": "هضطر … / هيبقى لازم …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ll have to leave early if I want to catch the train.",
+        "arabic": "هضطر أمشي بدري لو عايز ألحق القطار."
+      },
+      {
+        "english": "I’ll have to check with my manager first.",
+        "arabic": "هيبقى لازم أرجع لمديري الأول."
+      },
+      {
+        "english": "I’ll have to save up for a few more months.",
+        "arabic": "هضطر أحوّش كام شهر كمان."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 157,
+    "categories": [
+      "c09"
+    ],
+    "related": [
+      "ve94f4be6c7cb"
+    ]
+  },
+  {
+    "id": "p158",
+    "kind": "pattern",
+    "english": "I don’t have enough … to …",
+    "arabic": "معنديش … كفاية عشان …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I don’t have enough time to do it properly today.",
+        "arabic": "معنديش وقت كفاية أعمله كويس النهارده."
+      },
+      {
+        "english": "I don’t have enough space to keep both.",
+        "arabic": "معنديش مساحة كفاية أحتفظ بالاتنين."
+      },
+      {
+        "english": "I don’t have enough information to make a decision.",
+        "arabic": "معنديش معلومات كفاية عشان آخد قرار."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 158,
+    "categories": [
+      "c13"
+    ],
+    "related": [
+      "v0e747bbe12bb"
+    ]
+  },
+  {
+    "id": "p159",
+    "kind": "pattern",
+    "english": "It’s too … to …",
+    "arabic": "هو … زيادة عن اللزوم لدرجة إن مش هينفع …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It’s too late to call them now.",
+        "arabic": "الوقت متأخر أوي ومينفعش نكلمهم دلوقتي."
+      },
+      {
+        "english": "It’s too noisy to have a proper conversation here.",
+        "arabic": "الدوشة عالية أوي ومش هنعرف نتكلم كويس هنا."
+      },
+      {
+        "english": "It’s too far to walk with all these bags.",
+        "arabic": "المكان بعيد أوي ومش هينفع نمشي بكل الشنط دي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 159,
+    "categories": [
+      "c13"
+    ],
+    "related": []
+  },
+  {
+    "id": "p160",
+    "kind": "pattern",
+    "english": "… enough to …",
+    "arabic": "… بدرجة كفاية عشان …",
+    "usage": [
+      "مع الصفة، “enough” بتيجي بعدها: “comfortable enough”."
+    ],
+    "variations": [
+      {
+        "english": "I’m comfortable enough to ask questions now.",
+        "arabic": "بقيت مرتاح لدرجة إني أقدر أسأل دلوقتي."
+      },
+      {
+        "english": "The room is big enough to fit another desk.",
+        "arabic": "الأوضة كبيرة كفاية نحط فيها مكتب كمان."
+      },
+      {
+        "english": "The explanation was clear enough to follow without help.",
+        "arabic": "الشرح كان واضح كفاية أفهمه من غير مساعدة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 160,
+    "categories": [
+      "c13"
+    ],
+    "related": []
+  },
+  {
+    "id": "p161",
+    "kind": "pattern",
+    "english": "I’d … if …",
+    "arabic": "كنت هعمل … لو …",
+    "usage": [
+      "لموقف افتراضي: “I’d + فعل”، وبعد “if” ماضي بسيط. الماضي هنا مش لازم يقصد وقت فات."
+    ],
+    "variations": [
+      {
+        "english": "I’d travel more if I had more time off.",
+        "arabic": "كنت هسافر أكتر لو عندي إجازات أكتر."
+      },
+      {
+        "english": "I’d buy it if it were a bit cheaper.",
+        "arabic": "كنت هشتريه لو كان أرخص شوية."
+      },
+      {
+        "english": "I’d join you if I didn’t have to work tomorrow.",
+        "arabic": "كنت هاجي معاكم لو مكنش عندي شغل بكرة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 161,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v7e3a30d65386"
+    ]
+  },
+  {
+    "id": "p162",
+    "kind": "pattern",
+    "english": "I don’t know what I’d do without …",
+    "arabic": "مش عارف كنت هعمل إيه من غير …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I don’t know what I’d do without your help.",
+        "arabic": "مش عارف كنت هعمل إيه من غير مساعدتك."
+      },
+      {
+        "english": "I don’t know what I’d do without my calendar. I’d forget everything.",
+        "arabic": "مش عارف كنت هعمل إيه من غير جدول مواعيدي. كنت هنسى كل حاجة."
+      },
+      {
+        "english": "I don’t know what I’d do without these quiet evenings.",
+        "arabic": "مش عارف كنت هعمل إيه من غير الليالي الهادية دي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 162,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p163",
+    "kind": "pattern",
+    "english": "I would’ve …, but …",
+    "arabic": "كنت هعمل …، بس … منعني.",
+    "usage": [
+      "“Would’ve” = “would have”، وبعدها التصريف الثالث."
+    ],
+    "variations": [
+      {
+        "english": "I would’ve called, but my phone died.",
+        "arabic": "كنت هتصل، بس الموبايل فصل شحن."
+      },
+      {
+        "english": "I would’ve stayed longer, but I had to catch the last train.",
+        "arabic": "كنت هقعد أطول، بس كان لازم ألحق آخر قطار."
+      },
+      {
+        "english": "I would’ve bought it, but they didn’t have my size.",
+        "arabic": "كنت هشتريه، بس مكنش عندهم مقاسي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 163,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p164",
+    "kind": "pattern",
+    "english": "I could’ve …",
+    "arabic": "كان ممكن …، بس ده محصلش.",
+    "usage": [
+      "“Could’ve” = “could have”، وبعدها التصريف الثالث؛ الأمثلة هنا لفرصة أو احتمال لم يتحقق."
+    ],
+    "variations": [
+      {
+        "english": "I could’ve asked for help, but I tried to do it alone.",
+        "arabic": "كان ممكن أطلب مساعدة، بس حاولت أعمله لوحدي."
+      },
+      {
+        "english": "I could’ve taken the bus and saved some money.",
+        "arabic": "كان ممكن آخد الأتوبيس وأوفّر شوية فلوس."
+      },
+      {
+        "english": "I could’ve missed the train if you hadn’t called me.",
+        "arabic": "كان ممكن القطار يفوتني لو مكنتش اتصلت بيا."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 164,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p165",
+    "kind": "pattern",
+    "english": "I remember …",
+    "arabic": "فاكر إني …",
+    "usage": [
+      "“Remember + -ing” معناها إنك فاكر حاجة حصلت، مش تذكير بحاجه لسه هتعملها."
+    ],
+    "variations": [
+      {
+        "english": "I remember meeting her at a wedding.",
+        "arabic": "فاكر إني قابلتها في فرح."
+      },
+      {
+        "english": "I remember feeling exactly the same on my first day.",
+        "arabic": "فاكر إني كنت حاسس بنفس الإحساس بالظبط في أول يوم ليا."
+      },
+      {
+        "english": "I remember putting it in this drawer.",
+        "arabic": "فاكر إني حطيته في الدرج ده."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 165,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p166",
+    "kind": "pattern",
+    "english": "It’s been … since …",
+    "arabic": "عدّى … من ساعة ما …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "It’s been a year since we last met.",
+        "arabic": "عدّت سنة من آخر مرة اتقابلنا."
+      },
+      {
+        "english": "It’s been three days since I sent the message.",
+        "arabic": "عدّى تلات أيام من ساعة ما بعت الرسالة."
+      },
+      {
+        "english": "It’s been ages since I had a weekend with no plans.",
+        "arabic": "بقالي كتير مقضيتش ويك إند من غير أي ترتيبات."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 166,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p167",
+    "kind": "pattern",
+    "english": "I haven’t … yet.",
+    "arabic": "لسه ما…",
+    "usage": [
+      "لحاجة متوقعة أو مطلوبة لكن لسه محصلتش، مش لفترة غياب زي “for months”."
+    ],
+    "variations": [
+      {
+        "english": "I haven’t decided yet.",
+        "arabic": "لسه مقررتش."
+      },
+      {
+        "english": "I haven’t received the confirmation email yet.",
+        "arabic": "لسه موصلنيش إيميل التأكيد."
+      },
+      {
+        "english": "I haven’t finished it yet, but I’m nearly done.",
+        "arabic": "لسه مخلصتوش، بس فاضلي حاجة بسيطة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 167,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p168",
+    "kind": "pattern",
+    "english": "I’ve just …",
+    "arabic": "لسه حالًا …",
+    "usage": [
+      "بعدها التصريف الثالث للفعل؛ لحدث حصل قريب جدًا."
+    ],
+    "variations": [
+      {
+        "english": "I’ve just got home. Give me ten minutes.",
+        "arabic": "لسه واصل البيت حالًا. اديني عشر دقايق."
+      },
+      {
+        "english": "I’ve just spoken to her. She’s on her way.",
+        "arabic": "لسه متكلم معاها حالًا. هي في السكة."
+      },
+      {
+        "english": "I’ve just realised I sent it to the wrong person.",
+        "arabic": "لسه واخد بالي حالًا إني بعته للشخص الغلط."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 168,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p169",
+    "kind": "pattern",
+    "english": "I had to …",
+    "arabic": "اضطريت … / كان لازم …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I had to take a different route because the road was closed.",
+        "arabic": "اضطريت أمشي من طريق تاني عشان الطريق كان مقفول."
+      },
+      {
+        "english": "I had to cancel because something happened at work.",
+        "arabic": "اضطريت ألغي عشان حصلت حاجة في الشغل."
+      },
+      {
+        "english": "I had to explain the whole thing again.",
+        "arabic": "اضطريت أشرح الموضوع كله تاني."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 169,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p170",
+    "kind": "pattern",
+    "english": "I was hoping to …",
+    "arabic": "كنت آمل أو نفسي …",
+    "usage": [
+      "ممكن تعبّر عن أمل سابق، أو تمهّد لرغبة حالية بطريقة لطيفة."
+    ],
+    "variations": [
+      {
+        "english": "I was hoping to finish today, but there’s still a lot left.",
+        "arabic": "كنت نفسي أخلّص النهارده، بس لسه فيه كتير."
+      },
+      {
+        "english": "I was hoping to speak to you before the meeting.",
+        "arabic": "كنت عايز أتكلم معاك قبل الاجتماع."
+      },
+      {
+        "english": "I was hoping to get a table by the window.",
+        "arabic": "كنت نفسي ألاقي ترابيزة جنب الشباك."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 170,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p171",
+    "kind": "pattern",
+    "english": "I happened to …",
+    "arabic": "بالصدفة …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I happened to see him on my way home.",
+        "arabic": "شفته بالصدفة وأنا راجع البيت."
+      },
+      {
+        "english": "I happened to have a spare charger with me.",
+        "arabic": "بالصدفة كان معايا شاحن زيادة."
+      },
+      {
+        "english": "I happened to be nearby when she called.",
+        "arabic": "بالصدفة كنت قريب لما اتصلت."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 171,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p172",
+    "kind": "pattern",
+    "english": "As soon as …, …",
+    "arabic": "أول ما …، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "As soon as I got home, I went straight to bed.",
+        "arabic": "أول ما وصلت البيت، دخلت نمت على طول."
+      },
+      {
+        "english": "As soon as you’re ready, we can leave.",
+        "arabic": "أول ما تكون جاهز، نقدر نمشي."
+      },
+      {
+        "english": "As soon as I saw the price, I changed my mind.",
+        "arabic": "أول ما شفت السعر، غيّرت رأيي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 172,
+    "categories": [
+      "c05"
+    ],
+    "related": [
+      "v959be42f385e"
+    ]
+  },
+  {
+    "id": "p173",
+    "kind": "pattern",
+    "english": "While …, …",
+    "arabic": "وأنا / وإحنا …، …",
+    "usage": [
+      "لأحداث ماشية في نفس الوقت."
+    ],
+    "variations": [
+      {
+        "english": "While I was waiting, I answered a few emails.",
+        "arabic": "وأنا مستني، ردّيت على كام إيميل."
+      },
+      {
+        "english": "While we were having dinner, we talked about our plans.",
+        "arabic": "وإحنا بنتعشّى، اتكلمنا عن خططنا."
+      },
+      {
+        "english": "While you’re making the tea, I’ll clear the table.",
+        "arabic": "وإنت بتعمل الشاي، أنا هشيل الحاجات من على الترابيزة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 173,
+    "categories": [
+      "c07"
+    ],
+    "related": []
+  },
+  {
+    "id": "p174",
+    "kind": "pattern",
+    "english": "Ever since …, …",
+    "arabic": "من ساعة ما …، و… مستمر.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Ever since I changed jobs, I’ve had more time for myself.",
+        "arabic": "من ساعة ما غيّرت شغلي، وبقى عندي وقت أكتر لنفسي."
+      },
+      {
+        "english": "Ever since that trip, I’ve wanted to go back.",
+        "arabic": "من ساعة الرحلة دي، وأنا نفسي أرجع تاني."
+      },
+      {
+        "english": "Ever since we moved, I’ve been walking to work.",
+        "arabic": "من ساعة ما نقلنا، وأنا بروح الشغل مشي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 174,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "v8646c7da74aa"
+    ]
+  },
+  {
+    "id": "p175",
+    "kind": "pattern",
+    "english": "Before I knew it, …",
+    "arabic": "من غير ما أحس أو آخد بالي، لقيت …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Before I knew it, two hours had passed.",
+        "arabic": "من غير ما أحس، لقيت ساعتين عدّوا."
+      },
+      {
+        "english": "Before I knew it, I was chatting with everyone.",
+        "arabic": "من غير ما آخد بالي، لقيت نفسي بتكلم مع الكل."
+      },
+      {
+        "english": "Before I knew it, the weekend was over.",
+        "arabic": "من غير ما أحس، الويك إند كان خلص."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 175,
+    "categories": [
+      "c07"
+    ],
+    "related": [
+      "vfc73ae79c947"
+    ]
+  },
+  {
+    "id": "p176",
+    "kind": "pattern",
+    "english": "I was so … that …",
+    "arabic": "كنت … أوي لدرجة إن …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I was so tired that I fell asleep on the sofa.",
+        "arabic": "كنت تعبان أوي لدرجة إني نمت على الكنبة."
+      },
+      {
+        "english": "I was so nervous that I forgot his name.",
+        "arabic": "كنت متوتر أوي لدرجة إني نسيت اسمه."
+      },
+      {
+        "english": "I was so busy that I didn’t notice the time.",
+        "arabic": "كنت مشغول أوي لدرجة إني مخدتش بالي من الوقت."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 176,
+    "categories": [
+      "c05"
+    ],
+    "related": []
+  },
+  {
+    "id": "p177",
+    "kind": "pattern",
+    "english": "I had no choice but to …",
+    "arabic": "مكنش قدامي حل غير إني …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I had no choice but to take a taxi. There were no buses left.",
+        "arabic": "مكنش قدامي حل غير إني آخد تاكسي. مكنش فيه أتوبيسات تاني."
+      },
+      {
+        "english": "I had no choice but to ask for more time.",
+        "arabic": "مكنش قدامي حل غير إني أطلب وقت زيادة."
+      },
+      {
+        "english": "I had no choice but to start again. The file was gone.",
+        "arabic": "مكنش قدامي حل غير إني أبدأ من الأول. الملف كان ضاع."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 177,
+    "categories": [
+      "c05"
+    ],
+    "related": []
+  },
+  {
+    "id": "p178",
+    "kind": "pattern",
+    "english": "Instead of …, I …",
+    "arabic": "بدل ما …، أنا …",
+    "usage": [
+      "بعد “instead of” فعل بـ-ing أو اسم."
+    ],
+    "variations": [
+      {
+        "english": "Instead of buying lunch, I brought something from home.",
+        "arabic": "بدل ما أشتري غدا، جبت حاجة من البيت."
+      },
+      {
+        "english": "Instead of waiting for a reply, I called them.",
+        "arabic": "بدل ما أستنى رد، اتصلت بيهم."
+      },
+      {
+        "english": "Instead of trying to learn everything, I focused on one thing.",
+        "arabic": "بدل ما أحاول أتعلم كل حاجة، ركّزت على حاجة واحدة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 178,
+    "categories": [
+      "c05"
+    ],
+    "related": [
+      "va2c8bc5a8e53"
+    ]
+  },
+  {
+    "id": "p179",
+    "kind": "pattern",
+    "english": "… without …",
+    "arabic": "… من غير ما …",
+    "usage": [
+      "لو بعد “without” فعل، بيكون بـ-ing."
+    ],
+    "variations": [
+      {
+        "english": "I left without saying goodbye.",
+        "arabic": "مشيت من غير ما أقول سلام."
+      },
+      {
+        "english": "Can we talk about this without arguing?",
+        "arabic": "ممكن نتكلم في ده من غير ما نتخانق؟"
+      },
+      {
+        "english": "He explained it without making me feel stupid.",
+        "arabic": "شرحلي الموضوع من غير ما يحسسني إني غبي."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 179,
+    "categories": [
+      "c05"
+    ],
+    "related": []
+  },
+  {
+    "id": "p180",
+    "kind": "pattern",
+    "english": "I wasn’t expecting …",
+    "arabic": "مكنتش متوقع …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I wasn’t expecting to see you here.",
+        "arabic": "مكنتش متوقع أشوفك هنا."
+      },
+      {
+        "english": "I wasn’t expecting such a quick reply.",
+        "arabic": "مكنتش متوقع رد بالسرعة دي."
+      },
+      {
+        "english": "I wasn’t expecting it to take all afternoon.",
+        "arabic": "مكنتش متوقع إنه ياخد وقت بعد الضهر كله."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 180,
+    "categories": [
+      "c06"
+    ],
+    "related": [
+      "v6ead4d7864ba"
+    ]
+  },
+  {
+    "id": "p181",
+    "kind": "pattern",
+    "english": "Are you free …?",
+    "arabic": "إنت فاضي …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Are you free for a quick call this afternoon?",
+        "arabic": "إنت فاضي لمكالمة سريعة بعد الضهر؟"
+      },
+      {
+        "english": "Are you free after work on Wednesday?",
+        "arabic": "إنت فاضي بعد الشغل يوم الأربعاء؟"
+      },
+      {
+        "english": "Are you free at any point this weekend?",
+        "arabic": "إنت فاضي في أي وقت الويك إند ده؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 181,
+    "categories": [
+      "c08"
+    ],
+    "related": [
+      "vc0be7889e877"
+    ]
+  },
+  {
+    "id": "p182",
+    "kind": "pattern",
+    "english": "What time suits you …?",
+    "arabic": "أنهي وقت مناسب ليك …؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "What time suits you tomorrow?",
+        "arabic": "أنهي وقت مناسب ليك بكرة؟"
+      },
+      {
+        "english": "What time suits you for a call?",
+        "arabic": "أنهي وقت مناسب ليك نتكلم فيه؟"
+      },
+      {
+        "english": "What time suits you best if we meet after work?",
+        "arabic": "أنهي وقت هيبقى أنسب ليك لو اتقابلنا بعد الشغل؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 182,
+    "categories": [
+      "c08"
+    ],
+    "related": []
+  },
+  {
+    "id": "p183",
+    "kind": "pattern",
+    "english": "Can we make it … instead?",
+    "arabic": "ممكن نخلي المعاد … بدل المعاد الحالي؟",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Can we make it seven instead? I finish work at six.",
+        "arabic": "ممكن نخليها سبعة بدل المعاد الحالي؟ أنا بخلّص الشغل ستة."
+      },
+      {
+        "english": "Can we make it Saturday instead?",
+        "arabic": "ممكن نخليها السبت بدل اليوم اللي اتفقنا عليه؟"
+      },
+      {
+        "english": "Can we make it half an hour later instead?",
+        "arabic": "ممكن نخليها بعد المعاد بنص ساعة؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 183,
+    "categories": [
+      "c08"
+    ],
+    "related": []
+  },
+  {
+    "id": "p184",
+    "kind": "pattern",
+    "english": "I’ll be … in …",
+    "arabic": "هكون … كمان …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ll be ready in ten minutes.",
+        "arabic": "هكون جاهز كمان عشر دقايق."
+      },
+      {
+        "english": "I’ll be there in about half an hour.",
+        "arabic": "هكون هناك كمان حوالي نص ساعة."
+      },
+      {
+        "english": "I’ll be back in a few minutes.",
+        "arabic": "هرجع كمان كام دقيقة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 184,
+    "categories": [
+      "c08"
+    ],
+    "related": []
+  },
+  {
+    "id": "p185",
+    "kind": "pattern",
+    "english": "I’m on my way to …",
+    "arabic": "أنا في السكة رايح …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m on my way to the station.",
+        "arabic": "أنا في السكة رايح المحطة."
+      },
+      {
+        "english": "I’m on my way to meet you now.",
+        "arabic": "أنا في السكة جاي أقابلك دلوقتي."
+      },
+      {
+        "english": "I’m on my way to work. Can I call you later?",
+        "arabic": "أنا في طريقي للشغل. ممكن أكلمك بعدين؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 185,
+    "categories": [
+      "c08"
+    ],
+    "related": []
+  },
+  {
+    "id": "p186",
+    "kind": "pattern",
+    "english": "I’m running … late.",
+    "arabic": "أنا متأخر … عن المعاد.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’m running about ten minutes late.",
+        "arabic": "أنا متأخر حوالي عشر دقايق."
+      },
+      {
+        "english": "I’m running a bit late because of the traffic.",
+        "arabic": "أنا متأخر شوية بسبب الزحمة."
+      },
+      {
+        "english": "I’m running late. Please start without me.",
+        "arabic": "أنا متأخر. ابدأوا من غيري لو سمحتم."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 186,
+    "categories": [
+      "c08"
+    ],
+    "related": [
+      "v09ad4653b3b7",
+      "v211fad557f2f"
+    ]
+  },
+  {
+    "id": "p187",
+    "kind": "pattern",
+    "english": "Something’s come up, so …",
+    "arabic": "حصل ظرف، فـ…",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Something’s come up, so I can’t make it tonight.",
+        "arabic": "حصل ظرف، فمش هقدر أجي النهارده بالليل."
+      },
+      {
+        "english": "Something’s come up at work, so I’ll need to stay longer.",
+        "arabic": "حصل ظرف في الشغل، فهحتاج أفضل وقت أطول."
+      },
+      {
+        "english": "Something’s come up, so can we move our call to tomorrow?",
+        "arabic": "حصل ظرف، فممكن ننقل مكالمتنا لبكرة؟"
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 187,
+    "categories": [
+      "c08"
+    ],
+    "related": [
+      "vc7325f5b95d7",
+      "v083b49521396"
+    ]
+  },
+  {
+    "id": "p188",
+    "kind": "pattern",
+    "english": "… can wait until …",
+    "arabic": "… ممكن يستنى لحد … / مش لازم يتعمل دلوقتي.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "The cleaning can wait until tomorrow.",
+        "arabic": "التنضيف ممكن يستنى لبكرة."
+      },
+      {
+        "english": "This can wait until you’ve had a break.",
+        "arabic": "ده ممكن يستنى لحد ما تاخد راحة."
+      },
+      {
+        "english": "That conversation can wait until we’re both calmer.",
+        "arabic": "الكلام ده ممكن يستنى لحد ما إحنا الاتنين نهدى."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 188,
+    "categories": [
+      "c08"
+    ],
+    "related": []
+  },
+  {
+    "id": "p189",
+    "kind": "pattern",
+    "english": "We’d better … before …",
+    "arabic": "الأفضل نعمل … قبل … عشان نتجنب مشكلة.",
+    "usage": [
+      "“We’d better” = “we had better”، وبعدها فعل من غير “to”. أقوى وأكثر إلحاحًا من اقتراح عادي."
+    ],
+    "variations": [
+      {
+        "english": "We’d better leave before the traffic gets worse.",
+        "arabic": "الأفضل نمشي قبل ما الزحمة تزيد."
+      },
+      {
+        "english": "We’d better check the address before we set off.",
+        "arabic": "الأفضل نتأكد من العنوان قبل ما نتحرك."
+      },
+      {
+        "english": "We’d better book before all the rooms are gone.",
+        "arabic": "الأفضل نحجز قبل ما الأوض كلها تتحجز."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 189,
+    "categories": [
+      "c09"
+    ],
+    "related": [
+      "v75a5d7819c60"
+    ]
+  },
+  {
+    "id": "p190",
+    "kind": "pattern",
+    "english": "We might as well …",
+    "arabic": "ما دام الوضع كده، يبقى نعمل … أحسن.",
+    "usage": [
+      "اقتراح عملي لأن مفيش بديل أحسن واضح، أو عشان نستغل الموقف؛ مش معناها «ممكن» بس."
+    ],
+    "variations": [
+      {
+        "english": "We’re already here, so we might as well have a look.",
+        "arabic": "ما إحنا هنا خلاص، يبقى نبص أحسن."
+      },
+      {
+        "english": "The next bus is in an hour. We might as well walk.",
+        "arabic": "الأتوبيس الجاي كمان ساعة. يبقى نمشي أحسن."
+      },
+      {
+        "english": "We’ve finished early. We might as well get some lunch.",
+        "arabic": "خلّصنا بدري. يبقى نروح نتغدى أحسن."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 190,
+    "categories": [
+      "c09"
+    ],
+    "related": []
+  },
+  {
+    "id": "p191",
+    "kind": "pattern",
+    "english": "I don’t … any more.",
+    "arabic": "مبقتش …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I don’t check work emails at night any more.",
+        "arabic": "مبقتش أبص على إيميلات الشغل بالليل."
+      },
+      {
+        "english": "I don’t live near the station any more.",
+        "arabic": "مبقتش ساكن جنب المحطة."
+      },
+      {
+        "english": "I don’t worry so much about small mistakes any more.",
+        "arabic": "مبقتش أقلق أوي من الأخطاء الصغيرة."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 191,
+    "categories": [
+      "c14"
+    ],
+    "related": []
+  },
+  {
+    "id": "p192",
+    "kind": "pattern",
+    "english": "No matter how …, …",
+    "arabic": "مهما …، …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "No matter how busy I am, I try to take a short break.",
+        "arabic": "مهما كنت مشغول، بحاول آخد راحة قصيرة."
+      },
+      {
+        "english": "No matter how carefully I plan, something always changes.",
+        "arabic": "مهما خططت كويس، دايمًا حاجة بتتغيّر."
+      },
+      {
+        "english": "No matter how many times I hear it, it still makes me laugh.",
+        "arabic": "مهما سمعتها كذا مرة، لسه بتضحكني."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 192,
+    "categories": [
+      "c05"
+    ],
+    "related": []
+  },
+  {
+    "id": "p193",
+    "kind": "pattern",
+    "english": "We have … in common.",
+    "arabic": "فيه … مشترك بيننا.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "We have a lot in common, especially when it comes to music.",
+        "arabic": "فيه حاجات كتير مشتركة بيننا، خصوصًا في المزيكا."
+      },
+      {
+        "english": "We have more in common than I expected.",
+        "arabic": "فيه حاجات مشتركة بيننا أكتر مما كنت متوقع."
+      },
+      {
+        "english": "We don’t have much in common, but we’re still good friends.",
+        "arabic": "مفيش حاجات كتير مشتركة بيننا، بس لسه صحاب كويسين."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 193,
+    "categories": [
+      "c12"
+    ],
+    "related": []
+  },
+  {
+    "id": "p194",
+    "kind": "pattern",
+    "english": "I get along with …",
+    "arabic": "علاقتي كويسة بـ… / بتفاهم كويس مع …",
+    "usage": [
+      "في البريطاني كمان “get on with”."
+    ],
+    "variations": [
+      {
+        "english": "I get along with most people at work.",
+        "arabic": "علاقتي كويسة بمعظم الناس في الشغل."
+      },
+      {
+        "english": "I get along with him better when we’re not talking about work.",
+        "arabic": "بتفاهم معاه أحسن لما الكلام ميبقاش عن الشغل."
+      },
+      {
+        "english": "I don’t always get along with my neighbour, but we’re polite to each other.",
+        "arabic": "مش دايمًا بتفاهم مع جاري، بس بنتعامل باحترام."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 194,
+    "categories": [
+      "c12"
+    ],
+    "related": [
+      "vda63f9aeb23f",
+      "v33919b395e07"
+    ]
+  },
+  {
+    "id": "p195",
+    "kind": "pattern",
+    "english": "You can count on me to …",
+    "arabic": "تقدر تعتمد عليا إني …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "You can count on me to be there on time.",
+        "arabic": "تقدر تعتمد عليا إني أكون هناك في المعاد."
+      },
+      {
+        "english": "You can count on me to keep this private.",
+        "arabic": "تقدر تعتمد عليا إني أخلي الكلام ده بيننا."
+      },
+      {
+        "english": "You can count on me to help if things get busy.",
+        "arabic": "تقدر تعتمد عليا إني أساعد لو الدنيا زحمت."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 195,
+    "categories": [
+      "c12"
+    ],
+    "related": [
+      "v16f9e9094529",
+      "v96441271d5a3"
+    ]
+  },
+  {
+    "id": "p196",
+    "kind": "pattern",
+    "english": "I appreciate it when …",
+    "arabic": "بقدّر جدًا لما …",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I appreciate it when people let me know they’ll be late.",
+        "arabic": "بقدّر جدًا لما الناس تبلغني إنهم هيتأخروا."
+      },
+      {
+        "english": "I appreciate it when you explain things without rushing.",
+        "arabic": "بقدّر جدًا لما بتشرحلي من غير استعجال."
+      },
+      {
+        "english": "I appreciate it when someone checks how I’m doing.",
+        "arabic": "بقدّر جدًا لما حد يسأل عليا ويطمن أنا عامل إيه."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 196,
+    "categories": [
+      "c12"
+    ],
+    "related": [
+      "v910e85234d19",
+      "v7ff389ab0e45"
+    ]
+  },
+  {
+    "id": "p197",
+    "kind": "pattern",
+    "english": "Help yourself to …",
+    "arabic": "خد … براحتك / اتفضل خد من …",
+    "usage": [
+      "بتقول لحد إنه مسموح ياخد أكل أو حاجة معروضة من غير ما يستأذن كل مرة."
+    ],
+    "variations": [
+      {
+        "english": "Help yourself to some food.",
+        "arabic": "اتفضل خد أكل براحتك."
+      },
+      {
+        "english": "Help yourself to anything in the fridge.",
+        "arabic": "خد اللي تحبه من التلاجة براحتك."
+      },
+      {
+        "english": "Help yourself to a leaflet if you’d like more information.",
+        "arabic": "اتفضل خد كتيّب لو عايز معلومات أكتر."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 197,
+    "categories": [
+      "c12"
+    ],
+    "related": [
+      "v820e07d72345",
+      "v484fc6683a2c"
+    ]
+  },
+  {
+    "id": "p198",
+    "kind": "pattern",
+    "english": "Make yourself at home.",
+    "arabic": "اعتبر نفسك في بيتك.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Make yourself at home. I’ll put the kettle on.",
+        "arabic": "اعتبر نفسك في بيتك. هسخّن الميّه عشان نعمل شاي."
+      },
+      {
+        "english": "Make yourself at home while I finish getting ready.",
+        "arabic": "خد راحتك كأنك في بيتك لحد ما أخلّص لبس."
+      },
+      {
+        "english": "Come in and make yourself at home.",
+        "arabic": "اتفضل واعتبر نفسك في بيتك."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 198,
+    "categories": [
+      "c12"
+    ],
+    "related": [
+      "v25b22b2593b4"
+    ]
+  },
+  {
+    "id": "p199",
+    "kind": "pattern",
+    "english": "… is on me.",
+    "arabic": "أنا اللي هدفع تمن … / … على حسابي.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "Lunch is on me today.",
+        "arabic": "الغدا على حسابي النهارده."
+      },
+      {
+        "english": "The coffee’s on me—you paid last time.",
+        "arabic": "القهوة على حسابي. إنت دفعت المرة اللي فاتت."
+      },
+      {
+        "english": "This one’s on me. Thanks for helping me move.",
+        "arabic": "المرة دي على حسابي. شكرًا إنك ساعدتني في النقل."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 199,
+    "categories": [
+      "c12"
+    ],
+    "related": []
+  },
+  {
+    "id": "p200",
+    "kind": "pattern",
+    "english": "I’ll make it up to you …",
+    "arabic": "هعوّضك … / هردّهالك بحاجة حلوة.",
+    "usage": [],
+    "variations": [
+      {
+        "english": "I’ll make it up to you for cancelling at the last minute.",
+        "arabic": "هعوّضك عن إني لغيت في آخر لحظة."
+      },
+      {
+        "english": "I’ll make it up to you. Dinner’s on me next time.",
+        "arabic": "هعوّضك. العشا على حسابي المرة الجاية."
+      },
+      {
+        "english": "I know you had to wait. I’ll make it up to you.",
+        "arabic": "عارف إنك اضطريت تستناني. هعوّضك."
+      }
+    ],
+    "source": "100-more-english-speaking-patterns-101-200(1).md",
+    "sourceNumber": 200,
+    "categories": [
+      "c12"
+    ],
+    "related": [
+      "v0584e1c4c6da"
+    ]
+  }
+]

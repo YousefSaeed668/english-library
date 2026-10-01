@@ -1,0 +1,198 @@
+[
+  {
+    "id": "c01",
+    "name": "Conversation starters",
+    "prompt": "Talk to someone you have not seen for a month. Ask three follow-up questions.",
+    "vocabularyCount": 64,
+    "patternCount": 15
+  },
+  {
+    "id": "c02",
+    "name": "Clarifying & remembering",
+    "prompt": "Explain a misunderstanding, then correct something you said.",
+    "vocabularyCount": 40,
+    "patternCount": 20
+  },
+  {
+    "id": "c03",
+    "name": "Opinions & priorities",
+    "prompt": "Compare two weekend plans and explain which you prefer.",
+    "vocabularyCount": 73,
+    "patternCount": 9
+  },
+  {
+    "id": "c04",
+    "name": "Agreement & reactions",
+    "prompt": "Respond to good news, bad news, and an opinion you disagree with.",
+    "vocabularyCount": 61,
+    "patternCount": 13
+  },
+  {
+    "id": "c05",
+    "name": "Reasons & connections",
+    "prompt": "Explain why you changed a plan and what happened as a result.",
+    "vocabularyCount": 57,
+    "patternCount": 11
+  },
+  {
+    "id": "c06",
+    "name": "Uncertainty & expectations",
+    "prompt": "Talk about a plan that is not certain yet. Separate what you know from what you guess.",
+    "vocabularyCount": 69,
+    "patternCount": 10
+  },
+  {
+    "id": "c07",
+    "name": "Stories & experiences",
+    "prompt": "Tell a two-minute story about a day when something went wrong.",
+    "vocabularyCount": 61,
+    "patternCount": 30
+  },
+  {
+    "id": "c08",
+    "name": "Time & scheduling",
+    "prompt": "Describe how your routine now differs from your routine a year ago.",
+    "vocabularyCount": 57,
+    "patternCount": 11
+  },
+  {
+    "id": "c09",
+    "name": "Plans & decisions",
+    "prompt": "Plan a day out with a friend. Discuss two options and a backup plan.",
+    "vocabularyCount": 63,
+    "patternCount": 16
+  },
+  {
+    "id": "c10",
+    "name": "Feelings & emotions",
+    "prompt": "Describe a stressful day and how your feelings changed.",
+    "vocabularyCount": 61,
+    "patternCount": 11
+  },
+  {
+    "id": "c11",
+    "name": "People & behaviour",
+    "prompt": "Describe someone you enjoy spending time with. Give examples of their behaviour.",
+    "vocabularyCount": 63,
+    "patternCount": 0
+  },
+  {
+    "id": "c12",
+    "name": "Relationships & social life",
+    "prompt": "Talk about how you met a friend and how you keep in touch.",
+    "vocabularyCount": 100,
+    "patternCount": 8
+  },
+  {
+    "id": "c13",
+    "name": "Problems & solutions",
+    "prompt": "Explain a recent problem, what you tried, and how you solved it.",
+    "vocabularyCount": 100,
+    "patternCount": 12
+  },
+  {
+    "id": "c14",
+    "name": "Change & habits",
+    "prompt": "Describe a habit you are changing and the progress you have made.",
+    "vocabularyCount": 40,
+    "patternCount": 14
+  },
+  {
+    "id": "c15",
+    "name": "Work & responsibilities",
+    "prompt": "Explain a busy workday, ask for help, and update a colleague.",
+    "vocabularyCount": 64,
+    "patternCount": 4
+  },
+  {
+    "id": "c16",
+    "name": "Learning & skills",
+    "prompt": "Explain what you are learning, what feels difficult, and how you practise.",
+    "vocabularyCount": 74,
+    "patternCount": 0
+  },
+  {
+    "id": "c17",
+    "name": "Home & routines",
+    "prompt": "Describe a typical day at home and three tasks you have been putting off.",
+    "vocabularyCount": 65,
+    "patternCount": 0
+  },
+  {
+    "id": "c18",
+    "name": "Money & shopping",
+    "prompt": "Compare two things you might buy. Explain the price, value, and your budget.",
+    "vocabularyCount": 67,
+    "patternCount": 0
+  },
+  {
+    "id": "c19",
+    "name": "Food & eating out",
+    "prompt": "Describe cooking a meal, then role-play ordering food in a restaurant.",
+    "vocabularyCount": 62,
+    "patternCount": 0
+  },
+  {
+    "id": "c20",
+    "name": "Travel & transport",
+    "prompt": "Tell someone how to reach your home, then describe a difficult journey.",
+    "vocabularyCount": 65,
+    "patternCount": 0
+  },
+  {
+    "id": "c21",
+    "name": "Health & energy",
+    "prompt": "Describe how you feel today and how sleep or exercise affects your energy.",
+    "vocabularyCount": 67,
+    "patternCount": 0
+  },
+  {
+    "id": "c22",
+    "name": "Digital life & entertainment",
+    "prompt": "Explain a problem on a video call, then recommend a series or film.",
+    "vocabularyCount": 65,
+    "patternCount": 0
+  },
+  {
+    "id": "c23",
+    "name": "Descriptions & comparisons",
+    "prompt": "Compare two places you have lived or visited, using specific details.",
+    "vocabularyCount": 73,
+    "patternCount": 3
+  },
+  {
+    "id": "c24",
+    "name": "Everyday actions",
+    "prompt": "Tell a story about losing something and trying to find it.",
+    "vocabularyCount": 40,
+    "patternCount": 0
+  },
+  {
+    "id": "c25",
+    "name": "Requests & boundaries",
+    "prompt": "Make a polite request, turn down an invitation, and apologize for a mistake.",
+    "vocabularyCount": 74,
+    "patternCount": 14
+  },
+  {
+    "id": "c26",
+    "name": "Explaining ideas",
+    "prompt": "Explain a decision, suggest a solution, and persuade a friend to try it.",
+    "vocabularyCount": 40,
+    "patternCount": 0
+  },
+  {
+    "id": "c27",
+    "name": "Preferences & interests",
+    "prompt": "Choose three expressions. Make a true sentence with each, then speak for one minute without reading.",
+    "vocabularyCount": 40,
+    "patternCount": 5
+  },
+  {
+    "id": "c28",
+    "name": "Services & bookings",
+    "prompt": "Choose three expressions. Make a true sentence with each, then speak for one minute without reading.",
+    "vocabularyCount": 40,
+    "patternCount": 0
+  }
+]

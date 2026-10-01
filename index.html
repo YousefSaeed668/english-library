@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Spoken English Library</title>
+<meta name="description" content="An English–Arabic notebook for everyday spoken English. Explore vocabulary, reusable patterns and calm active-recall practice.">
+<meta name="theme-color" content="#ec7f13">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%23ec7f13'/%3E%3Cpath d='M8 8h16v16H8zM12 12h8M12 16h8M12 20h4' fill='none' stroke='%23171717' stroke-width='2'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="css/styles.css">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem('sel-theme')||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch(e){document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}</script>
+<script src="js/data.js" defer></script><script src="js/storage.js" defer></script><script src="js/search.js" defer></script><script src="js/study.js" defer></script><script src="js/app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+<a href="#home" class="brand" aria-label="Spoken English Library home"><span class="brand-mark">en<span>↗</span></span><span>Spoken English<span class="brand-sub">THE PERSONAL LIBRARY</span></span></a>
+<div class="global-search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><label class="sr-only" for="search">Search English, Arabic, examples and patterns</label><input id="search" type="search" autocomplete="off" placeholder="Search English or Arabic…"><kbd>/</kbd></div>
+<button id="theme" class="icon-button" aria-label="Toggle dark mode" title="Toggle dark mode">◐</button>
+<button id="menu" class="icon-button mobile-menu" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+</header>
+<div class="shell"><aside id="sidebar"><nav aria-label="Main navigation">
+<a href="#home" data-nav="home"><span aria-hidden="true">⌂</span> Home</a>
+<a href="#vocabulary" data-nav="vocabulary"><span aria-hidden="true">Aa</span> Vocabulary</a>
+<a href="#patterns" data-nav="patterns"><span aria-hidden="true">≋</span> Patterns</a>
+<a href="#study" data-nav="study"><span aria-hidden="true">▱</span> Study</a>
+<a href="#saved" data-nav="saved"><span aria-hidden="true">♡</span> Saved</a>
+<a href="#progress" data-nav="progress"><span aria-hidden="true">◴</span> Progress</a>
+</nav><div class="sidebar-bottom"><a href="#toolbox">Speaking toolbox ↗</a><p>A little practice.<br>A little more confidence.</p><button class="text-button" data-action="settings">Settings & backup</button></div></aside>
+<main id="main" tabindex="-1"><p class="muted">Opening your library…</p></main></div>
+<dialog id="details" aria-labelledby="detail-title"></dialog>
+<dialog id="settings" aria-labelledby="settings-title"></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<noscript>This study library needs JavaScript enabled. The original learning materials are also included in the sources folder.</noscript>
+</body></html>
